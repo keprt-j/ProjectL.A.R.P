@@ -97,3 +97,5 @@ Daily rolls append below. May the dice be ever in your favor.
 [2026-08-07 23:06:20Z] roll=66 line 54/66 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-08-07 23:06:20Z] roll=66 line 55/66 — Finish him!
 [2026-08-07 23:06:20Z] roll=66 line 56/66 — Frankly, my dear, I don't give a damn.
+[2026-08-07 23:06:20Z] roll=66 line 57/66 — There's no place like home.
+[2026-08-07 23:06:20Z] roll=66 line 58/66 — I can do this all day.
