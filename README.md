@@ -22,3 +22,5 @@ python3 bot.py --dry-run    # preview only
 python3 bot.py --roll 100   # force a roll
 python3 bot.py --no-push    # commit locally only
 ```
+
+This is just to boost the number of commits I have because having a blank commit graph is cringe and i just cant stand for that
