@@ -15,3 +15,5 @@ Daily rolls append below. May the dice be ever in your favor.
 [2026-08-07 23:02:23Z] roll=38 line 10/38 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-08-07 23:02:23Z] roll=38 line 11/38 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-08-07 23:02:23Z] roll=38 line 12/38 — I want to believe.
+[2026-08-07 23:02:23Z] roll=38 line 13/38 — Do a barrel roll!
+[2026-08-07 23:02:23Z] roll=38 line 14/38 — Hasta la vista, baby.
