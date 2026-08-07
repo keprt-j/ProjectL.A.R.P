@@ -58,6 +58,8 @@ LINE_POOL = [
     "Elementary, my dear Watson.",
     "All that is gold does not glitter.",
     "Not all those who wander are lost.",
+    "We didn't know we were making memories, we just knew we were having fun.",
+    "Let us go on and take the adventure that shall fall to us.",
     "So it goes.",
     "It was the best of times, it was the worst of times.",
     "Call me Ishmael.",
