@@ -134,12 +134,15 @@ def ensure_git_identity() -> None:
     name = git("config", "user.name", check=False)
     email = git("config", "user.email", check=False)
     if name.returncode != 0 or not name.stdout.strip():
-        git("config", "user.name", os.environ.get("GIT_AUTHOR_NAME", "LARP Cron Bot"))
+        git("config", "user.name", os.environ.get("GIT_AUTHOR_NAME", "keprt-j"))
     if email.returncode != 0 or not email.stdout.strip():
         git(
             "config",
             "user.email",
-            os.environ.get("GIT_AUTHOR_EMAIL", "larp-cron-bot@users.noreply.github.com"),
+            os.environ.get(
+                "GIT_AUTHOR_EMAIL",
+                "181767491+keprt-j@users.noreply.github.com",
+            ),
         )
 
 
