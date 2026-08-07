@@ -27,3 +27,5 @@ Daily rolls append below. May the dice be ever in your favor.
 [2026-08-07 23:02:23Z] roll=38 line 22/38 — I see dead people.
 [2026-08-07 23:02:23Z] roll=38 line 23/38 — You shall not pass!
 [2026-08-07 23:02:23Z] roll=38 line 24/38 — Nobody puts Baby in a corner.
+[2026-08-07 23:02:23Z] roll=38 line 25/38 — Here's Johnny!
+[2026-08-07 23:02:23Z] roll=38 line 26/38 — Houston, we have a problem.
