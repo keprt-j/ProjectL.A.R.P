@@ -29,3 +29,5 @@ Daily rolls append below. May the dice be ever in your favor.
 [2026-08-07 23:02:23Z] roll=38 line 24/38 — Nobody puts Baby in a corner.
 [2026-08-07 23:02:23Z] roll=38 line 25/38 — Here's Johnny!
 [2026-08-07 23:02:23Z] roll=38 line 26/38 — Houston, we have a problem.
+[2026-08-07 23:02:23Z] roll=38 line 27/38 — This is the way.
+[2026-08-07 23:02:23Z] roll=38 line 28/38 — I'll get you, my pretty, and your little dog too!
