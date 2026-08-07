@@ -41,3 +41,5 @@ Daily rolls append below. May the dice be ever in your favor.
 [2026-08-07 23:02:23Z] roll=38 line 36/38 — You talking to me?
 [2026-08-07 23:02:23Z] roll=38 line 37/38 — Say my name.
 [2026-08-07 23:02:23Z] roll=38 line 38/38 — Keep your friends close, but your enemies closer.
+[2026-08-07 23:06:20Z] roll=66 line 1/66 — This is the way.
+[2026-08-07 23:06:20Z] roll=66 line 2/66 — All that is gold does not glitter.
