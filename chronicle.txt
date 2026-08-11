@@ -363,3 +363,5 @@ and our sacred Honor.
 [2026-08-11 14:48:52Z] roll=44 line 22/44 — This is the way.
 [2026-08-11 14:48:52Z] roll=44 line 23/44 — Engage.
 [2026-08-11 14:48:52Z] roll=44 line 24/44 — We didn't know we were making memories, we just knew we were having fun.
+[2026-08-11 14:48:52Z] roll=44 line 25/44 — Call me Ishmael.
+[2026-08-11 14:48:52Z] roll=44 line 26/44 — All that is gold does not glitter.
