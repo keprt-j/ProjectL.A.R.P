@@ -351,3 +351,5 @@ and our sacred Honor.
 [2026-08-11 14:48:52Z] roll=44 line 10/44 — Hasta la vista, baby.
 [2026-08-11 14:48:52Z] roll=44 line 11/44 — Life is like a box of chocolates.
 [2026-08-11 14:48:52Z] roll=44 line 12/44 — I'm the king of the world!
+[2026-08-11 14:48:52Z] roll=44 line 13/44 — I see dead people.
+[2026-08-11 14:48:52Z] roll=44 line 14/44 — Keep your friends close, but your enemies closer.
