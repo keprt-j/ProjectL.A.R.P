@@ -359,3 +359,5 @@ and our sacred Honor.
 [2026-08-11 14:48:52Z] roll=44 line 18/44 — I drink your milkshake!
 [2026-08-11 14:48:52Z] roll=44 line 19/44 — In a hole in the ground there lived a hobbit.
 [2026-08-11 14:48:52Z] roll=44 line 20/44 — Resistance is futile.
+[2026-08-11 14:48:52Z] roll=44 line 21/44 — I'm going to make him an offer he can't refuse.
+[2026-08-11 14:48:52Z] roll=44 line 22/44 — This is the way.
