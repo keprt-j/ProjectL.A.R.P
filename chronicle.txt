@@ -377,3 +377,5 @@ and our sacred Honor.
 [2026-08-11 14:48:52Z] roll=44 line 36/44 — We were on a break!
 [2026-08-11 14:48:52Z] roll=44 line 37/44 — Bazinga!
 [2026-08-11 14:48:52Z] roll=44 line 38/44 — Go ahead, make my day.
+[2026-08-11 14:48:52Z] roll=44 line 39/44 — Hakuna Matata.
+[2026-08-11 14:48:52Z] roll=44 line 40/44 — The first rule of Fight Club is: you do not talk about Fight Club.
