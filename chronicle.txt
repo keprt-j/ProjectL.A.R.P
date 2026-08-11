@@ -345,3 +345,5 @@ and our sacred Honor.
 [2026-08-11 14:48:52Z] roll=44 line 4/44 — All your base are belong to us.
 [2026-08-11 14:48:52Z] roll=44 line 5/44 — Get to the chopper!
 [2026-08-11 14:48:52Z] roll=44 line 6/44 — You talking to me?
+[2026-08-11 14:48:52Z] roll=44 line 7/44 — Clear eyes, full hearts, can't lose.
+[2026-08-11 14:48:52Z] roll=44 line 8/44 — The cake is a lie.
