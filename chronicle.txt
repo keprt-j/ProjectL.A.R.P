@@ -343,3 +343,5 @@ and our sacred Honor.
 [2026-08-11 14:48:52Z] roll=44 line 2/44 — Bazinga!
 [2026-08-11 14:48:52Z] roll=44 line 3/44 — How you doin'?
 [2026-08-11 14:48:52Z] roll=44 line 4/44 — All your base are belong to us.
+[2026-08-11 14:48:52Z] roll=44 line 5/44 — Get to the chopper!
+[2026-08-11 14:48:52Z] roll=44 line 6/44 — You talking to me?
