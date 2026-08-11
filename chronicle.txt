@@ -381,3 +381,5 @@ and our sacred Honor.
 [2026-08-11 14:48:52Z] roll=44 line 40/44 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-08-11 14:48:52Z] roll=44 line 41/44 — A man chooses. A slave obeys.
 [2026-08-11 14:48:52Z] roll=44 line 42/44 — The truth is out there.
+[2026-08-11 14:48:52Z] roll=44 line 43/44 — This is the way.
+[2026-08-11 14:48:52Z] roll=44 line 44/44 — The truth is out there.
