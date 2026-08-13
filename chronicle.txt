@@ -389,3 +389,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 1/53 — I solemnly swear that I am up to no good.
 [2026-08-13 14:49:04Z] roll=53 line 2/53 — Engage.
 [2026-08-13 14:49:04Z] roll=53 line 3/53 — That's what she said.
+[2026-08-13 14:49:04Z] roll=53 line 4/53 — Engage.
+[2026-08-13 14:49:04Z] roll=53 line 5/53 — That's what she said.
