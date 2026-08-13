@@ -437,3 +437,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 49/53 — It's dangerous to go alone! Take this.
 [2026-08-13 14:49:04Z] roll=53 line 50/53 — I'll be back.
 [2026-08-13 14:49:04Z] roll=53 line 51/53 — Say my name.
+[2026-08-13 14:49:04Z] roll=53 line 52/53 — Say my name.
+[2026-08-13 14:49:04Z] roll=53 line 53/53 — I drink your milkshake!
