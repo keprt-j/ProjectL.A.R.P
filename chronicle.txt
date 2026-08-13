@@ -419,3 +419,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 31/53 — Hakuna Matata.
 [2026-08-13 14:49:04Z] roll=53 line 32/53 — There's a snake in my boots!
 [2026-08-13 14:49:04Z] roll=53 line 33/53 — You died.
+[2026-08-13 14:49:04Z] roll=53 line 34/53 — Do or do not. There is no try.
+[2026-08-13 14:49:04Z] roll=53 line 35/53 — The cake is a lie.
