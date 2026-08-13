@@ -423,3 +423,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 35/53 — The cake is a lie.
 [2026-08-13 14:49:04Z] roll=53 line 36/53 — Why so serious?
 [2026-08-13 14:49:04Z] roll=53 line 37/53 — Keep your friends close, but your enemies closer.
+[2026-08-13 14:49:04Z] roll=53 line 38/53 — There's no place like home.
+[2026-08-13 14:49:04Z] roll=53 line 39/53 — Stay awhile and listen.
