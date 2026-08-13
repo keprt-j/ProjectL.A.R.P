@@ -399,3 +399,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 11/53 — You can't handle the truth!
 [2026-08-13 14:49:04Z] roll=53 line 12/53 — I want to believe.
 [2026-08-13 14:49:04Z] roll=53 line 13/53 — Carpe diem. Seize the day.
+[2026-08-13 14:49:04Z] roll=53 line 14/53 — Call me Ishmael.
+[2026-08-13 14:49:04Z] roll=53 line 15/53 — Nobody puts Baby in a corner.
