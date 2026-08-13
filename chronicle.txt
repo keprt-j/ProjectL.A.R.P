@@ -433,3 +433,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 45/53 — I can do this all day.
 [2026-08-13 14:49:04Z] roll=53 line 46/53 — My precious.
 [2026-08-13 14:49:04Z] roll=53 line 47/53 — I'm the king of the world!
+[2026-08-13 14:49:04Z] roll=53 line 48/53 — Would you kindly?
+[2026-08-13 14:49:04Z] roll=53 line 49/53 — It's dangerous to go alone! Take this.
