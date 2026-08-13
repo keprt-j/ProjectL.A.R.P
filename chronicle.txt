@@ -415,3 +415,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 27/53 — Finish him!
 [2026-08-13 14:49:04Z] roll=53 line 28/53 — You died.
 [2026-08-13 14:49:04Z] roll=53 line 29/53 — My precious.
+[2026-08-13 14:49:04Z] roll=53 line 30/53 — I am the one who knocks.
+[2026-08-13 14:49:04Z] roll=53 line 31/53 — Hakuna Matata.
