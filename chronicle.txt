@@ -395,3 +395,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 7/53 — Bazinga!
 [2026-08-13 14:49:04Z] roll=53 line 8/53 — Engage.
 [2026-08-13 14:49:04Z] roll=53 line 9/53 — Do a barrel roll!
+[2026-08-13 14:49:04Z] roll=53 line 10/53 — Excelsior!
+[2026-08-13 14:49:04Z] roll=53 line 11/53 — You can't handle the truth!
