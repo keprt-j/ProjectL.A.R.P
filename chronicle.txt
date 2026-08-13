@@ -411,3 +411,5 @@ and our sacred Honor.
 [2026-08-13 14:49:04Z] roll=53 line 23/53 — How you doin'?
 [2026-08-13 14:49:04Z] roll=53 line 24/53 — Shaken, not stirred.
 [2026-08-13 14:49:04Z] roll=53 line 25/53 — Shaken, not stirred.
+[2026-08-13 14:49:04Z] roll=53 line 26/53 — Roads? Where we're going, we don't need roads.
+[2026-08-13 14:49:04Z] roll=53 line 27/53 — Finish him!
