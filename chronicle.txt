@@ -452,3 +452,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 5/47 — Elementary, my dear Watson.
 [2026-08-16 14:11:13Z] roll=47 line 6/47 — I am your father.
 [2026-08-16 14:11:13Z] roll=47 line 7/47 — Here's Johnny!
+[2026-08-16 14:11:13Z] roll=47 line 8/47 — After all, tomorrow is another day!
+[2026-08-16 14:11:13Z] roll=47 line 9/47 — I'm the king of the world!
