@@ -486,3 +486,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 39/47 — It's alive! It's alive!
 [2026-08-16 14:11:13Z] roll=47 line 40/47 — You died.
 [2026-08-16 14:11:13Z] roll=47 line 41/47 — Stay awhile and listen.
+[2026-08-16 14:11:13Z] roll=47 line 42/47 — It's alive! It's alive!
+[2026-08-16 14:11:13Z] roll=47 line 43/47 — There's no place like home.
