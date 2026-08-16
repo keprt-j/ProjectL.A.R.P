@@ -474,3 +474,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 27/47 — To boldly go where no one has gone before.
 [2026-08-16 14:11:13Z] roll=47 line 28/47 — I'll have what she's having.
 [2026-08-16 14:11:13Z] roll=47 line 29/47 — Just keep swimming.
+[2026-08-16 14:11:13Z] roll=47 line 30/47 — Life is like a box of chocolates.
+[2026-08-16 14:11:13Z] roll=47 line 31/47 — You can't handle the truth!
