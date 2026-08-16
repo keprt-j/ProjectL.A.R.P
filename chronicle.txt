@@ -468,3 +468,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 21/47 — Space: the final frontier.
 [2026-08-16 14:11:13Z] roll=47 line 22/47 — Praise the Sun!
 [2026-08-16 14:11:13Z] roll=47 line 23/47 — Elementary, my dear Watson.
+[2026-08-16 14:11:13Z] roll=47 line 24/47 — War. War never changes.
+[2026-08-16 14:11:13Z] roll=47 line 25/47 — All your base are belong to us.
