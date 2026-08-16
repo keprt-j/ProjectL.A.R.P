@@ -480,3 +480,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 33/47 — Just keep swimming.
 [2026-08-16 14:11:13Z] roll=47 line 34/47 — You can't handle the truth!
 [2026-08-16 14:11:13Z] roll=47 line 35/47 — Winter is coming.
+[2026-08-16 14:11:13Z] roll=47 line 36/47 — To boldly go where no one has gone before.
+[2026-08-16 14:11:13Z] roll=47 line 37/47 — Space: the final frontier.
