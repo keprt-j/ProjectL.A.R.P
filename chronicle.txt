@@ -456,3 +456,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 9/47 — I'm the king of the world!
 [2026-08-16 14:11:13Z] roll=47 line 10/47 — Hakuna Matata.
 [2026-08-16 14:11:13Z] roll=47 line 11/47 — Just keep swimming.
+[2026-08-16 14:11:13Z] roll=47 line 12/47 — Valar morghulis.
+[2026-08-16 14:11:13Z] roll=47 line 13/47 — Call me Ishmael.
