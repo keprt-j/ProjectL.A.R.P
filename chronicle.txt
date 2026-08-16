@@ -484,3 +484,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 37/47 — Space: the final frontier.
 [2026-08-16 14:11:13Z] roll=47 line 38/47 — Hakuna Matata.
 [2026-08-16 14:11:13Z] roll=47 line 39/47 — It's alive! It's alive!
+[2026-08-16 14:11:13Z] roll=47 line 40/47 — You died.
+[2026-08-16 14:11:13Z] roll=47 line 41/47 — Stay awhile and listen.
