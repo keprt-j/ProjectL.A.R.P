@@ -470,3 +470,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 23/47 — Elementary, my dear Watson.
 [2026-08-16 14:11:13Z] roll=47 line 24/47 — War. War never changes.
 [2026-08-16 14:11:13Z] roll=47 line 25/47 — All your base are belong to us.
+[2026-08-16 14:11:13Z] roll=47 line 26/47 — Do a barrel roll!
+[2026-08-16 14:11:13Z] roll=47 line 27/47 — To boldly go where no one has gone before.
