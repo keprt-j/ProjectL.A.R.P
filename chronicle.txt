@@ -490,3 +490,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 43/47 — There's no place like home.
 [2026-08-16 14:11:13Z] roll=47 line 44/47 — It's dangerous to go alone! Take this.
 [2026-08-16 14:11:13Z] roll=47 line 45/47 — It's alive! It's alive!
+[2026-08-16 14:11:13Z] roll=47 line 46/47 — Hasta la vista, baby.
+[2026-08-16 14:11:13Z] roll=47 line 47/47 — I'll have what she's having.
