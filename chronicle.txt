@@ -462,3 +462,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 15/47 — Live long and prosper.
 [2026-08-16 14:11:13Z] roll=47 line 16/47 — So it goes.
 [2026-08-16 14:11:13Z] roll=47 line 17/47 — You had me at hello.
+[2026-08-16 14:11:13Z] roll=47 line 18/47 — Great Scott!
+[2026-08-16 14:11:13Z] roll=47 line 19/47 — Hasta la vista, baby.
