@@ -494,3 +494,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 47/47 — I'll have what she's having.
 [2026-08-17 14:16:00Z] roll=20 line 1/20 — In a hole in the ground there lived a hobbit.
 [2026-08-17 14:16:00Z] roll=20 line 2/20 — You're gonna need a bigger boat.
+[2026-08-17 14:16:00Z] roll=20 line 3/20 — It's a-me, Mario!
+[2026-08-17 14:16:00Z] roll=20 line 4/20 — The name's Bond. James Bond.
