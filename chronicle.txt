@@ -508,3 +508,5 @@ and our sacred Honor.
 [2026-08-17 14:16:00Z] roll=20 line 14/20 — Bazinga!
 [2026-08-17 14:16:00Z] roll=20 line 15/20 — Valar morghulis.
 [2026-08-17 14:16:00Z] roll=20 line 16/20 — Say my name.
+[2026-08-17 14:16:00Z] roll=20 line 17/20 — I want to believe.
+[2026-08-17 14:16:00Z] roll=20 line 18/20 — After all, tomorrow is another day!
