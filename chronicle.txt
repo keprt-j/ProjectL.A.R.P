@@ -510,3 +510,5 @@ and our sacred Honor.
 [2026-08-17 14:16:00Z] roll=20 line 16/20 — Say my name.
 [2026-08-17 14:16:00Z] roll=20 line 17/20 — I want to believe.
 [2026-08-17 14:16:00Z] roll=20 line 18/20 — After all, tomorrow is another day!
+[2026-08-17 14:16:00Z] roll=20 line 19/20 — You shall not pass!
+[2026-08-17 14:16:00Z] roll=20 line 20/20 — Valar morghulis.
