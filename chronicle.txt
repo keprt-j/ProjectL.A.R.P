@@ -498,3 +498,5 @@ and our sacred Honor.
 [2026-08-17 14:16:00Z] roll=20 line 4/20 — The name's Bond. James Bond.
 [2026-08-17 14:16:00Z] roll=20 line 5/20 — Hasta la vista, baby.
 [2026-08-17 14:16:00Z] roll=20 line 6/20 — That'll do, pig. That'll do.
+[2026-08-17 14:16:00Z] roll=20 line 7/20 — We were on a break!
+[2026-08-17 14:16:00Z] roll=20 line 8/20 — Would you kindly?
