@@ -506,3 +506,5 @@ and our sacred Honor.
 [2026-08-17 14:16:00Z] roll=20 line 12/20 — I am the one who knocks.
 [2026-08-17 14:16:00Z] roll=20 line 13/20 — May the Force be with you.
 [2026-08-17 14:16:00Z] roll=20 line 14/20 — Bazinga!
+[2026-08-17 14:16:00Z] roll=20 line 15/20 — Valar morghulis.
+[2026-08-17 14:16:00Z] roll=20 line 16/20 — Say my name.
