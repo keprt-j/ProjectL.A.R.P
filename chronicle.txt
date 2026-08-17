@@ -492,3 +492,5 @@ and our sacred Honor.
 [2026-08-16 14:11:13Z] roll=47 line 45/47 — It's alive! It's alive!
 [2026-08-16 14:11:13Z] roll=47 line 46/47 — Hasta la vista, baby.
 [2026-08-16 14:11:13Z] roll=47 line 47/47 — I'll have what she's having.
+[2026-08-17 14:16:00Z] roll=20 line 1/20 — In a hole in the ground there lived a hobbit.
+[2026-08-17 14:16:00Z] roll=20 line 2/20 — You're gonna need a bigger boat.
