@@ -539,3 +539,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 25/69 — It's alive! It's alive!
 [2026-08-18 14:21:05Z] roll=69 line 26/69 — In a hole in the ground there lived a hobbit.
 [2026-08-18 14:21:05Z] roll=69 line 27/69 — Elementary, my dear Watson.
+[2026-08-18 14:21:05Z] roll=69 line 28/69 — Resistance is futile.
+[2026-08-18 14:21:05Z] roll=69 line 29/69 — Here's looking at you, kid.
