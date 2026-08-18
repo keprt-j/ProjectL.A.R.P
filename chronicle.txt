@@ -577,3 +577,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 63/69 — Say my name.
 [2026-08-18 14:21:05Z] roll=69 line 64/69 — Not all those who wander are lost.
 [2026-08-18 14:21:05Z] roll=69 line 65/69 — Just keep swimming.
+[2026-08-18 14:21:05Z] roll=69 line 66/69 — To infinity and beyond!
+[2026-08-18 14:21:05Z] roll=69 line 67/69 — A man chooses. A slave obeys.
