@@ -517,3 +517,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 3/69 — You had me at hello.
 [2026-08-18 14:21:05Z] roll=69 line 4/69 — I feel the need—the need for speed!
 [2026-08-18 14:21:05Z] roll=69 line 5/69 — Hadouken!
+[2026-08-18 14:21:05Z] roll=69 line 6/69 — Valar morghulis.
+[2026-08-18 14:21:05Z] roll=69 line 7/69 — Here's Johnny!
