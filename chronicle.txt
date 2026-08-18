@@ -575,3 +575,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 61/69 — The name's Bond. James Bond.
 [2026-08-18 14:21:05Z] roll=69 line 62/69 — You died.
 [2026-08-18 14:21:05Z] roll=69 line 63/69 — Say my name.
+[2026-08-18 14:21:05Z] roll=69 line 64/69 — Not all those who wander are lost.
+[2026-08-18 14:21:05Z] roll=69 line 65/69 — Just keep swimming.
