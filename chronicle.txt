@@ -521,3 +521,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 7/69 — Here's Johnny!
 [2026-08-18 14:21:05Z] roll=69 line 8/69 — You had me at hello.
 [2026-08-18 14:21:05Z] roll=69 line 9/69 — Would you kindly?
+[2026-08-18 14:21:05Z] roll=69 line 10/69 — The truth is out there.
+[2026-08-18 14:21:05Z] roll=69 line 11/69 — The name's Bond. James Bond.
