@@ -561,3 +561,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 47/69 — Great Scott!
 [2026-08-18 14:21:05Z] roll=69 line 48/69 — We rob banks.
 [2026-08-18 14:21:05Z] roll=69 line 49/69 — I solemnly swear that I am up to no good.
+[2026-08-18 14:21:05Z] roll=69 line 50/69 — There's no place like home.
+[2026-08-18 14:21:05Z] roll=69 line 51/69 — Snakes. Why did it have to be snakes?
