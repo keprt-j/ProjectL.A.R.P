@@ -525,3 +525,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 11/69 — The name's Bond. James Bond.
 [2026-08-18 14:21:05Z] roll=69 line 12/69 — Resistance is futile.
 [2026-08-18 14:21:05Z] roll=69 line 13/69 — So it goes.
+[2026-08-18 14:21:05Z] roll=69 line 14/69 — Winter is coming.
+[2026-08-18 14:21:05Z] roll=69 line 15/69 — Here's Johnny!
