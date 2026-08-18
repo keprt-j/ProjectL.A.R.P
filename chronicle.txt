@@ -565,3 +565,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 51/69 — Snakes. Why did it have to be snakes?
 [2026-08-18 14:21:05Z] roll=69 line 52/69 — The spice must flow.
 [2026-08-18 14:21:05Z] roll=69 line 53/69 — Here's Johnny!
+[2026-08-18 14:21:05Z] roll=69 line 54/69 — I drink your milkshake!
+[2026-08-18 14:21:05Z] roll=69 line 55/69 — The spice must flow.
