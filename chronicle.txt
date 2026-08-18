@@ -545,3 +545,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 31/69 — I am the one who knocks.
 [2026-08-18 14:21:05Z] roll=69 line 32/69 — Bazinga!
 [2026-08-18 14:21:05Z] roll=69 line 33/69 — Say hello to my little friend!
+[2026-08-18 14:21:05Z] roll=69 line 34/69 — Let us go on and take the adventure that shall fall to us.
+[2026-08-18 14:21:05Z] roll=69 line 35/69 — War. War never changes.
