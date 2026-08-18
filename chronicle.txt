@@ -527,3 +527,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 13/69 — So it goes.
 [2026-08-18 14:21:05Z] roll=69 line 14/69 — Winter is coming.
 [2026-08-18 14:21:05Z] roll=69 line 15/69 — Here's Johnny!
+[2026-08-18 14:21:05Z] roll=69 line 16/69 — I am Iron Man.
+[2026-08-18 14:21:05Z] roll=69 line 17/69 — Stay awhile and listen.
