@@ -529,3 +529,5 @@ and our sacred Honor.
 [2026-08-18 14:21:05Z] roll=69 line 15/69 — Here's Johnny!
 [2026-08-18 14:21:05Z] roll=69 line 16/69 — I am Iron Man.
 [2026-08-18 14:21:05Z] roll=69 line 17/69 — Stay awhile and listen.
+[2026-08-18 14:21:05Z] roll=69 line 18/69 — We were on a break!
+[2026-08-18 14:21:05Z] roll=69 line 19/69 — Hasta la vista, baby.
