@@ -648,3 +648,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 65/75 — That's what she said.
 [2026-08-19 14:21:21Z] roll=75 line 66/75 — I'll be back.
 [2026-08-19 14:21:21Z] roll=75 line 67/75 — Carpe diem. Seize the day.
+[2026-08-19 14:21:21Z] roll=75 line 68/75 — Hasta la vista, baby.
+[2026-08-19 14:21:21Z] roll=75 line 69/75 — I see dead people.
