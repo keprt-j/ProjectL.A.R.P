@@ -644,3 +644,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 61/75 — Excelsior!
 [2026-08-19 14:21:21Z] roll=75 line 62/75 — Roads? Where we're going, we don't need roads.
 [2026-08-19 14:21:21Z] roll=75 line 63/75 — Winter is coming.
+[2026-08-19 14:21:21Z] roll=75 line 64/75 — Great Scott!
+[2026-08-19 14:21:21Z] roll=75 line 65/75 — That's what she said.
