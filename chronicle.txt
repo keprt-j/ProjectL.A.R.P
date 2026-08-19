@@ -626,3 +626,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 43/75 — Carpe diem. Seize the day.
 [2026-08-19 14:21:21Z] roll=75 line 44/75 — Roads? Where we're going, we don't need roads.
 [2026-08-19 14:21:21Z] roll=75 line 45/75 — To boldly go where no one has gone before.
+[2026-08-19 14:21:21Z] roll=75 line 46/75 — Valar morghulis.
+[2026-08-19 14:21:21Z] roll=75 line 47/75 — Fear is the mind-killer.
