@@ -586,3 +586,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 3/75 — Valar morghulis.
 [2026-08-19 14:21:21Z] roll=75 line 4/75 — Not all those who wander are lost.
 [2026-08-19 14:21:21Z] roll=75 line 5/75 — Avengers, assemble!
+[2026-08-19 14:21:21Z] roll=75 line 6/75 — The name's Bond. James Bond.
+[2026-08-19 14:21:21Z] roll=75 line 7/75 — You died.
