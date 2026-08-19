@@ -608,3 +608,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 25/75 — Hasta la vista, baby.
 [2026-08-19 14:21:21Z] roll=75 line 26/75 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-08-19 14:21:21Z] roll=75 line 27/75 — Engage.
+[2026-08-19 14:21:21Z] roll=75 line 28/75 — To boldly go where no one has gone before.
+[2026-08-19 14:21:21Z] roll=75 line 29/75 — Finish him!
