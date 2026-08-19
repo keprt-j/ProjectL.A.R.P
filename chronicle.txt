@@ -650,3 +650,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 67/75 — Carpe diem. Seize the day.
 [2026-08-19 14:21:21Z] roll=75 line 68/75 — Hasta la vista, baby.
 [2026-08-19 14:21:21Z] roll=75 line 69/75 — I see dead people.
+[2026-08-19 14:21:21Z] roll=75 line 70/75 — That's what she said.
+[2026-08-19 14:21:21Z] roll=75 line 71/75 — That'll do, pig. That'll do.
