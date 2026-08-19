@@ -588,3 +588,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 5/75 — Avengers, assemble!
 [2026-08-19 14:21:21Z] roll=75 line 6/75 — The name's Bond. James Bond.
 [2026-08-19 14:21:21Z] roll=75 line 7/75 — You died.
+[2026-08-19 14:21:21Z] roll=75 line 8/75 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-08-19 14:21:21Z] roll=75 line 9/75 — Here's looking at you, kid.
