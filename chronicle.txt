@@ -598,3 +598,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 15/75 — A man chooses. A slave obeys.
 [2026-08-19 14:21:21Z] roll=75 line 16/75 — Finish him!
 [2026-08-19 14:21:21Z] roll=75 line 17/75 — Hadouken!
+[2026-08-19 14:21:21Z] roll=75 line 18/75 — Fear is the mind-killer.
+[2026-08-19 14:21:21Z] roll=75 line 19/75 — You can't handle the truth!
