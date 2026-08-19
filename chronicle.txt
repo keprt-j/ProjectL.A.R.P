@@ -584,3 +584,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 1/75 — Finish him!
 [2026-08-19 14:21:21Z] roll=75 line 2/75 — Space: the final frontier.
 [2026-08-19 14:21:21Z] roll=75 line 3/75 — Valar morghulis.
+[2026-08-19 14:21:21Z] roll=75 line 4/75 — Not all those who wander are lost.
+[2026-08-19 14:21:21Z] roll=75 line 5/75 — Avengers, assemble!
