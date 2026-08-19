@@ -632,3 +632,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 49/75 — Live long and prosper.
 [2026-08-19 14:21:21Z] roll=75 line 50/75 — May the Force be with you.
 [2026-08-19 14:21:21Z] roll=75 line 51/75 — That's what she said.
+[2026-08-19 14:21:21Z] roll=75 line 52/75 — Great Scott!
+[2026-08-19 14:21:21Z] roll=75 line 53/75 — Stay awhile and listen.
