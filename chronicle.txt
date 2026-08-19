@@ -602,3 +602,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 19/75 — You can't handle the truth!
 [2026-08-19 14:21:21Z] roll=75 line 20/75 — It was the best of times, it was the worst of times.
 [2026-08-19 14:21:21Z] roll=75 line 21/75 — I am the one who knocks.
+[2026-08-19 14:21:21Z] roll=75 line 22/75 — Elementary, my dear Watson.
+[2026-08-19 14:21:21Z] roll=75 line 23/75 — Praise the Sun!
