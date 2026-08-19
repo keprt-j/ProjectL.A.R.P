@@ -604,3 +604,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 21/75 — I am the one who knocks.
 [2026-08-19 14:21:21Z] roll=75 line 22/75 — Elementary, my dear Watson.
 [2026-08-19 14:21:21Z] roll=75 line 23/75 — Praise the Sun!
+[2026-08-19 14:21:21Z] roll=75 line 24/75 — I am Iron Man.
+[2026-08-19 14:21:21Z] roll=75 line 25/75 — Hasta la vista, baby.
