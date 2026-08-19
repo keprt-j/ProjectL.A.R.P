@@ -630,3 +630,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 47/75 — Fear is the mind-killer.
 [2026-08-19 14:21:21Z] roll=75 line 48/75 — Get to the chopper!
 [2026-08-19 14:21:21Z] roll=75 line 49/75 — Live long and prosper.
+[2026-08-19 14:21:21Z] roll=75 line 50/75 — May the Force be with you.
+[2026-08-19 14:21:21Z] roll=75 line 51/75 — That's what she said.
