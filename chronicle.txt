@@ -594,3 +594,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 11/75 — I want to believe.
 [2026-08-19 14:21:21Z] roll=75 line 12/75 — Call me Ishmael.
 [2026-08-19 14:21:21Z] roll=75 line 13/75 — We rob banks.
+[2026-08-19 14:21:21Z] roll=75 line 14/75 — You can't handle the truth!
+[2026-08-19 14:21:21Z] roll=75 line 15/75 — A man chooses. A slave obeys.
