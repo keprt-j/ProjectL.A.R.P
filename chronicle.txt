@@ -640,3 +640,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 57/75 — You died.
 [2026-08-19 14:21:21Z] roll=75 line 58/75 — That is so fetch.
 [2026-08-19 14:21:21Z] roll=75 line 59/75 — I'll get you, my pretty, and your little dog too!
+[2026-08-19 14:21:21Z] roll=75 line 60/75 — So it goes.
+[2026-08-19 14:21:21Z] roll=75 line 61/75 — Excelsior!
