@@ -592,3 +592,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 9/75 — Here's looking at you, kid.
 [2026-08-19 14:21:21Z] roll=75 line 10/75 — Would you kindly?
 [2026-08-19 14:21:21Z] roll=75 line 11/75 — I want to believe.
+[2026-08-19 14:21:21Z] roll=75 line 12/75 — Call me Ishmael.
+[2026-08-19 14:21:21Z] roll=75 line 13/75 — We rob banks.
