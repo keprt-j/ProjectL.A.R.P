@@ -622,3 +622,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 39/75 — There's no place like home.
 [2026-08-19 14:21:21Z] roll=75 line 40/75 — Just keep swimming.
 [2026-08-19 14:21:21Z] roll=75 line 41/75 — Space: the final frontier.
+[2026-08-19 14:21:21Z] roll=75 line 42/75 — Here's looking at you, kid.
+[2026-08-19 14:21:21Z] roll=75 line 43/75 — Carpe diem. Seize the day.
