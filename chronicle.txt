@@ -620,3 +620,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 37/75 — To boldly go where no one has gone before.
 [2026-08-19 14:21:21Z] roll=75 line 38/75 — Elementary, my dear Watson.
 [2026-08-19 14:21:21Z] roll=75 line 39/75 — There's no place like home.
+[2026-08-19 14:21:21Z] roll=75 line 40/75 — Just keep swimming.
+[2026-08-19 14:21:21Z] roll=75 line 41/75 — Space: the final frontier.
