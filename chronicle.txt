@@ -636,3 +636,5 @@ and our sacred Honor.
 [2026-08-19 14:21:21Z] roll=75 line 53/75 — Stay awhile and listen.
 [2026-08-19 14:21:21Z] roll=75 line 54/75 — I'm the king of the world!
 [2026-08-19 14:21:21Z] roll=75 line 55/75 — Here's looking at you, kid.
+[2026-08-19 14:21:21Z] roll=75 line 56/75 — We didn't know we were making memories, we just knew we were having fun.
+[2026-08-19 14:21:21Z] roll=75 line 57/75 — You died.
