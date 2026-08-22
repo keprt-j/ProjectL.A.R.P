@@ -664,3 +664,5 @@ and our sacred Honor.
 [2026-08-22 14:10:09Z] roll=12 line 4/12 — That is so fetch.
 [2026-08-22 14:10:09Z] roll=12 line 5/12 — Winter is coming.
 [2026-08-22 14:10:09Z] roll=12 line 6/12 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-08-22 14:10:09Z] roll=12 line 7/12 — We didn't know we were making memories, we just knew we were having fun.
+[2026-08-22 14:10:09Z] roll=12 line 8/12 — It's dangerous to go alone! Take this.
