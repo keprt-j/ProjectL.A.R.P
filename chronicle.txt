@@ -662,3 +662,5 @@ and our sacred Honor.
 [2026-08-22 14:10:09Z] roll=12 line 2/12 — You shall not pass!
 [2026-08-22 14:10:09Z] roll=12 line 3/12 — After all, tomorrow is another day!
 [2026-08-22 14:10:09Z] roll=12 line 4/12 — That is so fetch.
+[2026-08-22 14:10:09Z] roll=12 line 5/12 — Winter is coming.
+[2026-08-22 14:10:09Z] roll=12 line 6/12 — I used to be an adventurer like you. Then I took an arrow in the knee.
