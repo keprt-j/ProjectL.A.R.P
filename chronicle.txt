@@ -690,3 +690,5 @@ and our sacred Honor.
 [2026-08-24 14:30:31Z] roll=31 line 17/31 — Snakes. Why did it have to be snakes?
 [2026-08-24 14:30:31Z] roll=31 line 18/31 — It's a-me, Mario!
 [2026-08-24 14:30:31Z] roll=31 line 19/31 — It's dangerous to go alone! Take this.
+[2026-08-24 14:30:31Z] roll=31 line 20/31 — Houston, we have a problem.
+[2026-08-24 14:30:31Z] roll=31 line 21/31 — Resistance is futile.
