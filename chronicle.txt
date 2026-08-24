@@ -676,3 +676,5 @@ and our sacred Honor.
 [2026-08-24 14:30:31Z] roll=31 line 3/31 — It's a-me, Mario!
 [2026-08-24 14:30:31Z] roll=31 line 4/31 — Frankly, my dear, I don't give a damn.
 [2026-08-24 14:30:31Z] roll=31 line 5/31 — One does not simply walk into Mordor.
+[2026-08-24 14:30:31Z] roll=31 line 6/31 — It's dangerous to go alone! Take this.
+[2026-08-24 14:30:31Z] roll=31 line 7/31 — We rob banks.
