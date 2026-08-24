@@ -686,3 +686,5 @@ and our sacred Honor.
 [2026-08-24 14:30:31Z] roll=31 line 13/31 — Fear is the mind-killer.
 [2026-08-24 14:30:31Z] roll=31 line 14/31 — May the Force be with you.
 [2026-08-24 14:30:31Z] roll=31 line 15/31 — I'll have what she's having.
+[2026-08-24 14:30:31Z] roll=31 line 16/31 — You had me at hello.
+[2026-08-24 14:30:31Z] roll=31 line 17/31 — Snakes. Why did it have to be snakes?
