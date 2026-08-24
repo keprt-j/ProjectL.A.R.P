@@ -674,3 +674,5 @@ and our sacred Honor.
 [2026-08-24 14:30:31Z] roll=31 line 1/31 — Pay no attention to that man behind the curtain.
 [2026-08-24 14:30:31Z] roll=31 line 2/31 — I drink and I know things.
 [2026-08-24 14:30:31Z] roll=31 line 3/31 — It's a-me, Mario!
+[2026-08-24 14:30:31Z] roll=31 line 4/31 — Frankly, my dear, I don't give a damn.
+[2026-08-24 14:30:31Z] roll=31 line 5/31 — One does not simply walk into Mordor.
