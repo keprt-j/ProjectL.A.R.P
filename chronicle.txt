@@ -682,3 +682,5 @@ and our sacred Honor.
 [2026-08-24 14:30:31Z] roll=31 line 9/31 — A man chooses. A slave obeys.
 [2026-08-24 14:30:31Z] roll=31 line 10/31 — Not all those who wander are lost.
 [2026-08-24 14:30:31Z] roll=31 line 11/31 — There's a snake in my boots!
+[2026-08-24 14:30:31Z] roll=31 line 12/31 — I drink your milkshake!
+[2026-08-24 14:30:31Z] roll=31 line 13/31 — Fear is the mind-killer.
