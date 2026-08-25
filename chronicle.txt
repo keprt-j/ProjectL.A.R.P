@@ -710,3 +710,5 @@ and our sacred Honor.
 [2026-08-25 14:33:01Z] roll=10 line 6/10 — We rob banks.
 [2026-08-25 14:33:01Z] roll=10 line 7/10 — Frankly, my dear, I don't give a damn.
 [2026-08-25 14:33:01Z] roll=10 line 8/10 — That's what she said.
+[2026-08-25 14:33:01Z] roll=10 line 9/10 — Nobody puts Baby in a corner.
+[2026-08-25 14:33:01Z] roll=10 line 10/10 — To boldly go where no one has gone before.
