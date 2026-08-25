@@ -704,3 +704,5 @@ and our sacred Honor.
 [2026-08-24 14:30:31Z] roll=31 line 31/31 — With great power comes great responsibility.
 [2026-08-25 14:33:01Z] roll=10 line 1/10 — There's a snake in my boots!
 [2026-08-25 14:33:01Z] roll=10 line 2/10 — After all, tomorrow is another day!
+[2026-08-25 14:33:01Z] roll=10 line 3/10 — You died.
+[2026-08-25 14:33:01Z] roll=10 line 4/10 — My precious.
