@@ -777,3 +777,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 63/79 — Hasta la vista, baby.
 [2026-08-26 14:33:11Z] roll=79 line 64/79 — I'm the king of the world!
 [2026-08-26 14:33:11Z] roll=79 line 65/79 — Hadouken!
+[2026-08-26 14:33:11Z] roll=79 line 66/79 — Pay no attention to that man behind the curtain.
+[2026-08-26 14:33:11Z] roll=79 line 67/79 — We were on a break!
