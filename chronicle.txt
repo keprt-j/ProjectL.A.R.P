@@ -779,3 +779,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 65/79 — Hadouken!
 [2026-08-26 14:33:11Z] roll=79 line 66/79 — Pay no attention to that man behind the curtain.
 [2026-08-26 14:33:11Z] roll=79 line 67/79 — We were on a break!
+[2026-08-26 14:33:11Z] roll=79 line 68/79 — All your base are belong to us.
+[2026-08-26 14:33:11Z] roll=79 line 69/79 — Get to the chopper!
