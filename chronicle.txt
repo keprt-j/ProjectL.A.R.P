@@ -753,3 +753,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 39/79 — You can't handle the truth!
 [2026-08-26 14:33:11Z] roll=79 line 40/79 — It's dangerous to go alone! Take this.
 [2026-08-26 14:33:11Z] roll=79 line 41/79 — Valar morghulis.
+[2026-08-26 14:33:11Z] roll=79 line 42/79 — It's dangerous to go alone! Take this.
+[2026-08-26 14:33:11Z] roll=79 line 43/79 — I'll get you, my pretty, and your little dog too!
