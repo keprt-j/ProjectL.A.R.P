@@ -731,3 +731,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 17/79 — All your base are belong to us.
 [2026-08-26 14:33:11Z] roll=79 line 18/79 — It was the best of times, it was the worst of times.
 [2026-08-26 14:33:11Z] roll=79 line 19/79 — Fear is the mind-killer.
+[2026-08-26 14:33:11Z] roll=79 line 20/79 — Do or do not. There is no try.
+[2026-08-26 14:33:11Z] roll=79 line 21/79 — Toto, I've a feeling we're not in Kansas anymore.
