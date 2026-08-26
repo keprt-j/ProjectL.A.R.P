@@ -781,3 +781,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 67/79 — We were on a break!
 [2026-08-26 14:33:11Z] roll=79 line 68/79 — All your base are belong to us.
 [2026-08-26 14:33:11Z] roll=79 line 69/79 — Get to the chopper!
+[2026-08-26 14:33:11Z] roll=79 line 70/79 — Winter is coming.
+[2026-08-26 14:33:11Z] roll=79 line 71/79 — I feel the need—the need for speed!
