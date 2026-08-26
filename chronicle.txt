@@ -785,3 +785,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 71/79 — I feel the need—the need for speed!
 [2026-08-26 14:33:11Z] roll=79 line 72/79 — My precious.
 [2026-08-26 14:33:11Z] roll=79 line 73/79 — We were on a break!
+[2026-08-26 14:33:11Z] roll=79 line 74/79 — I drink and I know things.
+[2026-08-26 14:33:11Z] roll=79 line 75/79 — Praise the Sun!
