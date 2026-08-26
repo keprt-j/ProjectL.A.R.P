@@ -721,3 +721,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 7/79 — I'm the king of the world!
 [2026-08-26 14:33:11Z] roll=79 line 8/79 — How you doin'?
 [2026-08-26 14:33:11Z] roll=79 line 9/79 — Carpe diem. Seize the day.
+[2026-08-26 14:33:11Z] roll=79 line 10/79 — Here's looking at you, kid.
+[2026-08-26 14:33:11Z] roll=79 line 11/79 — I solemnly swear that I am up to no good.
