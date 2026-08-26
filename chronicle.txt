@@ -761,3 +761,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 47/79 — Bazinga!
 [2026-08-26 14:33:11Z] roll=79 line 48/79 — It was the best of times, it was the worst of times.
 [2026-08-26 14:33:11Z] roll=79 line 49/79 — You're gonna need a bigger boat.
+[2026-08-26 14:33:11Z] roll=79 line 50/79 — Clear eyes, full hearts, can't lose.
+[2026-08-26 14:33:11Z] roll=79 line 51/79 — Say hello to my little friend!
