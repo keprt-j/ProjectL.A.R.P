@@ -727,3 +727,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 13/79 — One does not simply walk into Mordor.
 [2026-08-26 14:33:11Z] roll=79 line 14/79 — Live long and prosper.
 [2026-08-26 14:33:11Z] roll=79 line 15/79 — Here's looking at you, kid.
+[2026-08-26 14:33:11Z] roll=79 line 16/79 — Avengers, assemble!
+[2026-08-26 14:33:11Z] roll=79 line 17/79 — All your base are belong to us.
