@@ -767,3 +767,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 53/79 — Engage.
 [2026-08-26 14:33:11Z] roll=79 line 54/79 — I drink and I know things.
 [2026-08-26 14:33:11Z] roll=79 line 55/79 — Engage.
+[2026-08-26 14:33:11Z] roll=79 line 56/79 — This is the way.
+[2026-08-26 14:33:11Z] roll=79 line 57/79 — My precious.
