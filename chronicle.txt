@@ -749,3 +749,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 35/79 — Live long and prosper.
 [2026-08-26 14:33:11Z] roll=79 line 36/79 — Winter is coming.
 [2026-08-26 14:33:11Z] roll=79 line 37/79 — Engage.
+[2026-08-26 14:33:11Z] roll=79 line 38/79 — To boldly go where no one has gone before.
+[2026-08-26 14:33:11Z] roll=79 line 39/79 — You can't handle the truth!
