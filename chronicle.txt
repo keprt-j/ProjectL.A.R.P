@@ -755,3 +755,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 41/79 — Valar morghulis.
 [2026-08-26 14:33:11Z] roll=79 line 42/79 — It's dangerous to go alone! Take this.
 [2026-08-26 14:33:11Z] roll=79 line 43/79 — I'll get you, my pretty, and your little dog too!
+[2026-08-26 14:33:11Z] roll=79 line 44/79 — Would you kindly?
+[2026-08-26 14:33:11Z] roll=79 line 45/79 — That'll do, pig. That'll do.
