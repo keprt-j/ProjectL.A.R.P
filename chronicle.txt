@@ -775,3 +775,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 61/79 — Go ahead, make my day.
 [2026-08-26 14:33:11Z] roll=79 line 62/79 — I want to believe.
 [2026-08-26 14:33:11Z] roll=79 line 63/79 — Hasta la vista, baby.
+[2026-08-26 14:33:11Z] roll=79 line 64/79 — I'm the king of the world!
+[2026-08-26 14:33:11Z] roll=79 line 65/79 — Hadouken!
