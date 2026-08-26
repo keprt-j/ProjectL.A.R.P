@@ -771,3 +771,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 57/79 — My precious.
 [2026-08-26 14:33:11Z] roll=79 line 58/79 — Winter is coming.
 [2026-08-26 14:33:11Z] roll=79 line 59/79 — Bazinga!
+[2026-08-26 14:33:11Z] roll=79 line 60/79 — So it goes.
+[2026-08-26 14:33:11Z] roll=79 line 61/79 — Go ahead, make my day.
