@@ -787,3 +787,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 73/79 — We were on a break!
 [2026-08-26 14:33:11Z] roll=79 line 74/79 — I drink and I know things.
 [2026-08-26 14:33:11Z] roll=79 line 75/79 — Praise the Sun!
+[2026-08-26 14:33:11Z] roll=79 line 76/79 — Fear is the mind-killer.
+[2026-08-26 14:33:11Z] roll=79 line 77/79 — After all, tomorrow is another day!
