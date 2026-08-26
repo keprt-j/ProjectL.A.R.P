@@ -723,3 +723,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 9/79 — Carpe diem. Seize the day.
 [2026-08-26 14:33:11Z] roll=79 line 10/79 — Here's looking at you, kid.
 [2026-08-26 14:33:11Z] roll=79 line 11/79 — I solemnly swear that I am up to no good.
+[2026-08-26 14:33:11Z] roll=79 line 12/79 — Stay awhile and listen.
+[2026-08-26 14:33:11Z] roll=79 line 13/79 — One does not simply walk into Mordor.
