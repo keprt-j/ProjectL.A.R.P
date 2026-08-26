@@ -759,3 +759,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 45/79 — That'll do, pig. That'll do.
 [2026-08-26 14:33:11Z] roll=79 line 46/79 — Why so serious?
 [2026-08-26 14:33:11Z] roll=79 line 47/79 — Bazinga!
+[2026-08-26 14:33:11Z] roll=79 line 48/79 — It was the best of times, it was the worst of times.
+[2026-08-26 14:33:11Z] roll=79 line 49/79 — You're gonna need a bigger boat.
