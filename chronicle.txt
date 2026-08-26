@@ -735,3 +735,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 21/79 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-08-26 14:33:11Z] roll=79 line 22/79 — This is the way.
 [2026-08-26 14:33:11Z] roll=79 line 23/79 — Would you kindly?
+[2026-08-26 14:33:11Z] roll=79 line 24/79 — It's dangerous to go alone! Take this.
+[2026-08-26 14:33:11Z] roll=79 line 25/79 — Here's Johnny!
