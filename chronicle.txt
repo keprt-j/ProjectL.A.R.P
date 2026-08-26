@@ -789,3 +789,5 @@ and our sacred Honor.
 [2026-08-26 14:33:11Z] roll=79 line 75/79 — Praise the Sun!
 [2026-08-26 14:33:11Z] roll=79 line 76/79 — Fear is the mind-killer.
 [2026-08-26 14:33:11Z] roll=79 line 77/79 — After all, tomorrow is another day!
+[2026-08-26 14:33:11Z] roll=79 line 78/79 — Live long and prosper.
+[2026-08-26 14:33:11Z] roll=79 line 79/79 — Frankly, my dear, I don't give a damn.
