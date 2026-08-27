@@ -820,3 +820,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 27/63 — Here's looking at you, kid.
 [2026-08-27 23:17:58Z] roll=63 line 28/63 — Winter is coming.
 [2026-08-27 23:17:58Z] roll=63 line 29/63 — That's what she said.
+[2026-08-27 23:17:58Z] roll=63 line 30/63 — Not all those who wander are lost.
+[2026-08-27 23:17:58Z] roll=63 line 31/63 — With great power comes great responsibility.
