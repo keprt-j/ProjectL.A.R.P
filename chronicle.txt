@@ -810,3 +810,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 17/63 — You shall not pass!
 [2026-08-27 23:17:58Z] roll=63 line 18/63 — All that is gold does not glitter.
 [2026-08-27 23:17:58Z] roll=63 line 19/63 — Bazinga!
+[2026-08-27 23:17:58Z] roll=63 line 20/63 — Say hello to my little friend!
+[2026-08-27 23:17:58Z] roll=63 line 21/63 — I am your father.
