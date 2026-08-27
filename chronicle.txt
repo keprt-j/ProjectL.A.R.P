@@ -836,3 +836,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 43/63 — I'll get you, my pretty, and your little dog too!
 [2026-08-27 23:17:58Z] roll=63 line 44/63 — In a hole in the ground there lived a hobbit.
 [2026-08-27 23:17:58Z] roll=63 line 45/63 — A man chooses. A slave obeys.
+[2026-08-27 23:17:58Z] roll=63 line 46/63 — This is the way.
+[2026-08-27 23:17:58Z] roll=63 line 47/63 — You talking to me?
