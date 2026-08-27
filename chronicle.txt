@@ -816,3 +816,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 23/63 — I'll get you, my pretty, and your little dog too!
 [2026-08-27 23:17:58Z] roll=63 line 24/63 — This is the way.
 [2026-08-27 23:17:58Z] roll=63 line 25/63 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-08-27 23:17:58Z] roll=63 line 26/63 — Resistance is futile.
+[2026-08-27 23:17:58Z] roll=63 line 27/63 — Here's looking at you, kid.
