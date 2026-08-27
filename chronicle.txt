@@ -802,3 +802,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 9/63 — Here's looking at you, kid.
 [2026-08-27 23:17:58Z] roll=63 line 10/63 — You talking to me?
 [2026-08-27 23:17:58Z] roll=63 line 11/63 — Say my name.
+[2026-08-27 23:17:58Z] roll=63 line 12/63 — Shaken, not stirred.
+[2026-08-27 23:17:58Z] roll=63 line 13/63 — One does not simply walk into Mordor.
