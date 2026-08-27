@@ -804,3 +804,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 11/63 — Say my name.
 [2026-08-27 23:17:58Z] roll=63 line 12/63 — Shaken, not stirred.
 [2026-08-27 23:17:58Z] roll=63 line 13/63 — One does not simply walk into Mordor.
+[2026-08-27 23:17:58Z] roll=63 line 14/63 — Praise the Sun!
+[2026-08-27 23:17:58Z] roll=63 line 15/63 — Here's looking at you, kid.
