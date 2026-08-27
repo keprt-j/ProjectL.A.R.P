@@ -828,3 +828,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 35/63 — This is the way.
 [2026-08-27 23:17:58Z] roll=63 line 36/63 — Pay no attention to that man behind the curtain.
 [2026-08-27 23:17:58Z] roll=63 line 37/63 — To infinity and beyond!
+[2026-08-27 23:17:58Z] roll=63 line 38/63 — May the Force be with you.
+[2026-08-27 23:17:58Z] roll=63 line 39/63 — Bazinga!
