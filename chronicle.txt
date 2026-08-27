@@ -814,3 +814,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 21/63 — I am your father.
 [2026-08-27 23:17:58Z] roll=63 line 22/63 — Elementary, my dear Watson.
 [2026-08-27 23:17:58Z] roll=63 line 23/63 — I'll get you, my pretty, and your little dog too!
+[2026-08-27 23:17:58Z] roll=63 line 24/63 — This is the way.
+[2026-08-27 23:17:58Z] roll=63 line 25/63 — I used to be an adventurer like you. Then I took an arrow in the knee.
