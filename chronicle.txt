@@ -850,3 +850,5 @@ and our sacred Honor.
 [2026-08-27 23:17:58Z] roll=63 line 57/63 — I drink your milkshake!
 [2026-08-27 23:17:58Z] roll=63 line 58/63 — It's alive! It's alive!
 [2026-08-27 23:17:58Z] roll=63 line 59/63 — Do or do not. There is no try.
+[2026-08-27 23:17:58Z] roll=63 line 60/63 — The truth is out there.
+[2026-08-27 23:17:58Z] roll=63 line 61/63 — My precious.
