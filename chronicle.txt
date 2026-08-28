@@ -859,3 +859,5 @@ and our sacred Honor.
 [2026-08-28 23:15:03Z] roll=7 line 3/7 — I solemnly swear that I am up to no good.
 [2026-08-28 23:15:03Z] roll=7 line 4/7 — May the Force be with you.
 [2026-08-28 23:15:03Z] roll=7 line 5/7 — One does not simply walk into Mordor.
+[2026-08-28 23:15:03Z] roll=7 line 6/7 — Houston, we have a problem.
+[2026-08-28 23:15:03Z] roll=7 line 7/7 — After all, tomorrow is another day!
