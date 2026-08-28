@@ -857,3 +857,5 @@ and our sacred Honor.
 [2026-08-28 23:15:03Z] roll=7 line 1/7 — Nobody puts Baby in a corner.
 [2026-08-28 23:15:03Z] roll=7 line 2/7 — Praise the Sun!
 [2026-08-28 23:15:03Z] roll=7 line 3/7 — I solemnly swear that I am up to no good.
+[2026-08-28 23:15:03Z] roll=7 line 4/7 — May the Force be with you.
+[2026-08-28 23:15:03Z] roll=7 line 5/7 — One does not simply walk into Mordor.
