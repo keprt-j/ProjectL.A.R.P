@@ -908,3 +908,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 44/62 — Hakuna Matata.
 [2026-08-30 17:49:02Z] roll=62 line 45/62 — I'm going to make him an offer he can't refuse.
 [2026-08-30 17:49:02Z] roll=62 line 46/62 — Would you kindly?
+[2026-08-30 17:49:02Z] roll=62 line 47/62 — Here's Johnny!
+[2026-08-30 17:49:02Z] roll=62 line 48/62 — Show me the money!
