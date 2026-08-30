@@ -920,3 +920,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 56/62 — All that is gold does not glitter.
 [2026-08-30 17:49:02Z] roll=62 line 57/62 — Finish him!
 [2026-08-30 17:49:02Z] roll=62 line 58/62 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-08-30 17:49:02Z] roll=62 line 59/62 — With great power comes great responsibility.
+[2026-08-30 17:49:02Z] roll=62 line 60/62 — That's what she said.
