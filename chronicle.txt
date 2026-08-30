@@ -898,3 +898,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 34/62 — Hadouken!
 [2026-08-30 17:49:02Z] roll=62 line 35/62 — Show me the money!
 [2026-08-30 17:49:02Z] roll=62 line 36/62 — Keep your friends close, but your enemies closer.
+[2026-08-30 17:49:02Z] roll=62 line 37/62 — Clear eyes, full hearts, can't lose.
+[2026-08-30 17:49:02Z] roll=62 line 38/62 — I solemnly swear that I am up to no good.
