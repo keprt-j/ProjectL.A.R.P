@@ -918,3 +918,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 54/62 — I'm the king of the world!
 [2026-08-30 17:49:02Z] roll=62 line 55/62 — Excelsior!
 [2026-08-30 17:49:02Z] roll=62 line 56/62 — All that is gold does not glitter.
+[2026-08-30 17:49:02Z] roll=62 line 57/62 — Finish him!
+[2026-08-30 17:49:02Z] roll=62 line 58/62 — Toto, I've a feeling we're not in Kansas anymore.
