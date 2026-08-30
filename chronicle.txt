@@ -896,3 +896,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 32/62 — It's dangerous to go alone! Take this.
 [2026-08-30 17:49:02Z] roll=62 line 33/62 — In a hole in the ground there lived a hobbit.
 [2026-08-30 17:49:02Z] roll=62 line 34/62 — Hadouken!
+[2026-08-30 17:49:02Z] roll=62 line 35/62 — Show me the money!
+[2026-08-30 17:49:02Z] roll=62 line 36/62 — Keep your friends close, but your enemies closer.
