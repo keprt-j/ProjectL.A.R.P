@@ -864,3 +864,5 @@ and our sacred Honor.
 [2026-08-29 17:26:05Z] roll=92 line 1/1 — I solemnly swear that I am up to no good.
 [2026-08-30 17:49:02Z] roll=62 line 1/62 — Call me Ishmael.
 [2026-08-30 17:49:02Z] roll=62 line 2/62 — Live long and prosper.
+[2026-08-30 17:49:02Z] roll=62 line 3/62 — Shaken, not stirred.
+[2026-08-30 17:49:02Z] roll=62 line 4/62 — Stay awhile and listen.
