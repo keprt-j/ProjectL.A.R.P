@@ -868,3 +868,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 4/62 — Stay awhile and listen.
 [2026-08-30 17:49:02Z] roll=62 line 5/62 — I want to believe.
 [2026-08-30 17:49:02Z] roll=62 line 6/62 — The name's Bond. James Bond.
+[2026-08-30 17:49:02Z] roll=62 line 7/62 — Pay no attention to that man behind the curtain.
+[2026-08-30 17:49:02Z] roll=62 line 8/62 — A man chooses. A slave obeys.
