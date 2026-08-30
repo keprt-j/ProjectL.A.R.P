@@ -874,3 +874,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 10/62 — I'm going to make him an offer he can't refuse.
 [2026-08-30 17:49:02Z] roll=62 line 11/62 — Praise the Sun!
 [2026-08-30 17:49:02Z] roll=62 line 12/62 — It's alive! It's alive!
+[2026-08-30 17:49:02Z] roll=62 line 13/62 — You died.
+[2026-08-30 17:49:02Z] roll=62 line 14/62 — The truth is out there.
