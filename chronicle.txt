@@ -914,3 +914,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 50/62 — You died.
 [2026-08-30 17:49:02Z] roll=62 line 51/62 — A man chooses. A slave obeys.
 [2026-08-30 17:49:02Z] roll=62 line 52/62 — On Wednesdays we wear pink.
+[2026-08-30 17:49:02Z] roll=62 line 53/62 — Do or do not. There is no try.
+[2026-08-30 17:49:02Z] roll=62 line 54/62 — I'm the king of the world!
