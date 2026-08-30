@@ -922,3 +922,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 58/62 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-08-30 17:49:02Z] roll=62 line 59/62 — With great power comes great responsibility.
 [2026-08-30 17:49:02Z] roll=62 line 60/62 — That's what she said.
+[2026-08-30 17:49:02Z] roll=62 line 61/62 — I'll get you, my pretty, and your little dog too!
+[2026-08-30 17:49:02Z] roll=62 line 62/62 — Roads? Where we're going, we don't need roads.
