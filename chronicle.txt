@@ -912,3 +912,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 48/62 — Show me the money!
 [2026-08-30 17:49:02Z] roll=62 line 49/62 — You're gonna need a bigger boat.
 [2026-08-30 17:49:02Z] roll=62 line 50/62 — You died.
+[2026-08-30 17:49:02Z] roll=62 line 51/62 — A man chooses. A slave obeys.
+[2026-08-30 17:49:02Z] roll=62 line 52/62 — On Wednesdays we wear pink.
