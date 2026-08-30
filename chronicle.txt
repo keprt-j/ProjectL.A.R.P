@@ -910,3 +910,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 46/62 — Would you kindly?
 [2026-08-30 17:49:02Z] roll=62 line 47/62 — Here's Johnny!
 [2026-08-30 17:49:02Z] roll=62 line 48/62 — Show me the money!
+[2026-08-30 17:49:02Z] roll=62 line 49/62 — You're gonna need a bigger boat.
+[2026-08-30 17:49:02Z] roll=62 line 50/62 — You died.
