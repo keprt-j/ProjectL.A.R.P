@@ -890,3 +890,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 26/62 — Fear is the mind-killer.
 [2026-08-30 17:49:02Z] roll=62 line 27/62 — This is the way.
 [2026-08-30 17:49:02Z] roll=62 line 28/62 — Just keep swimming.
+[2026-08-30 17:49:02Z] roll=62 line 29/62 — Roads? Where we're going, we don't need roads.
+[2026-08-30 17:49:02Z] roll=62 line 30/62 — Why so serious?
