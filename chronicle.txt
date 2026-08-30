@@ -876,3 +876,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 12/62 — It's alive! It's alive!
 [2026-08-30 17:49:02Z] roll=62 line 13/62 — You died.
 [2026-08-30 17:49:02Z] roll=62 line 14/62 — The truth is out there.
+[2026-08-30 17:49:02Z] roll=62 line 15/62 — I am Iron Man.
+[2026-08-30 17:49:02Z] roll=62 line 16/62 — Let us go on and take the adventure that shall fall to us.
