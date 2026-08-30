@@ -904,3 +904,5 @@ and our sacred Honor.
 [2026-08-30 17:49:02Z] roll=62 line 40/62 — One does not simply walk into Mordor.
 [2026-08-30 17:49:02Z] roll=62 line 41/62 — Get to the chopper!
 [2026-08-30 17:49:02Z] roll=62 line 42/62 — War. War never changes.
+[2026-08-30 17:49:02Z] roll=62 line 43/62 — I am your father.
+[2026-08-30 17:49:02Z] roll=62 line 44/62 — Hakuna Matata.
