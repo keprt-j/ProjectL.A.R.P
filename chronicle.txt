@@ -929,3 +929,5 @@ and our sacred Honor.
 [2026-08-31 19:43:44Z] roll=51 line 3/51 — Bazinga!
 [2026-08-31 19:43:44Z] roll=51 line 4/51 — You can't handle the truth!
 [2026-08-31 19:43:44Z] roll=51 line 5/51 — Let us go on and take the adventure that shall fall to us.
+[2026-08-31 19:43:44Z] roll=51 line 6/51 — Excelsior!
+[2026-08-31 19:43:44Z] roll=51 line 7/51 — I'm the king of the world!
