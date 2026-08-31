@@ -943,3 +943,5 @@ and our sacred Honor.
 [2026-08-31 19:43:44Z] roll=51 line 17/51 — The name's Bond. James Bond.
 [2026-08-31 19:43:44Z] roll=51 line 18/51 — All that is gold does not glitter.
 [2026-08-31 19:43:44Z] roll=51 line 19/51 — Avengers, assemble!
+[2026-08-31 19:43:44Z] roll=51 line 20/51 — May the Force be with you.
+[2026-08-31 19:43:44Z] roll=51 line 21/51 — I am your father.
