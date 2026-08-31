@@ -933,3 +933,5 @@ and our sacred Honor.
 [2026-08-31 19:43:44Z] roll=51 line 7/51 — I'm the king of the world!
 [2026-08-31 19:43:44Z] roll=51 line 8/51 — There's a snake in my boots!
 [2026-08-31 19:43:44Z] roll=51 line 9/51 — Go ahead, make my day.
+[2026-08-31 19:43:44Z] roll=51 line 10/51 — It's a-me, Mario!
+[2026-08-31 19:43:44Z] roll=51 line 11/51 — I'm the king of the world!
