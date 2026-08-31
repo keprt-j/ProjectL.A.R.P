@@ -951,3 +951,5 @@ and our sacred Honor.
 [2026-08-31 19:43:44Z] roll=51 line 25/51 — Winter is coming.
 [2026-08-31 19:43:44Z] roll=51 line 26/51 — I feel the need—the need for speed!
 [2026-08-31 19:43:44Z] roll=51 line 27/51 — How you doin'?
+[2026-08-31 19:43:44Z] roll=51 line 28/51 — Hadouken!
+[2026-08-31 19:43:44Z] roll=51 line 29/51 — Roads? Where we're going, we don't need roads.
