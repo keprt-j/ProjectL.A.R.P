@@ -937,3 +937,5 @@ and our sacred Honor.
 [2026-08-31 19:43:44Z] roll=51 line 11/51 — I'm the king of the world!
 [2026-08-31 19:43:44Z] roll=51 line 12/51 — That'll do, pig. That'll do.
 [2026-08-31 19:43:44Z] roll=51 line 13/51 — The spice must flow.
+[2026-08-31 19:43:44Z] roll=51 line 14/51 — You had me at hello.
+[2026-08-31 19:43:44Z] roll=51 line 15/51 — I feel the need—the need for speed!
