@@ -947,3 +947,5 @@ and our sacred Honor.
 [2026-08-31 19:43:44Z] roll=51 line 21/51 — I am your father.
 [2026-08-31 19:43:44Z] roll=51 line 22/51 — Fear is the mind-killer.
 [2026-08-31 19:43:44Z] roll=51 line 23/51 — Live long and prosper.
+[2026-08-31 19:43:44Z] roll=51 line 24/51 — Show me the money!
+[2026-08-31 19:43:44Z] roll=51 line 25/51 — Winter is coming.
