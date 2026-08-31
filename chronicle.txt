@@ -973,3 +973,5 @@ and our sacred Honor.
 [2026-08-31 19:43:44Z] roll=51 line 47/51 — Praise the Sun!
 [2026-08-31 19:43:44Z] roll=51 line 48/51 — There's no place like home.
 [2026-08-31 19:43:44Z] roll=51 line 49/51 — Elementary, my dear Watson.
+[2026-08-31 19:43:44Z] roll=51 line 50/51 — Elementary, my dear Watson.
+[2026-08-31 19:43:44Z] roll=51 line 51/51 — Engage.
