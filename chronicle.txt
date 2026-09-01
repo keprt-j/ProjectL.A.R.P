@@ -998,3 +998,5 @@ and our sacred Honor.
 [2026-09-01 17:28:52Z] roll=25 line 21/25 — I feel the need—the need for speed!
 [2026-09-01 17:28:52Z] roll=25 line 22/25 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-01 17:28:52Z] roll=25 line 23/25 — I'm going to make him an offer he can't refuse.
+[2026-09-01 17:28:52Z] roll=25 line 24/25 — I'll have what she's having.
+[2026-09-01 17:28:52Z] roll=25 line 25/25 — There's no place like home.
