@@ -988,3 +988,5 @@ and our sacred Honor.
 [2026-09-01 17:28:52Z] roll=25 line 11/25 — So it goes.
 [2026-09-01 17:28:52Z] roll=25 line 12/25 — All that is gold does not glitter.
 [2026-09-01 17:28:52Z] roll=25 line 13/25 — To infinity and beyond!
+[2026-09-01 17:28:52Z] roll=25 line 14/25 — The spice must flow.
+[2026-09-01 17:28:52Z] roll=25 line 15/25 — Clear eyes, full hearts, can't lose.
