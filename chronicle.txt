@@ -994,3 +994,5 @@ and our sacred Honor.
 [2026-09-01 17:28:52Z] roll=25 line 17/25 — I want to believe.
 [2026-09-01 17:28:52Z] roll=25 line 18/25 — Hakuna Matata.
 [2026-09-01 17:28:52Z] roll=25 line 19/25 — Roads? Where we're going, we don't need roads.
+[2026-09-01 17:28:52Z] roll=25 line 20/25 — To infinity and beyond!
+[2026-09-01 17:28:52Z] roll=25 line 21/25 — I feel the need—the need for speed!
