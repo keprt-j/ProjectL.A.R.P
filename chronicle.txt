@@ -982,3 +982,5 @@ and our sacred Honor.
 [2026-09-01 17:28:52Z] roll=25 line 5/25 — Get to the chopper!
 [2026-09-01 17:28:52Z] roll=25 line 6/25 — We rob banks.
 [2026-09-01 17:28:52Z] roll=25 line 7/25 — The name's Bond. James Bond.
+[2026-09-01 17:28:52Z] roll=25 line 8/25 — I drink your milkshake!
+[2026-09-01 17:28:52Z] roll=25 line 9/25 — I drink your milkshake!
