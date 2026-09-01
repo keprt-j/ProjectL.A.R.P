@@ -978,3 +978,5 @@ and our sacred Honor.
 [2026-09-01 17:28:52Z] roll=25 line 1/25 — I drink and I know things.
 [2026-09-01 17:28:52Z] roll=25 line 2/25 — Do a barrel roll!
 [2026-09-01 17:28:52Z] roll=25 line 3/25 — Nobody puts Baby in a corner.
+[2026-09-01 17:28:52Z] roll=25 line 4/25 — I solemnly swear that I am up to no good.
+[2026-09-01 17:28:52Z] roll=25 line 5/25 — Get to the chopper!
