@@ -984,3 +984,5 @@ and our sacred Honor.
 [2026-09-01 17:28:52Z] roll=25 line 7/25 — The name's Bond. James Bond.
 [2026-09-01 17:28:52Z] roll=25 line 8/25 — I drink your milkshake!
 [2026-09-01 17:28:52Z] roll=25 line 9/25 — I drink your milkshake!
+[2026-09-01 17:28:52Z] roll=25 line 10/25 — Elementary, my dear Watson.
+[2026-09-01 17:28:52Z] roll=25 line 11/25 — So it goes.
