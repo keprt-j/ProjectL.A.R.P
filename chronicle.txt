@@ -1013,3 +1013,5 @@ and our sacred Honor.
 [2026-09-02 17:28:21Z] roll=17 line 11/17 — Roads? Where we're going, we don't need roads.
 [2026-09-02 17:28:21Z] roll=17 line 12/17 — After all, tomorrow is another day!
 [2026-09-02 17:28:21Z] roll=17 line 13/17 — Fear is the mind-killer.
+[2026-09-02 17:28:21Z] roll=17 line 14/17 — There's a snake in my boots!
+[2026-09-02 17:28:21Z] roll=17 line 15/17 — Make it so.
