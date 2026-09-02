@@ -1011,3 +1011,5 @@ and our sacred Honor.
 [2026-09-02 17:28:21Z] roll=17 line 9/17 — It's dangerous to go alone! Take this.
 [2026-09-02 17:28:21Z] roll=17 line 10/17 — The spice must flow.
 [2026-09-02 17:28:21Z] roll=17 line 11/17 — Roads? Where we're going, we don't need roads.
+[2026-09-02 17:28:21Z] roll=17 line 12/17 — After all, tomorrow is another day!
+[2026-09-02 17:28:21Z] roll=17 line 13/17 — Fear is the mind-killer.
