@@ -1003,3 +1003,5 @@ and our sacred Honor.
 [2026-09-02 17:28:21Z] roll=17 line 1/17 — Clear eyes, full hearts, can't lose.
 [2026-09-02 17:28:21Z] roll=17 line 2/17 — I am your father.
 [2026-09-02 17:28:21Z] roll=17 line 3/17 — Here's looking at you, kid.
+[2026-09-02 17:28:21Z] roll=17 line 4/17 — It was the best of times, it was the worst of times.
+[2026-09-02 17:28:21Z] roll=17 line 5/17 — Stay awhile and listen.
