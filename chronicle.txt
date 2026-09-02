@@ -1015,3 +1015,5 @@ and our sacred Honor.
 [2026-09-02 17:28:21Z] roll=17 line 13/17 — Fear is the mind-killer.
 [2026-09-02 17:28:21Z] roll=17 line 14/17 — There's a snake in my boots!
 [2026-09-02 17:28:21Z] roll=17 line 15/17 — Make it so.
+[2026-09-02 17:28:21Z] roll=17 line 16/17 — Frankly, my dear, I don't give a damn.
+[2026-09-02 17:28:21Z] roll=17 line 17/17 — Make it so.
