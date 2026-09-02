@@ -1005,3 +1005,5 @@ and our sacred Honor.
 [2026-09-02 17:28:21Z] roll=17 line 3/17 — Here's looking at you, kid.
 [2026-09-02 17:28:21Z] roll=17 line 4/17 — It was the best of times, it was the worst of times.
 [2026-09-02 17:28:21Z] roll=17 line 5/17 — Stay awhile and listen.
+[2026-09-02 17:28:21Z] roll=17 line 6/17 — This is the way.
+[2026-09-02 17:28:21Z] roll=17 line 7/17 — Keep your friends close, but your enemies closer.
