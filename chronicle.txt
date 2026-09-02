@@ -1000,3 +1000,6 @@ and our sacred Honor.
 [2026-09-01 17:28:52Z] roll=25 line 23/25 — I'm going to make him an offer he can't refuse.
 [2026-09-01 17:28:52Z] roll=25 line 24/25 — I'll have what she's having.
 [2026-09-01 17:28:52Z] roll=25 line 25/25 — There's no place like home.
+[2026-09-02 17:28:21Z] roll=17 line 1/17 — Clear eyes, full hearts, can't lose.
+[2026-09-02 17:28:21Z] roll=17 line 2/17 — I am your father.
+[2026-09-02 17:28:21Z] roll=17 line 3/17 — Here's looking at you, kid.
