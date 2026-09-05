@@ -1081,3 +1081,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 60/80 — Nothing is true, everything is permitted.
 [2026-09-05 16:20:41Z] roll=80 line 61/80 — You talking to me?
 [2026-09-05 16:20:41Z] roll=80 line 62/80 — Would you kindly?
+[2026-09-05 16:20:41Z] roll=80 line 63/80 — Fear is the mind-killer.
+[2026-09-05 16:20:41Z] roll=80 line 64/80 — It's alive! It's alive!
