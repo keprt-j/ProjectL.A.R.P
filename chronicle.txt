@@ -1061,3 +1061,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 40/80 — I am your father.
 [2026-09-05 16:20:41Z] roll=80 line 41/80 — Carpe diem. Seize the day.
 [2026-09-05 16:20:41Z] roll=80 line 42/80 — It's alive! It's alive!
+[2026-09-05 16:20:41Z] roll=80 line 43/80 — My precious.
+[2026-09-05 16:20:41Z] roll=80 line 44/80 — Resistance is futile.
