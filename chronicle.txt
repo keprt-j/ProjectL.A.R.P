@@ -1087,3 +1087,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 66/80 — Finish him!
 [2026-09-05 16:20:41Z] roll=80 line 67/80 — In a hole in the ground there lived a hobbit.
 [2026-09-05 16:20:41Z] roll=80 line 68/80 — That's what she said.
+[2026-09-05 16:20:41Z] roll=80 line 69/80 — Call me Ishmael.
+[2026-09-05 16:20:41Z] roll=80 line 70/80 — Space: the final frontier.
