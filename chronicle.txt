@@ -1085,3 +1085,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 64/80 — It's alive! It's alive!
 [2026-09-05 16:20:41Z] roll=80 line 65/80 — Not all those who wander are lost.
 [2026-09-05 16:20:41Z] roll=80 line 66/80 — Finish him!
+[2026-09-05 16:20:41Z] roll=80 line 67/80 — In a hole in the ground there lived a hobbit.
+[2026-09-05 16:20:41Z] roll=80 line 68/80 — That's what she said.
