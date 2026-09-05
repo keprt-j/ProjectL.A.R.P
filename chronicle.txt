@@ -1045,3 +1045,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 24/80 — You had me at hello.
 [2026-09-05 16:20:41Z] roll=80 line 25/80 — Avengers, assemble!
 [2026-09-05 16:20:41Z] roll=80 line 26/80 — We rob banks.
+[2026-09-05 16:20:41Z] roll=80 line 27/80 — Houston, we have a problem.
+[2026-09-05 16:20:41Z] roll=80 line 28/80 — Space: the final frontier.
