@@ -1037,3 +1037,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 16/80 — All your base are belong to us.
 [2026-09-05 16:20:41Z] roll=80 line 17/80 — Nobody puts Baby in a corner.
 [2026-09-05 16:20:41Z] roll=80 line 18/80 — It's dangerous to go alone! Take this.
+[2026-09-05 16:20:41Z] roll=80 line 19/80 — One does not simply walk into Mordor.
+[2026-09-05 16:20:41Z] roll=80 line 20/80 — I solemnly swear that I am up to no good.
