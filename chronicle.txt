@@ -1053,3 +1053,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 32/80 — It's alive! It's alive!
 [2026-09-05 16:20:41Z] roll=80 line 33/80 — Engage.
 [2026-09-05 16:20:41Z] roll=80 line 34/80 — How you doin'?
+[2026-09-05 16:20:41Z] roll=80 line 35/80 — Nothing is true, everything is permitted.
+[2026-09-05 16:20:41Z] roll=80 line 36/80 — Nothing is true, everything is permitted.
