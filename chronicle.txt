@@ -1075,3 +1075,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 54/80 — How you doin'?
 [2026-09-05 16:20:41Z] roll=80 line 55/80 — Clear eyes, full hearts, can't lose.
 [2026-09-05 16:20:41Z] roll=80 line 56/80 — I am the one who knocks.
+[2026-09-05 16:20:41Z] roll=80 line 57/80 — Finish him!
+[2026-09-05 16:20:41Z] roll=80 line 58/80 — All your base are belong to us.
