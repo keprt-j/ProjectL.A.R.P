@@ -1077,3 +1077,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 56/80 — I am the one who knocks.
 [2026-09-05 16:20:41Z] roll=80 line 57/80 — Finish him!
 [2026-09-05 16:20:41Z] roll=80 line 58/80 — All your base are belong to us.
+[2026-09-05 16:20:41Z] roll=80 line 59/80 — It's a-me, Mario!
+[2026-09-05 16:20:41Z] roll=80 line 60/80 — Nothing is true, everything is permitted.
