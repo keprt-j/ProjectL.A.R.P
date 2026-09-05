@@ -1033,3 +1033,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 12/80 — A man chooses. A slave obeys.
 [2026-09-05 16:20:41Z] roll=80 line 13/80 — I am Iron Man.
 [2026-09-05 16:20:41Z] roll=80 line 14/80 — Fear is the mind-killer.
+[2026-09-05 16:20:41Z] roll=80 line 15/80 — We rob banks.
+[2026-09-05 16:20:41Z] roll=80 line 16/80 — All your base are belong to us.
