@@ -1021,3 +1021,5 @@ and our sacred Honor.
 [2026-09-04 17:13:15Z] roll=99 line 1/1 — I drink your milkshake!
 [2026-09-05 16:20:41Z] roll=80 line 1/80 — I see dead people.
 [2026-09-05 16:20:41Z] roll=80 line 2/80 — On Wednesdays we wear pink.
+[2026-09-05 16:20:41Z] roll=80 line 3/80 — Call me Ishmael.
+[2026-09-05 16:20:41Z] roll=80 line 4/80 — I am Iron Man.
