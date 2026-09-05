@@ -1097,3 +1097,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 76/80 — After all, tomorrow is another day!
 [2026-09-05 16:20:41Z] roll=80 line 77/80 — There's a snake in my boots!
 [2026-09-05 16:20:41Z] roll=80 line 78/80 — Say hello to my little friend!
+[2026-09-05 16:20:41Z] roll=80 line 79/80 — You died.
+[2026-09-05 16:20:41Z] roll=80 line 80/80 — Let us go on and take the adventure that shall fall to us.
