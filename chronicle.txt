@@ -1069,3 +1069,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 48/80 — Bazinga!
 [2026-09-05 16:20:41Z] roll=80 line 49/80 — Valar morghulis.
 [2026-09-05 16:20:41Z] roll=80 line 50/80 — Say hello to my little friend!
+[2026-09-05 16:20:41Z] roll=80 line 51/80 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-09-05 16:20:41Z] roll=80 line 52/80 — Keep your friends close, but your enemies closer.
