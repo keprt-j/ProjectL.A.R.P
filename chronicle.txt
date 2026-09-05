@@ -1057,3 +1057,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 36/80 — Nothing is true, everything is permitted.
 [2026-09-05 16:20:41Z] roll=80 line 37/80 — I can do this all day.
 [2026-09-05 16:20:41Z] roll=80 line 38/80 — May the Force be with you.
+[2026-09-05 16:20:41Z] roll=80 line 39/80 — Shaken, not stirred.
+[2026-09-05 16:20:41Z] roll=80 line 40/80 — I am your father.
