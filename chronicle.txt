@@ -1067,3 +1067,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 46/80 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-05 16:20:41Z] roll=80 line 47/80 — Show me the money!
 [2026-09-05 16:20:41Z] roll=80 line 48/80 — Bazinga!
+[2026-09-05 16:20:41Z] roll=80 line 49/80 — Valar morghulis.
+[2026-09-05 16:20:41Z] roll=80 line 50/80 — Say hello to my little friend!
