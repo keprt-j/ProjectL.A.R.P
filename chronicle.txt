@@ -1095,3 +1095,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 74/80 — There's a snake in my boots!
 [2026-09-05 16:20:41Z] roll=80 line 75/80 — I solemnly swear that I am up to no good.
 [2026-09-05 16:20:41Z] roll=80 line 76/80 — After all, tomorrow is another day!
+[2026-09-05 16:20:41Z] roll=80 line 77/80 — There's a snake in my boots!
+[2026-09-05 16:20:41Z] roll=80 line 78/80 — Say hello to my little friend!
