@@ -1043,3 +1043,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 22/80 — Engage.
 [2026-09-05 16:20:41Z] roll=80 line 23/80 — I drink and I know things.
 [2026-09-05 16:20:41Z] roll=80 line 24/80 — You had me at hello.
+[2026-09-05 16:20:41Z] roll=80 line 25/80 — Avengers, assemble!
+[2026-09-05 16:20:41Z] roll=80 line 26/80 — We rob banks.
