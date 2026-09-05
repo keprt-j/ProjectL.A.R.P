@@ -1091,3 +1091,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 70/80 — Space: the final frontier.
 [2026-09-05 16:20:41Z] roll=80 line 71/80 — Engage.
 [2026-09-05 16:20:41Z] roll=80 line 72/80 — Bazinga!
+[2026-09-05 16:20:41Z] roll=80 line 73/80 — All your base are belong to us.
+[2026-09-05 16:20:41Z] roll=80 line 74/80 — There's a snake in my boots!
