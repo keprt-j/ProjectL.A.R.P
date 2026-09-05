@@ -1071,3 +1071,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 50/80 — Say hello to my little friend!
 [2026-09-05 16:20:41Z] roll=80 line 51/80 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-09-05 16:20:41Z] roll=80 line 52/80 — Keep your friends close, but your enemies closer.
+[2026-09-05 16:20:41Z] roll=80 line 53/80 — How you doin'?
+[2026-09-05 16:20:41Z] roll=80 line 54/80 — How you doin'?
