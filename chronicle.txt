@@ -1083,3 +1083,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 62/80 — Would you kindly?
 [2026-09-05 16:20:41Z] roll=80 line 63/80 — Fear is the mind-killer.
 [2026-09-05 16:20:41Z] roll=80 line 64/80 — It's alive! It's alive!
+[2026-09-05 16:20:41Z] roll=80 line 65/80 — Not all those who wander are lost.
+[2026-09-05 16:20:41Z] roll=80 line 66/80 — Finish him!
