@@ -1031,3 +1031,5 @@ and our sacred Honor.
 [2026-09-05 16:20:41Z] roll=80 line 10/80 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-05 16:20:41Z] roll=80 line 11/80 — The spice must flow.
 [2026-09-05 16:20:41Z] roll=80 line 12/80 — A man chooses. A slave obeys.
+[2026-09-05 16:20:41Z] roll=80 line 13/80 — I am Iron Man.
+[2026-09-05 16:20:41Z] roll=80 line 14/80 — Fear is the mind-killer.
