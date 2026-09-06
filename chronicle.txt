@@ -1127,3 +1127,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 26/50 — I drink your milkshake!
 [2026-09-06 16:31:56Z] roll=50 line 27/50 — Hakuna Matata.
 [2026-09-06 16:31:56Z] roll=50 line 28/50 — Hadouken!
+[2026-09-06 16:31:56Z] roll=50 line 29/50 — With great power comes great responsibility.
+[2026-09-06 16:31:56Z] roll=50 line 30/50 — War. War never changes.
