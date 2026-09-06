@@ -1129,3 +1129,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 28/50 — Hadouken!
 [2026-09-06 16:31:56Z] roll=50 line 29/50 — With great power comes great responsibility.
 [2026-09-06 16:31:56Z] roll=50 line 30/50 — War. War never changes.
+[2026-09-06 16:31:56Z] roll=50 line 31/50 — You're gonna need a bigger boat.
+[2026-09-06 16:31:56Z] roll=50 line 32/50 — That'll do, pig. That'll do.
