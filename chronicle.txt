@@ -1103,3 +1103,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 2/50 — I drink your milkshake!
 [2026-09-06 16:31:56Z] roll=50 line 3/50 — You died.
 [2026-09-06 16:31:56Z] roll=50 line 4/50 — Excelsior!
+[2026-09-06 16:31:56Z] roll=50 line 5/50 — I can do this all day.
+[2026-09-06 16:31:56Z] roll=50 line 6/50 — I used to be an adventurer like you. Then I took an arrow in the knee.
