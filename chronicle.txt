@@ -1123,3 +1123,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 22/50 — There's a snake in my boots!
 [2026-09-06 16:31:56Z] roll=50 line 23/50 — Elementary, my dear Watson.
 [2026-09-06 16:31:56Z] roll=50 line 24/50 — Here's Johnny!
+[2026-09-06 16:31:56Z] roll=50 line 25/50 — So it goes.
+[2026-09-06 16:31:56Z] roll=50 line 26/50 — I drink your milkshake!
