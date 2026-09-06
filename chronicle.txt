@@ -1133,3 +1133,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 32/50 — That'll do, pig. That'll do.
 [2026-09-06 16:31:56Z] roll=50 line 33/50 — You had me at hello.
 [2026-09-06 16:31:56Z] roll=50 line 34/50 — Call me Ishmael.
+[2026-09-06 16:31:56Z] roll=50 line 35/50 — It's a-me, Mario!
+[2026-09-06 16:31:56Z] roll=50 line 36/50 — This is the way.
