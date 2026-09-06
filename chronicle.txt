@@ -1113,3 +1113,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 12/50 — I am the one who knocks.
 [2026-09-06 16:31:56Z] roll=50 line 13/50 — It was the best of times, it was the worst of times.
 [2026-09-06 16:31:56Z] roll=50 line 14/50 — War. War never changes.
+[2026-09-06 16:31:56Z] roll=50 line 15/50 — Shaken, not stirred.
+[2026-09-06 16:31:56Z] roll=50 line 16/50 — Hakuna Matata.
