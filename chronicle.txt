@@ -1145,3 +1145,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 44/50 — How you doin'?
 [2026-09-06 16:31:56Z] roll=50 line 45/50 — Hadouken!
 [2026-09-06 16:31:56Z] roll=50 line 46/50 — Winter is coming.
+[2026-09-06 16:31:56Z] roll=50 line 47/50 — Hadouken!
+[2026-09-06 16:31:56Z] roll=50 line 48/50 — To infinity and beyond!
