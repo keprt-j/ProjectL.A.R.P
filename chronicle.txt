@@ -1111,3 +1111,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 10/50 — May the Force be with you.
 [2026-09-06 16:31:56Z] roll=50 line 11/50 — In a hole in the ground there lived a hobbit.
 [2026-09-06 16:31:56Z] roll=50 line 12/50 — I am the one who knocks.
+[2026-09-06 16:31:56Z] roll=50 line 13/50 — It was the best of times, it was the worst of times.
+[2026-09-06 16:31:56Z] roll=50 line 14/50 — War. War never changes.
