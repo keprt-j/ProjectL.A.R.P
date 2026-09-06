@@ -1135,3 +1135,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 34/50 — Call me Ishmael.
 [2026-09-06 16:31:56Z] roll=50 line 35/50 — It's a-me, Mario!
 [2026-09-06 16:31:56Z] roll=50 line 36/50 — This is the way.
+[2026-09-06 16:31:56Z] roll=50 line 37/50 — Excelsior!
+[2026-09-06 16:31:56Z] roll=50 line 38/50 — Go ahead, make my day.
