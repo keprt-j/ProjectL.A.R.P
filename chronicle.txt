@@ -1139,3 +1139,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 38/50 — Go ahead, make my day.
 [2026-09-06 16:31:56Z] roll=50 line 39/50 — The name's Bond. James Bond.
 [2026-09-06 16:31:56Z] roll=50 line 40/50 — I see dead people.
+[2026-09-06 16:31:56Z] roll=50 line 41/50 — Say my name.
+[2026-09-06 16:31:56Z] roll=50 line 42/50 — Houston, we have a problem.
