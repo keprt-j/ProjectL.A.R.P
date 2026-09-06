@@ -1109,3 +1109,5 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 8/50 — Just keep swimming.
 [2026-09-06 16:31:56Z] roll=50 line 9/50 — All your base are belong to us.
 [2026-09-06 16:31:56Z] roll=50 line 10/50 — May the Force be with you.
+[2026-09-06 16:31:56Z] roll=50 line 11/50 — In a hole in the ground there lived a hobbit.
+[2026-09-06 16:31:56Z] roll=50 line 12/50 — I am the one who knocks.
