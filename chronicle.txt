@@ -1149,3 +1149,6 @@ and our sacred Honor.
 [2026-09-06 16:31:56Z] roll=50 line 48/50 — To infinity and beyond!
 [2026-09-06 16:31:56Z] roll=50 line 49/50 — Roads? Where we're going, we don't need roads.
 [2026-09-06 16:31:56Z] roll=50 line 50/50 — To infinity and beyond!
+[2026-09-07 18:27:13Z] roll=5 line 1/5 — Go ahead, make my day.
+[2026-09-07 18:27:13Z] roll=5 line 2/5 — I'll have what she's having.
+[2026-09-07 18:27:13Z] roll=5 line 3/5 — Finish him!
