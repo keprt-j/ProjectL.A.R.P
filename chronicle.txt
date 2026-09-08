@@ -1154,3 +1154,4 @@ and our sacred Honor.
 [2026-09-07 18:27:13Z] roll=5 line 3/5 — Finish him!
 [2026-09-07 18:27:13Z] roll=5 line 4/5 — Snakes. Why did it have to be snakes?
 [2026-09-07 18:27:13Z] roll=5 line 5/5 — You died.
+[2026-09-08 17:37:44Z] roll=81 line 1/1 — Say my name.
