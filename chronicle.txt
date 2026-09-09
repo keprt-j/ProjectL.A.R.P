@@ -1164,3 +1164,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 7/47 — There's no place like home.
 [2026-09-09 17:23:31Z] roll=47 line 8/47 — Just keep swimming.
 [2026-09-09 17:23:31Z] roll=47 line 9/47 — I am your father.
+[2026-09-09 17:23:31Z] roll=47 line 10/47 — All that is gold does not glitter.
+[2026-09-09 17:23:31Z] roll=47 line 11/47 — Pay no attention to that man behind the curtain.
