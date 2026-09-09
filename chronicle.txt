@@ -1176,3 +1176,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 19/47 — Winter is coming.
 [2026-09-09 17:23:31Z] roll=47 line 20/47 — I'll have what she's having.
 [2026-09-09 17:23:31Z] roll=47 line 21/47 — Frankly, my dear, I don't give a damn.
+[2026-09-09 17:23:31Z] roll=47 line 22/47 — My precious.
+[2026-09-09 17:23:31Z] roll=47 line 23/47 — Excelsior!
