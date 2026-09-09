@@ -1160,3 +1160,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 3/47 — Valar morghulis.
 [2026-09-09 17:23:31Z] roll=47 line 4/47 — The spice must flow.
 [2026-09-09 17:23:31Z] roll=47 line 5/47 — Elementary, my dear Watson.
+[2026-09-09 17:23:31Z] roll=47 line 6/47 — Valar morghulis.
+[2026-09-09 17:23:31Z] roll=47 line 7/47 — There's no place like home.
