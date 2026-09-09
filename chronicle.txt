@@ -1172,3 +1172,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 15/47 — Carpe diem. Seize the day.
 [2026-09-09 17:23:31Z] roll=47 line 16/47 — I can do this all day.
 [2026-09-09 17:23:31Z] roll=47 line 17/47 — Life is like a box of chocolates.
+[2026-09-09 17:23:31Z] roll=47 line 18/47 — Valar morghulis.
+[2026-09-09 17:23:31Z] roll=47 line 19/47 — Winter is coming.
