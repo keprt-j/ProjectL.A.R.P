@@ -1168,3 +1168,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 11/47 — Pay no attention to that man behind the curtain.
 [2026-09-09 17:23:31Z] roll=47 line 12/47 — Engage.
 [2026-09-09 17:23:31Z] roll=47 line 13/47 — To infinity and beyond!
+[2026-09-09 17:23:31Z] roll=47 line 14/47 — I am your father.
+[2026-09-09 17:23:31Z] roll=47 line 15/47 — Carpe diem. Seize the day.
