@@ -1180,3 +1180,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 23/47 — Excelsior!
 [2026-09-09 17:23:31Z] roll=47 line 24/47 — All that is gold does not glitter.
 [2026-09-09 17:23:31Z] roll=47 line 25/47 — You died.
+[2026-09-09 17:23:31Z] roll=47 line 26/47 — Great Scott!
+[2026-09-09 17:23:31Z] roll=47 line 27/47 — Would you kindly?
