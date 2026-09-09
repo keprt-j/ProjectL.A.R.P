@@ -1196,3 +1196,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 39/47 — I'll get you, my pretty, and your little dog too!
 [2026-09-09 17:23:31Z] roll=47 line 40/47 — I drink and I know things.
 [2026-09-09 17:23:31Z] roll=47 line 41/47 — Stay awhile and listen.
+[2026-09-09 17:23:31Z] roll=47 line 42/47 — It's dangerous to go alone! Take this.
+[2026-09-09 17:23:31Z] roll=47 line 43/47 — Not all those who wander are lost.
