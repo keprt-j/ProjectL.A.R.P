@@ -1190,3 +1190,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 33/47 — Hadouken!
 [2026-09-09 17:23:31Z] roll=47 line 34/47 — All that is gold does not glitter.
 [2026-09-09 17:23:31Z] roll=47 line 35/47 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-09 17:23:31Z] roll=47 line 36/47 — That'll do, pig. That'll do.
+[2026-09-09 17:23:31Z] roll=47 line 37/47 — Stay awhile and listen.
