@@ -1194,3 +1194,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 37/47 — Stay awhile and listen.
 [2026-09-09 17:23:31Z] roll=47 line 38/47 — Finish him!
 [2026-09-09 17:23:31Z] roll=47 line 39/47 — I'll get you, my pretty, and your little dog too!
+[2026-09-09 17:23:31Z] roll=47 line 40/47 — I drink and I know things.
+[2026-09-09 17:23:31Z] roll=47 line 41/47 — Stay awhile and listen.
