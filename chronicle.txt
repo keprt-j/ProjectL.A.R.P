@@ -1192,3 +1192,5 @@ and our sacred Honor.
 [2026-09-09 17:23:31Z] roll=47 line 35/47 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-09 17:23:31Z] roll=47 line 36/47 — That'll do, pig. That'll do.
 [2026-09-09 17:23:31Z] roll=47 line 37/47 — Stay awhile and listen.
+[2026-09-09 17:23:31Z] roll=47 line 38/47 — Finish him!
+[2026-09-09 17:23:31Z] roll=47 line 39/47 — I'll get you, my pretty, and your little dog too!
