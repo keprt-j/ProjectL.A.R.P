@@ -1229,3 +1229,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 25/45 — The cake is a lie.
 [2026-09-10 17:21:51Z] roll=45 line 26/45 — You had me at hello.
 [2026-09-10 17:21:51Z] roll=45 line 27/45 — I am your father.
+[2026-09-10 17:21:51Z] roll=45 line 28/45 — Do or do not. There is no try.
+[2026-09-10 17:21:51Z] roll=45 line 29/45 — I want to believe.
