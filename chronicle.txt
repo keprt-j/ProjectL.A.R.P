@@ -1219,3 +1219,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 15/45 — The name's Bond. James Bond.
 [2026-09-10 17:21:51Z] roll=45 line 16/45 — That is so fetch.
 [2026-09-10 17:21:51Z] roll=45 line 17/45 — Finish him!
+[2026-09-10 17:21:51Z] roll=45 line 18/45 — I am the one who knocks.
+[2026-09-10 17:21:51Z] roll=45 line 19/45 — Avengers, assemble!
