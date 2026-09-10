@@ -1243,3 +1243,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 39/45 — Nothing is true, everything is permitted.
 [2026-09-10 17:21:51Z] roll=45 line 40/45 — You died.
 [2026-09-10 17:21:51Z] roll=45 line 41/45 — Engage.
+[2026-09-10 17:21:51Z] roll=45 line 42/45 — Stay awhile and listen.
+[2026-09-10 17:21:51Z] roll=45 line 43/45 — I can do this all day.
