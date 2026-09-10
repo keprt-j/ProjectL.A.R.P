@@ -1239,3 +1239,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 35/45 — You're gonna need a bigger boat.
 [2026-09-10 17:21:51Z] roll=45 line 36/45 — I'll have what she's having.
 [2026-09-10 17:21:51Z] roll=45 line 37/45 — That'll do, pig. That'll do.
+[2026-09-10 17:21:51Z] roll=45 line 38/45 — I am the one who knocks.
+[2026-09-10 17:21:51Z] roll=45 line 39/45 — Nothing is true, everything is permitted.
