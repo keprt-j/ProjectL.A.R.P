@@ -1207,3 +1207,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 3/45 — You can't handle the truth!
 [2026-09-10 17:21:51Z] roll=45 line 4/45 — Here's Johnny!
 [2026-09-10 17:21:51Z] roll=45 line 5/45 — Keep your friends close, but your enemies closer.
+[2026-09-10 17:21:51Z] roll=45 line 6/45 — All that is gold does not glitter.
+[2026-09-10 17:21:51Z] roll=45 line 7/45 — Shaken, not stirred.
