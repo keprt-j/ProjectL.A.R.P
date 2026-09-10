@@ -1215,3 +1215,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 11/45 — Hasta la vista, baby.
 [2026-09-10 17:21:51Z] roll=45 line 12/45 — Resistance is futile.
 [2026-09-10 17:21:51Z] roll=45 line 13/45 — You can't handle the truth!
+[2026-09-10 17:21:51Z] roll=45 line 14/45 — Stay awhile and listen.
+[2026-09-10 17:21:51Z] roll=45 line 15/45 — The name's Bond. James Bond.
