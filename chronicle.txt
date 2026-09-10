@@ -1237,3 +1237,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 33/45 — I drink and I know things.
 [2026-09-10 17:21:51Z] roll=45 line 34/45 — I'm the king of the world!
 [2026-09-10 17:21:51Z] roll=45 line 35/45 — You're gonna need a bigger boat.
+[2026-09-10 17:21:51Z] roll=45 line 36/45 — I'll have what she's having.
+[2026-09-10 17:21:51Z] roll=45 line 37/45 — That'll do, pig. That'll do.
