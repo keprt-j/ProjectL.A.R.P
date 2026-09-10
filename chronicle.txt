@@ -1211,3 +1211,5 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 7/45 — Shaken, not stirred.
 [2026-09-10 17:21:51Z] roll=45 line 8/45 — Carpe diem. Seize the day.
 [2026-09-10 17:21:51Z] roll=45 line 9/45 — Frankly, my dear, I don't give a damn.
+[2026-09-10 17:21:51Z] roll=45 line 10/45 — There's no place like home.
+[2026-09-10 17:21:51Z] roll=45 line 11/45 — Hasta la vista, baby.
