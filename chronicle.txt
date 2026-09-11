@@ -1266,3 +1266,5 @@ and our sacred Honor.
 [2026-09-11 17:23:03Z] roll=21 line 17/21 — Shaken, not stirred.
 [2026-09-11 17:23:03Z] roll=21 line 18/21 — I am Iron Man.
 [2026-09-11 17:23:03Z] roll=21 line 19/21 — Carpe diem. Seize the day.
+[2026-09-11 17:23:03Z] roll=21 line 20/21 — Say my name.
+[2026-09-11 17:23:03Z] roll=21 line 21/21 — Why so serious?
