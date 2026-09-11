@@ -1250,3 +1250,5 @@ and our sacred Honor.
 [2026-09-11 17:23:03Z] roll=21 line 1/21 — Get to the chopper!
 [2026-09-11 17:23:03Z] roll=21 line 2/21 — Just keep swimming.
 [2026-09-11 17:23:03Z] roll=21 line 3/21 — Fear is the mind-killer.
+[2026-09-11 17:23:03Z] roll=21 line 4/21 — Shaken, not stirred.
+[2026-09-11 17:23:03Z] roll=21 line 5/21 — Great Scott!
