@@ -1264,3 +1264,5 @@ and our sacred Honor.
 [2026-09-11 17:23:03Z] roll=21 line 15/21 — It's dangerous to go alone! Take this.
 [2026-09-11 17:23:03Z] roll=21 line 16/21 — Fear is the mind-killer.
 [2026-09-11 17:23:03Z] roll=21 line 17/21 — Shaken, not stirred.
+[2026-09-11 17:23:03Z] roll=21 line 18/21 — I am Iron Man.
+[2026-09-11 17:23:03Z] roll=21 line 19/21 — Carpe diem. Seize the day.
