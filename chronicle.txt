@@ -1258,3 +1258,5 @@ and our sacred Honor.
 [2026-09-11 17:23:03Z] roll=21 line 9/21 — I am Iron Man.
 [2026-09-11 17:23:03Z] roll=21 line 10/21 — There's no place like home.
 [2026-09-11 17:23:03Z] roll=21 line 11/21 — Stay awhile and listen.
+[2026-09-11 17:23:03Z] roll=21 line 12/21 — That is so fetch.
+[2026-09-11 17:23:03Z] roll=21 line 13/21 — The first rule of Fight Club is: you do not talk about Fight Club.
