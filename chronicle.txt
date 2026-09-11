@@ -1247,3 +1247,6 @@ and our sacred Honor.
 [2026-09-10 17:21:51Z] roll=45 line 43/45 — I can do this all day.
 [2026-09-10 17:21:51Z] roll=45 line 44/45 — Hadouken!
 [2026-09-10 17:21:51Z] roll=45 line 45/45 — I'm going to make him an offer he can't refuse.
+[2026-09-11 17:23:03Z] roll=21 line 1/21 — Get to the chopper!
+[2026-09-11 17:23:03Z] roll=21 line 2/21 — Just keep swimming.
+[2026-09-11 17:23:03Z] roll=21 line 3/21 — Fear is the mind-killer.
