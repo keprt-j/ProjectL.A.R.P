@@ -1260,3 +1260,5 @@ and our sacred Honor.
 [2026-09-11 17:23:03Z] roll=21 line 11/21 — Stay awhile and listen.
 [2026-09-11 17:23:03Z] roll=21 line 12/21 — That is so fetch.
 [2026-09-11 17:23:03Z] roll=21 line 13/21 — The first rule of Fight Club is: you do not talk about Fight Club.
+[2026-09-11 17:23:03Z] roll=21 line 14/21 — Nothing is true, everything is permitted.
+[2026-09-11 17:23:03Z] roll=21 line 15/21 — It's dangerous to go alone! Take this.
