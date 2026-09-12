@@ -1271,3 +1271,5 @@ and our sacred Honor.
 [2026-09-12 16:35:18Z] roll=5 line 1/5 — Here's looking at you, kid.
 [2026-09-12 16:35:18Z] roll=5 line 2/5 — All that is gold does not glitter.
 [2026-09-12 16:35:18Z] roll=5 line 3/5 — Space: the final frontier.
+[2026-09-12 16:35:18Z] roll=5 line 4/5 — You died.
+[2026-09-12 16:35:18Z] roll=5 line 5/5 — It's alive! It's alive!
