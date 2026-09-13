@@ -1300,3 +1300,5 @@ and our sacred Honor.
 [2026-09-13 17:06:59Z] roll=53 line 25/53 — Nobody puts Baby in a corner.
 [2026-09-13 17:06:59Z] roll=53 line 26/53 — With great power comes great responsibility.
 [2026-09-13 17:06:59Z] roll=53 line 27/53 — Live long and prosper.
+[2026-09-13 17:06:59Z] roll=53 line 28/53 — You talking to me?
+[2026-09-13 17:06:59Z] roll=53 line 29/53 — I can do this all day.
