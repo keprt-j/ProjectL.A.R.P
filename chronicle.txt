@@ -1308,3 +1308,5 @@ and our sacred Honor.
 [2026-09-13 17:06:59Z] roll=53 line 33/53 — Space: the final frontier.
 [2026-09-13 17:06:59Z] roll=53 line 34/53 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-13 17:06:59Z] roll=53 line 35/53 — Houston, we have a problem.
+[2026-09-13 17:06:59Z] roll=53 line 36/53 — So it goes.
+[2026-09-13 17:06:59Z] roll=53 line 37/53 — May the Force be with you.
