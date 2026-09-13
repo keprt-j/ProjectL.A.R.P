@@ -1288,3 +1288,5 @@ and our sacred Honor.
 [2026-09-13 17:06:59Z] roll=53 line 13/53 — It's alive! It's alive!
 [2026-09-13 17:06:59Z] roll=53 line 14/53 — You're gonna need a bigger boat.
 [2026-09-13 17:06:59Z] roll=53 line 15/53 — You died.
+[2026-09-13 17:06:59Z] roll=53 line 16/53 — Pay no attention to that man behind the curtain.
+[2026-09-13 17:06:59Z] roll=53 line 17/53 — I used to be an adventurer like you. Then I took an arrow in the knee.
