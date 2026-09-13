@@ -1294,3 +1294,5 @@ and our sacred Honor.
 [2026-09-13 17:06:59Z] roll=53 line 19/53 — Say my name.
 [2026-09-13 17:06:59Z] roll=53 line 20/53 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-09-13 17:06:59Z] roll=53 line 21/53 — Do a barrel roll!
+[2026-09-13 17:06:59Z] roll=53 line 22/53 — Say hello to my little friend!
+[2026-09-13 17:06:59Z] roll=53 line 23/53 — All your base are belong to us.
