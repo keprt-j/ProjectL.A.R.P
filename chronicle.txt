@@ -1276,3 +1276,5 @@ and our sacred Honor.
 [2026-09-13 17:06:59Z] roll=53 line 1/53 — I solemnly swear that I am up to no good.
 [2026-09-13 17:06:59Z] roll=53 line 2/53 — Do a barrel roll!
 [2026-09-13 17:06:59Z] roll=53 line 3/53 — It's alive! It's alive!
+[2026-09-13 17:06:59Z] roll=53 line 4/53 — Hadouken!
+[2026-09-13 17:06:59Z] roll=53 line 5/53 — There's no place like home.
