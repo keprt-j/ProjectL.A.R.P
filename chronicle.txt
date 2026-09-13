@@ -1314,3 +1314,5 @@ and our sacred Honor.
 [2026-09-13 17:06:59Z] roll=53 line 39/53 — Praise the Sun!
 [2026-09-13 17:06:59Z] roll=53 line 40/53 — We were on a break!
 [2026-09-13 17:06:59Z] roll=53 line 41/53 — Hasta la vista, baby.
+[2026-09-13 17:06:59Z] roll=53 line 42/53 — I'm the king of the world!
+[2026-09-13 17:06:59Z] roll=53 line 43/53 — I am your father.
