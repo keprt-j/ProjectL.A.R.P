@@ -1284,3 +1284,5 @@ and our sacred Honor.
 [2026-09-13 17:06:59Z] roll=53 line 9/53 — Do a barrel roll!
 [2026-09-13 17:06:59Z] roll=53 line 10/53 — Great Scott!
 [2026-09-13 17:06:59Z] roll=53 line 11/53 — May the Force be with you.
+[2026-09-13 17:06:59Z] roll=53 line 12/53 — Hadouken!
+[2026-09-13 17:06:59Z] roll=53 line 13/53 — It's alive! It's alive!
