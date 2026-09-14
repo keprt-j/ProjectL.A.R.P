@@ -1353,3 +1353,5 @@ and our sacred Honor.
 [2026-09-14 18:56:03Z] roll=33 line 25/33 — A man chooses. A slave obeys.
 [2026-09-14 18:56:03Z] roll=33 line 26/33 — Would you kindly?
 [2026-09-14 18:56:03Z] roll=33 line 27/33 — Engage.
+[2026-09-14 18:56:03Z] roll=33 line 28/33 — You're gonna need a bigger boat.
+[2026-09-14 18:56:03Z] roll=33 line 29/33 — All that is gold does not glitter.
