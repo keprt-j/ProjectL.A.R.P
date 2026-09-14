@@ -1347,3 +1347,5 @@ and our sacred Honor.
 [2026-09-14 18:56:03Z] roll=33 line 19/33 — I see dead people.
 [2026-09-14 18:56:03Z] roll=33 line 20/33 — Resistance is futile.
 [2026-09-14 18:56:03Z] roll=33 line 21/33 — I solemnly swear that I am up to no good.
+[2026-09-14 18:56:03Z] roll=33 line 22/33 — We were on a break!
+[2026-09-14 18:56:03Z] roll=33 line 23/33 — The truth is out there.
