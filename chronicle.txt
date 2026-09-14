@@ -1343,3 +1343,5 @@ and our sacred Honor.
 [2026-09-14 18:56:03Z] roll=33 line 15/33 — My precious.
 [2026-09-14 18:56:03Z] roll=33 line 16/33 — It's dangerous to go alone! Take this.
 [2026-09-14 18:56:03Z] roll=33 line 17/33 — I'm the king of the world!
+[2026-09-14 18:56:03Z] roll=33 line 18/33 — Clear eyes, full hearts, can't lose.
+[2026-09-14 18:56:03Z] roll=33 line 19/33 — I see dead people.
