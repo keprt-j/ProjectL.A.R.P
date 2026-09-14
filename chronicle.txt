@@ -1349,3 +1349,5 @@ and our sacred Honor.
 [2026-09-14 18:56:03Z] roll=33 line 21/33 — I solemnly swear that I am up to no good.
 [2026-09-14 18:56:03Z] roll=33 line 22/33 — We were on a break!
 [2026-09-14 18:56:03Z] roll=33 line 23/33 — The truth is out there.
+[2026-09-14 18:56:03Z] roll=33 line 24/33 — Avengers, assemble!
+[2026-09-14 18:56:03Z] roll=33 line 25/33 — A man chooses. A slave obeys.
