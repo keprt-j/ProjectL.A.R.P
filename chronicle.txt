@@ -1333,3 +1333,5 @@ and our sacred Honor.
 [2026-09-14 18:56:03Z] roll=33 line 5/33 — Keep your friends close, but your enemies closer.
 [2026-09-14 18:56:03Z] roll=33 line 6/33 — Houston, we have a problem.
 [2026-09-14 18:56:03Z] roll=33 line 7/33 — We didn't know we were making memories, we just knew we were having fun.
+[2026-09-14 18:56:03Z] roll=33 line 8/33 — The first rule of Fight Club is: you do not talk about Fight Club.
+[2026-09-14 18:56:03Z] roll=33 line 9/33 — That'll do, pig. That'll do.
