@@ -1337,3 +1337,5 @@ and our sacred Honor.
 [2026-09-14 18:56:03Z] roll=33 line 9/33 — That'll do, pig. That'll do.
 [2026-09-14 18:56:03Z] roll=33 line 10/33 — It's alive! It's alive!
 [2026-09-14 18:56:03Z] roll=33 line 11/33 — I'm the king of the world!
+[2026-09-14 18:56:03Z] roll=33 line 12/33 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-14 18:56:03Z] roll=33 line 13/33 — I used to be an adventurer like you. Then I took an arrow in the knee.
