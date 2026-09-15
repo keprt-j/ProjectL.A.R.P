@@ -1363,3 +1363,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 2/52 — Hakuna Matata.
 [2026-09-15 17:48:13Z] roll=52 line 3/52 — Avengers, assemble!
 [2026-09-15 17:48:13Z] roll=52 line 4/52 — A man chooses. A slave obeys.
+[2026-09-15 17:48:13Z] roll=52 line 5/52 — There's a snake in my boots!
+[2026-09-15 17:48:13Z] roll=52 line 6/52 — Resistance is futile.
