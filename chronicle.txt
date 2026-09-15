@@ -1397,3 +1397,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 36/52 — A man chooses. A slave obeys.
 [2026-09-15 17:48:13Z] roll=52 line 37/52 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-15 17:48:13Z] roll=52 line 38/52 — We didn't know we were making memories, we just knew we were having fun.
+[2026-09-15 17:48:13Z] roll=52 line 39/52 — I'm going to make him an offer he can't refuse.
+[2026-09-15 17:48:13Z] roll=52 line 40/52 — The cake is a lie.
