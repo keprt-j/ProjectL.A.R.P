@@ -1369,3 +1369,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 8/52 — Nothing is true, everything is permitted.
 [2026-09-15 17:48:13Z] roll=52 line 9/52 — The truth is out there.
 [2026-09-15 17:48:13Z] roll=52 line 10/52 — Stay awhile and listen.
+[2026-09-15 17:48:13Z] roll=52 line 11/52 — The truth is out there.
+[2026-09-15 17:48:13Z] roll=52 line 12/52 — You're gonna need a bigger boat.
