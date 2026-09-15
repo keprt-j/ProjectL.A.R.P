@@ -1389,3 +1389,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 28/52 — Valar morghulis.
 [2026-09-15 17:48:13Z] roll=52 line 29/52 — Elementary, my dear Watson.
 [2026-09-15 17:48:13Z] roll=52 line 30/52 — Live long and prosper.
+[2026-09-15 17:48:13Z] roll=52 line 31/52 — I want to believe.
+[2026-09-15 17:48:13Z] roll=52 line 32/52 — With great power comes great responsibility.
