@@ -1395,3 +1395,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 34/52 — Carpe diem. Seize the day.
 [2026-09-15 17:48:13Z] roll=52 line 35/52 — In a hole in the ground there lived a hobbit.
 [2026-09-15 17:48:13Z] roll=52 line 36/52 — A man chooses. A slave obeys.
+[2026-09-15 17:48:13Z] roll=52 line 37/52 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-15 17:48:13Z] roll=52 line 38/52 — We didn't know we were making memories, we just knew we were having fun.
