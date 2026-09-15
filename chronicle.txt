@@ -1407,3 +1407,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 46/52 — It's alive! It's alive!
 [2026-09-15 17:48:13Z] roll=52 line 47/52 — To boldly go where no one has gone before.
 [2026-09-15 17:48:13Z] roll=52 line 48/52 — I'm going to make him an offer he can't refuse.
+[2026-09-15 17:48:13Z] roll=52 line 49/52 — Frankly, my dear, I don't give a damn.
+[2026-09-15 17:48:13Z] roll=52 line 50/52 — Nothing is true, everything is permitted.
