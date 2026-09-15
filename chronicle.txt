@@ -1393,3 +1393,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 32/52 — With great power comes great responsibility.
 [2026-09-15 17:48:13Z] roll=52 line 33/52 — Live long and prosper.
 [2026-09-15 17:48:13Z] roll=52 line 34/52 — Carpe diem. Seize the day.
+[2026-09-15 17:48:13Z] roll=52 line 35/52 — In a hole in the ground there lived a hobbit.
+[2026-09-15 17:48:13Z] roll=52 line 36/52 — A man chooses. A slave obeys.
