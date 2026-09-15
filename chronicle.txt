@@ -1371,3 +1371,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 10/52 — Stay awhile and listen.
 [2026-09-15 17:48:13Z] roll=52 line 11/52 — The truth is out there.
 [2026-09-15 17:48:13Z] roll=52 line 12/52 — You're gonna need a bigger boat.
+[2026-09-15 17:48:13Z] roll=52 line 13/52 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-15 17:48:13Z] roll=52 line 14/52 — All that is gold does not glitter.
