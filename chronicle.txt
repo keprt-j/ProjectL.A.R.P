@@ -1367,3 +1367,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 6/52 — Resistance is futile.
 [2026-09-15 17:48:13Z] roll=52 line 7/52 — Bazinga!
 [2026-09-15 17:48:13Z] roll=52 line 8/52 — Nothing is true, everything is permitted.
+[2026-09-15 17:48:13Z] roll=52 line 9/52 — The truth is out there.
+[2026-09-15 17:48:13Z] roll=52 line 10/52 — Stay awhile and listen.
