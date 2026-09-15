@@ -1405,3 +1405,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 44/52 — Shaken, not stirred.
 [2026-09-15 17:48:13Z] roll=52 line 45/52 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-15 17:48:13Z] roll=52 line 46/52 — It's alive! It's alive!
+[2026-09-15 17:48:13Z] roll=52 line 47/52 — To boldly go where no one has gone before.
+[2026-09-15 17:48:13Z] roll=52 line 48/52 — I'm going to make him an offer he can't refuse.
