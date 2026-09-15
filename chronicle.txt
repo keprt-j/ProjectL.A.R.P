@@ -1385,3 +1385,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 24/52 — Winter is coming.
 [2026-09-15 17:48:13Z] roll=52 line 25/52 — Life is like a box of chocolates.
 [2026-09-15 17:48:13Z] roll=52 line 26/52 — Why so serious?
+[2026-09-15 17:48:13Z] roll=52 line 27/52 — It's a-me, Mario!
+[2026-09-15 17:48:13Z] roll=52 line 28/52 — Valar morghulis.
