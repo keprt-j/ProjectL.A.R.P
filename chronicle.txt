@@ -1373,3 +1373,5 @@ and our sacred Honor.
 [2026-09-15 17:48:13Z] roll=52 line 12/52 — You're gonna need a bigger boat.
 [2026-09-15 17:48:13Z] roll=52 line 13/52 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-15 17:48:13Z] roll=52 line 14/52 — All that is gold does not glitter.
+[2026-09-15 17:48:13Z] roll=52 line 15/52 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-15 17:48:13Z] roll=52 line 16/52 — We didn't know we were making memories, we just knew we were having fun.
