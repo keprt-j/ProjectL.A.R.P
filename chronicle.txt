@@ -1432,3 +1432,5 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 19/27 — War. War never changes.
 [2026-09-16 17:47:46Z] roll=27 line 20/27 — Hakuna Matata.
 [2026-09-16 17:47:46Z] roll=27 line 21/27 — Here's Johnny!
+[2026-09-16 17:47:46Z] roll=27 line 22/27 — Get to the chopper!
+[2026-09-16 17:47:46Z] roll=27 line 23/27 — Excelsior!
