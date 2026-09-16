@@ -1426,3 +1426,5 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 13/27 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-16 17:47:46Z] roll=27 line 14/27 — I drink your milkshake!
 [2026-09-16 17:47:46Z] roll=27 line 15/27 — This is the way.
+[2026-09-16 17:47:46Z] roll=27 line 16/27 — Snakes. Why did it have to be snakes?
+[2026-09-16 17:47:46Z] roll=27 line 17/27 — Frankly, my dear, I don't give a damn.
