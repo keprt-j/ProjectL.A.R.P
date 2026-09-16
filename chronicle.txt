@@ -1428,3 +1428,5 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 15/27 — This is the way.
 [2026-09-16 17:47:46Z] roll=27 line 16/27 — Snakes. Why did it have to be snakes?
 [2026-09-16 17:47:46Z] roll=27 line 17/27 — Frankly, my dear, I don't give a damn.
+[2026-09-16 17:47:46Z] roll=27 line 18/27 — Here's looking at you, kid.
+[2026-09-16 17:47:46Z] roll=27 line 19/27 — War. War never changes.
