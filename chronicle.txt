@@ -1414,3 +1414,5 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 1/27 — You talking to me?
 [2026-09-16 17:47:46Z] roll=27 line 2/27 — Life is like a box of chocolates.
 [2026-09-16 17:47:46Z] roll=27 line 3/27 — Make it so.
+[2026-09-16 17:47:46Z] roll=27 line 4/27 — Excelsior!
+[2026-09-16 17:47:46Z] roll=27 line 5/27 — Fear is the mind-killer.
