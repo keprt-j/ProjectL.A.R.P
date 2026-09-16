@@ -1436,3 +1436,5 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 23/27 — Excelsior!
 [2026-09-16 17:47:46Z] roll=27 line 24/27 — Make it so.
 [2026-09-16 17:47:46Z] roll=27 line 25/27 — You can't handle the truth!
+[2026-09-16 17:47:46Z] roll=27 line 26/27 — You can't handle the truth!
+[2026-09-16 17:47:46Z] roll=27 line 27/27 — I'll get you, my pretty, and your little dog too!
