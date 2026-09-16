@@ -1422,3 +1422,5 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 9/27 — Pay no attention to that man behind the curtain.
 [2026-09-16 17:47:46Z] roll=27 line 10/27 — Live long and prosper.
 [2026-09-16 17:47:46Z] roll=27 line 11/27 — Clear eyes, full hearts, can't lose.
+[2026-09-16 17:47:46Z] roll=27 line 12/27 — Show me the money!
+[2026-09-16 17:47:46Z] roll=27 line 13/27 — Toto, I've a feeling we're not in Kansas anymore.
