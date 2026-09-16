@@ -1420,3 +1420,5 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 7/27 — Show me the money!
 [2026-09-16 17:47:46Z] roll=27 line 8/27 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-09-16 17:47:46Z] roll=27 line 9/27 — Pay no attention to that man behind the curtain.
+[2026-09-16 17:47:46Z] roll=27 line 10/27 — Live long and prosper.
+[2026-09-16 17:47:46Z] roll=27 line 11/27 — Clear eyes, full hearts, can't lose.
