@@ -1477,3 +1477,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 37/49 — That is so fetch.
 [2026-09-17 17:47:39Z] roll=49 line 38/49 — Do a barrel roll!
 [2026-09-17 17:47:39Z] roll=49 line 39/49 — Space: the final frontier.
+[2026-09-17 17:47:39Z] roll=49 line 40/49 — War. War never changes.
+[2026-09-17 17:47:39Z] roll=49 line 41/49 — I feel the need—the need for speed!
