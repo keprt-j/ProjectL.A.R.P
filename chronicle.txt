@@ -1481,3 +1481,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 41/49 — I feel the need—the need for speed!
 [2026-09-17 17:47:39Z] roll=49 line 42/49 — Say my name.
 [2026-09-17 17:47:39Z] roll=49 line 43/49 — Roads? Where we're going, we don't need roads.
+[2026-09-17 17:47:39Z] roll=49 line 44/49 — We rob banks.
+[2026-09-17 17:47:39Z] roll=49 line 45/49 — Keep your friends close, but your enemies closer.
