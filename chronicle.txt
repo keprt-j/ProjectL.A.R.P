@@ -1471,3 +1471,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 31/49 — Hasta la vista, baby.
 [2026-09-17 17:47:39Z] roll=49 line 32/49 — That'll do, pig. That'll do.
 [2026-09-17 17:47:39Z] roll=49 line 33/49 — Keep your friends close, but your enemies closer.
+[2026-09-17 17:47:39Z] roll=49 line 34/49 — We rob banks.
+[2026-09-17 17:47:39Z] roll=49 line 35/49 — We were on a break!
