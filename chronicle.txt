@@ -1463,3 +1463,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 23/49 — All your base are belong to us.
 [2026-09-17 17:47:39Z] roll=49 line 24/49 — You had me at hello.
 [2026-09-17 17:47:39Z] roll=49 line 25/49 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-17 17:47:39Z] roll=49 line 26/49 — Stay awhile and listen.
+[2026-09-17 17:47:39Z] roll=49 line 27/49 — The cake is a lie.
