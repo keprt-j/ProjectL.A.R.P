@@ -1438,3 +1438,6 @@ and our sacred Honor.
 [2026-09-16 17:47:46Z] roll=27 line 25/27 — You can't handle the truth!
 [2026-09-16 17:47:46Z] roll=27 line 26/27 — You can't handle the truth!
 [2026-09-16 17:47:46Z] roll=27 line 27/27 — I'll get you, my pretty, and your little dog too!
+[2026-09-17 17:47:39Z] roll=49 line 1/49 — The truth is out there.
+[2026-09-17 17:47:39Z] roll=49 line 2/49 — Just keep swimming.
+[2026-09-17 17:47:39Z] roll=49 line 3/49 — Keep your friends close, but your enemies closer.
