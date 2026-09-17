@@ -1465,3 +1465,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 25/49 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-17 17:47:39Z] roll=49 line 26/49 — Stay awhile and listen.
 [2026-09-17 17:47:39Z] roll=49 line 27/49 — The cake is a lie.
+[2026-09-17 17:47:39Z] roll=49 line 28/49 — Not all those who wander are lost.
+[2026-09-17 17:47:39Z] roll=49 line 29/49 — Carpe diem. Seize the day.
