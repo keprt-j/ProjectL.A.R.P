@@ -1469,3 +1469,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 29/49 — Carpe diem. Seize the day.
 [2026-09-17 17:47:39Z] roll=49 line 30/49 — Nothing is true, everything is permitted.
 [2026-09-17 17:47:39Z] roll=49 line 31/49 — Hasta la vista, baby.
+[2026-09-17 17:47:39Z] roll=49 line 32/49 — That'll do, pig. That'll do.
+[2026-09-17 17:47:39Z] roll=49 line 33/49 — Keep your friends close, but your enemies closer.
