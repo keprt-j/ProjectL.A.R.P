@@ -1455,3 +1455,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 15/49 — It's a-me, Mario!
 [2026-09-17 17:47:39Z] roll=49 line 16/49 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-09-17 17:47:39Z] roll=49 line 17/49 — The name's Bond. James Bond.
+[2026-09-17 17:47:39Z] roll=49 line 18/49 — I am the one who knocks.
+[2026-09-17 17:47:39Z] roll=49 line 19/49 — Great Scott!
