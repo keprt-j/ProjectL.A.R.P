@@ -1445,3 +1445,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 5/49 — You died.
 [2026-09-17 17:47:39Z] roll=49 line 6/49 — Do a barrel roll!
 [2026-09-17 17:47:39Z] roll=49 line 7/49 — Live long and prosper.
+[2026-09-17 17:47:39Z] roll=49 line 8/49 — We didn't know we were making memories, we just knew we were having fun.
+[2026-09-17 17:47:39Z] roll=49 line 9/49 — Elementary, my dear Watson.
