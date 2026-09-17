@@ -1441,3 +1441,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 1/49 — The truth is out there.
 [2026-09-17 17:47:39Z] roll=49 line 2/49 — Just keep swimming.
 [2026-09-17 17:47:39Z] roll=49 line 3/49 — Keep your friends close, but your enemies closer.
+[2026-09-17 17:47:39Z] roll=49 line 4/49 — All that is gold does not glitter.
+[2026-09-17 17:47:39Z] roll=49 line 5/49 — You died.
