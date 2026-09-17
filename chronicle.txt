@@ -1457,3 +1457,5 @@ and our sacred Honor.
 [2026-09-17 17:47:39Z] roll=49 line 17/49 — The name's Bond. James Bond.
 [2026-09-17 17:47:39Z] roll=49 line 18/49 — I am the one who knocks.
 [2026-09-17 17:47:39Z] roll=49 line 19/49 — Great Scott!
+[2026-09-17 17:47:39Z] roll=49 line 20/49 — You talking to me?
+[2026-09-17 17:47:39Z] roll=49 line 21/49 — I see dead people.
