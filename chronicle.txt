@@ -1491,3 +1491,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 2/36 — My precious.
 [2026-09-18 17:19:54Z] roll=36 line 3/36 — It's dangerous to go alone! Take this.
 [2026-09-18 17:19:54Z] roll=36 line 4/36 — I am Iron Man.
+[2026-09-18 17:19:54Z] roll=36 line 5/36 — Call me Ishmael.
+[2026-09-18 17:19:54Z] roll=36 line 6/36 — I'm going to make him an offer he can't refuse.
