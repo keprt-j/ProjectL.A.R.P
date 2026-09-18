@@ -1499,3 +1499,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 10/36 — I'll be back.
 [2026-09-18 17:19:54Z] roll=36 line 11/36 — Keep your friends close, but your enemies closer.
 [2026-09-18 17:19:54Z] roll=36 line 12/36 — Frankly, my dear, I don't give a damn.
+[2026-09-18 17:19:54Z] roll=36 line 13/36 — A man chooses. A slave obeys.
+[2026-09-18 17:19:54Z] roll=36 line 14/36 — That is so fetch.
