@@ -1505,3 +1505,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 16/36 — I drink and I know things.
 [2026-09-18 17:19:54Z] roll=36 line 17/36 — Why so serious?
 [2026-09-18 17:19:54Z] roll=36 line 18/36 — The truth is out there.
+[2026-09-18 17:19:54Z] roll=36 line 19/36 — Here's Johnny!
+[2026-09-18 17:19:54Z] roll=36 line 20/36 — I am Iron Man.
