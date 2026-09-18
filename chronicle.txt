@@ -1519,3 +1519,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 30/36 — I'll have what she's having.
 [2026-09-18 17:19:54Z] roll=36 line 31/36 — All your base are belong to us.
 [2026-09-18 17:19:54Z] roll=36 line 32/36 — Valar morghulis.
+[2026-09-18 17:19:54Z] roll=36 line 33/36 — I am the one who knocks.
+[2026-09-18 17:19:54Z] roll=36 line 34/36 — Praise the Sun!
