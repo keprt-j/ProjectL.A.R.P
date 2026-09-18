@@ -1513,3 +1513,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 24/36 — We rob banks.
 [2026-09-18 17:19:54Z] roll=36 line 25/36 — Life is like a box of chocolates.
 [2026-09-18 17:19:54Z] roll=36 line 26/36 — Show me the money!
+[2026-09-18 17:19:54Z] roll=36 line 27/36 — With great power comes great responsibility.
+[2026-09-18 17:19:54Z] roll=36 line 28/36 — This is the way.
