@@ -1515,3 +1515,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 26/36 — Show me the money!
 [2026-09-18 17:19:54Z] roll=36 line 27/36 — With great power comes great responsibility.
 [2026-09-18 17:19:54Z] roll=36 line 28/36 — This is the way.
+[2026-09-18 17:19:54Z] roll=36 line 29/36 — War. War never changes.
+[2026-09-18 17:19:54Z] roll=36 line 30/36 — I'll have what she's having.
