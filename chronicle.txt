@@ -1501,3 +1501,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 12/36 — Frankly, my dear, I don't give a damn.
 [2026-09-18 17:19:54Z] roll=36 line 13/36 — A man chooses. A slave obeys.
 [2026-09-18 17:19:54Z] roll=36 line 14/36 — That is so fetch.
+[2026-09-18 17:19:54Z] roll=36 line 15/36 — I drink and I know things.
+[2026-09-18 17:19:54Z] roll=36 line 16/36 — I drink and I know things.
