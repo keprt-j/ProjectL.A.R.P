@@ -1495,3 +1495,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 6/36 — I'm going to make him an offer he can't refuse.
 [2026-09-18 17:19:54Z] roll=36 line 7/36 — Pay no attention to that man behind the curtain.
 [2026-09-18 17:19:54Z] roll=36 line 8/36 — Do a barrel roll!
+[2026-09-18 17:19:54Z] roll=36 line 9/36 — You shall not pass!
+[2026-09-18 17:19:54Z] roll=36 line 10/36 — I'll be back.
