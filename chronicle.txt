@@ -1511,3 +1511,5 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 22/36 — There's a snake in my boots!
 [2026-09-18 17:19:54Z] roll=36 line 23/36 — Say my name.
 [2026-09-18 17:19:54Z] roll=36 line 24/36 — We rob banks.
+[2026-09-18 17:19:54Z] roll=36 line 25/36 — Life is like a box of chocolates.
+[2026-09-18 17:19:54Z] roll=36 line 26/36 — Show me the money!
