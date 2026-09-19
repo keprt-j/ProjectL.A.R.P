@@ -1538,3 +1538,5 @@ and our sacred Honor.
 [2026-09-19 16:51:26Z] roll=17 line 13/17 — Excelsior!
 [2026-09-19 16:51:26Z] roll=17 line 14/17 — There's a snake in my boots!
 [2026-09-19 16:51:26Z] roll=17 line 15/17 — Say hello to my little friend!
+[2026-09-19 16:51:26Z] roll=17 line 16/17 — All that is gold does not glitter.
+[2026-09-19 16:51:26Z] roll=17 line 17/17 — May the Force be with you.
