@@ -1536,3 +1536,5 @@ and our sacred Honor.
 [2026-09-19 16:51:26Z] roll=17 line 11/17 — I am your father.
 [2026-09-19 16:51:26Z] roll=17 line 12/17 — Keep your friends close, but your enemies closer.
 [2026-09-19 16:51:26Z] roll=17 line 13/17 — Excelsior!
+[2026-09-19 16:51:26Z] roll=17 line 14/17 — There's a snake in my boots!
+[2026-09-19 16:51:26Z] roll=17 line 15/17 — Say hello to my little friend!
