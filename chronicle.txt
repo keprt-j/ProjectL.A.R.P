@@ -1526,3 +1526,5 @@ and our sacred Honor.
 [2026-09-19 16:51:26Z] roll=17 line 1/17 — It was the best of times, it was the worst of times.
 [2026-09-19 16:51:26Z] roll=17 line 2/17 — It's dangerous to go alone! Take this.
 [2026-09-19 16:51:26Z] roll=17 line 3/17 — Stay awhile and listen.
+[2026-09-19 16:51:26Z] roll=17 line 4/17 — Frankly, my dear, I don't give a damn.
+[2026-09-19 16:51:26Z] roll=17 line 5/17 — Bazinga!
