@@ -1532,3 +1532,5 @@ and our sacred Honor.
 [2026-09-19 16:51:26Z] roll=17 line 7/17 — A man chooses. A slave obeys.
 [2026-09-19 16:51:26Z] roll=17 line 8/17 — So it goes.
 [2026-09-19 16:51:26Z] roll=17 line 9/17 — Fear is the mind-killer.
+[2026-09-19 16:51:26Z] roll=17 line 10/17 — To boldly go where no one has gone before.
+[2026-09-19 16:51:26Z] roll=17 line 11/17 — I am your father.
