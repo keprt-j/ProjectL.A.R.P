@@ -1523,3 +1523,6 @@ and our sacred Honor.
 [2026-09-18 17:19:54Z] roll=36 line 34/36 — Praise the Sun!
 [2026-09-18 17:19:54Z] roll=36 line 35/36 — A man chooses. A slave obeys.
 [2026-09-18 17:19:54Z] roll=36 line 36/36 — Resistance is futile.
+[2026-09-19 16:51:26Z] roll=17 line 1/17 — It was the best of times, it was the worst of times.
+[2026-09-19 16:51:26Z] roll=17 line 2/17 — It's dangerous to go alone! Take this.
+[2026-09-19 16:51:26Z] roll=17 line 3/17 — Stay awhile and listen.
