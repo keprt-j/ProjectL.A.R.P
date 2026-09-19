@@ -1534,3 +1534,5 @@ and our sacred Honor.
 [2026-09-19 16:51:26Z] roll=17 line 9/17 — Fear is the mind-killer.
 [2026-09-19 16:51:26Z] roll=17 line 10/17 — To boldly go where no one has gone before.
 [2026-09-19 16:51:26Z] roll=17 line 11/17 — I am your father.
+[2026-09-19 16:51:26Z] roll=17 line 12/17 — Keep your friends close, but your enemies closer.
+[2026-09-19 16:51:26Z] roll=17 line 13/17 — Excelsior!
