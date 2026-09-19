@@ -1530,3 +1530,5 @@ and our sacred Honor.
 [2026-09-19 16:51:26Z] roll=17 line 5/17 — Bazinga!
 [2026-09-19 16:51:26Z] roll=17 line 6/17 — I can do this all day.
 [2026-09-19 16:51:26Z] roll=17 line 7/17 — A man chooses. A slave obeys.
+[2026-09-19 16:51:26Z] roll=17 line 8/17 — So it goes.
+[2026-09-19 16:51:26Z] roll=17 line 9/17 — Fear is the mind-killer.
