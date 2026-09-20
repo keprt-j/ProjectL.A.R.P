@@ -1564,3 +1564,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 22/60 — In a hole in the ground there lived a hobbit.
 [2026-09-20 17:04:23Z] roll=60 line 23/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-09-20 17:04:23Z] roll=60 line 24/60 — Not all those who wander are lost.
+[2026-09-20 17:04:23Z] roll=60 line 25/60 — Snakes. Why did it have to be snakes?
+[2026-09-20 17:04:23Z] roll=60 line 26/60 — Finish him!
