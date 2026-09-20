@@ -1588,3 +1588,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 46/60 — Show me the money!
 [2026-09-20 17:04:23Z] roll=60 line 47/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-09-20 17:04:23Z] roll=60 line 48/60 — I am Iron Man.
+[2026-09-20 17:04:23Z] roll=60 line 49/60 — It's alive! It's alive!
+[2026-09-20 17:04:23Z] roll=60 line 50/60 — That is so fetch.
