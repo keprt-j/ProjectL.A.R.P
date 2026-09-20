@@ -1558,3 +1558,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 16/60 — Keep your friends close, but your enemies closer.
 [2026-09-20 17:04:23Z] roll=60 line 17/60 — Clear eyes, full hearts, can't lose.
 [2026-09-20 17:04:23Z] roll=60 line 18/60 — Do or do not. There is no try.
+[2026-09-20 17:04:23Z] roll=60 line 19/60 — Just keep swimming.
+[2026-09-20 17:04:23Z] roll=60 line 20/60 — Excelsior!
