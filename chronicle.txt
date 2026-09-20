@@ -1542,3 +1542,5 @@ and our sacred Honor.
 [2026-09-19 16:51:26Z] roll=17 line 17/17 — May the Force be with you.
 [2026-09-20 17:04:23Z] roll=60 line 1/60 — All your base are belong to us.
 [2026-09-20 17:04:23Z] roll=60 line 2/60 — Live long and prosper.
+[2026-09-20 17:04:23Z] roll=60 line 3/60 — It's dangerous to go alone! Take this.
+[2026-09-20 17:04:23Z] roll=60 line 4/60 — This is the way.
