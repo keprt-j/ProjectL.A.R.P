@@ -1594,3 +1594,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 52/60 — Avengers, assemble!
 [2026-09-20 17:04:23Z] roll=60 line 53/60 — I am Iron Man.
 [2026-09-20 17:04:23Z] roll=60 line 54/60 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-20 17:04:23Z] roll=60 line 55/60 — A man chooses. A slave obeys.
+[2026-09-20 17:04:23Z] roll=60 line 56/60 — There's no place like home.
