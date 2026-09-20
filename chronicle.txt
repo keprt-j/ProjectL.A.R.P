@@ -1576,3 +1576,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 34/60 — With great power comes great responsibility.
 [2026-09-20 17:04:23Z] roll=60 line 35/60 — Snakes. Why did it have to be snakes?
 [2026-09-20 17:04:23Z] roll=60 line 36/60 — There's a snake in my boots!
+[2026-09-20 17:04:23Z] roll=60 line 37/60 — The cake is a lie.
+[2026-09-20 17:04:23Z] roll=60 line 38/60 — Hakuna Matata.
