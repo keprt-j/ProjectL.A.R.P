@@ -1586,3 +1586,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 44/60 — I'll have what she's having.
 [2026-09-20 17:04:23Z] roll=60 line 45/60 — Here's Johnny!
 [2026-09-20 17:04:23Z] roll=60 line 46/60 — Show me the money!
+[2026-09-20 17:04:23Z] roll=60 line 47/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-09-20 17:04:23Z] roll=60 line 48/60 — I am Iron Man.
