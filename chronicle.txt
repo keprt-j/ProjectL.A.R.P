@@ -1568,3 +1568,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 26/60 — Finish him!
 [2026-09-20 17:04:23Z] roll=60 line 27/60 — To infinity and beyond!
 [2026-09-20 17:04:23Z] roll=60 line 28/60 — That is so fetch.
+[2026-09-20 17:04:23Z] roll=60 line 29/60 — It's alive! It's alive!
+[2026-09-20 17:04:23Z] roll=60 line 30/60 — Valar morghulis.
