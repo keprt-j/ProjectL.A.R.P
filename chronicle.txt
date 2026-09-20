@@ -1544,3 +1544,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 2/60 — Live long and prosper.
 [2026-09-20 17:04:23Z] roll=60 line 3/60 — It's dangerous to go alone! Take this.
 [2026-09-20 17:04:23Z] roll=60 line 4/60 — This is the way.
+[2026-09-20 17:04:23Z] roll=60 line 5/60 — Would you kindly?
+[2026-09-20 17:04:23Z] roll=60 line 6/60 — I am Iron Man.
