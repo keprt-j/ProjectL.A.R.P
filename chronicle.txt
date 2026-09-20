@@ -1550,3 +1550,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 8/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-09-20 17:04:23Z] roll=60 line 9/60 — You talking to me?
 [2026-09-20 17:04:23Z] roll=60 line 10/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-09-20 17:04:23Z] roll=60 line 11/60 — How you doin'?
+[2026-09-20 17:04:23Z] roll=60 line 12/60 — Avengers, assemble!
