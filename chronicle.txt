@@ -1570,3 +1570,5 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 28/60 — That is so fetch.
 [2026-09-20 17:04:23Z] roll=60 line 29/60 — It's alive! It's alive!
 [2026-09-20 17:04:23Z] roll=60 line 30/60 — Valar morghulis.
+[2026-09-20 17:04:23Z] roll=60 line 31/60 — This is the way.
+[2026-09-20 17:04:23Z] roll=60 line 32/60 — May the Force be with you.
