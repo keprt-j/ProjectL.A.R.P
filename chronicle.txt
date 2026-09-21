@@ -1605,3 +1605,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 3/39 — Do or do not. There is no try.
 [2026-09-21 18:57:05Z] roll=39 line 4/39 — On Wednesdays we wear pink.
 [2026-09-21 18:57:05Z] roll=39 line 5/39 — Keep your friends close, but your enemies closer.
+[2026-09-21 18:57:05Z] roll=39 line 6/39 — Not all those who wander are lost.
+[2026-09-21 18:57:05Z] roll=39 line 7/39 — Winter is coming.
