@@ -1613,3 +1613,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 11/39 — Shaken, not stirred.
 [2026-09-21 18:57:05Z] roll=39 line 12/39 — I am the one who knocks.
 [2026-09-21 18:57:05Z] roll=39 line 13/39 — Would you kindly?
+[2026-09-21 18:57:05Z] roll=39 line 14/39 — Why so serious?
+[2026-09-21 18:57:05Z] roll=39 line 15/39 — All your base are belong to us.
