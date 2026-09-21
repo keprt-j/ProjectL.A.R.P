@@ -1617,3 +1617,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 15/39 — All your base are belong to us.
 [2026-09-21 18:57:05Z] roll=39 line 16/39 — Here's Johnny!
 [2026-09-21 18:57:05Z] roll=39 line 17/39 — Keep your friends close, but your enemies closer.
+[2026-09-21 18:57:05Z] roll=39 line 18/39 — Would you kindly?
+[2026-09-21 18:57:05Z] roll=39 line 19/39 — There's a snake in my boots!
