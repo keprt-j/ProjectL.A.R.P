@@ -1609,3 +1609,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 7/39 — Winter is coming.
 [2026-09-21 18:57:05Z] roll=39 line 8/39 — Make it so.
 [2026-09-21 18:57:05Z] roll=39 line 9/39 — Houston, we have a problem.
+[2026-09-21 18:57:05Z] roll=39 line 10/39 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-21 18:57:05Z] roll=39 line 11/39 — Shaken, not stirred.
