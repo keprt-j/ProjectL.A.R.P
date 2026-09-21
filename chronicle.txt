@@ -1637,3 +1637,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 35/39 — Stay awhile and listen.
 [2026-09-21 18:57:05Z] roll=39 line 36/39 — This is the way.
 [2026-09-21 18:57:05Z] roll=39 line 37/39 — Valar morghulis.
+[2026-09-21 18:57:05Z] roll=39 line 38/39 — That'll do, pig. That'll do.
+[2026-09-21 18:57:05Z] roll=39 line 39/39 — Say hello to my little friend!
