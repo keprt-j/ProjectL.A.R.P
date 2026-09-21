@@ -1607,3 +1607,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 5/39 — Keep your friends close, but your enemies closer.
 [2026-09-21 18:57:05Z] roll=39 line 6/39 — Not all those who wander are lost.
 [2026-09-21 18:57:05Z] roll=39 line 7/39 — Winter is coming.
+[2026-09-21 18:57:05Z] roll=39 line 8/39 — Make it so.
+[2026-09-21 18:57:05Z] roll=39 line 9/39 — Houston, we have a problem.
