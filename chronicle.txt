@@ -1625,3 +1625,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 23/39 — Shaken, not stirred.
 [2026-09-21 18:57:05Z] roll=39 line 24/39 — There's a snake in my boots!
 [2026-09-21 18:57:05Z] roll=39 line 25/39 — We rob banks.
+[2026-09-21 18:57:05Z] roll=39 line 26/39 — A man chooses. A slave obeys.
+[2026-09-21 18:57:05Z] roll=39 line 27/39 — It's dangerous to go alone! Take this.
