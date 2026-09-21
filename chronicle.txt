@@ -1600,3 +1600,6 @@ and our sacred Honor.
 [2026-09-20 17:04:23Z] roll=60 line 58/60 — Keep your friends close, but your enemies closer.
 [2026-09-20 17:04:23Z] roll=60 line 59/60 — It was the best of times, it was the worst of times.
 [2026-09-20 17:04:23Z] roll=60 line 60/60 — I'll have what she's having.
+[2026-09-21 18:57:05Z] roll=39 line 1/39 — Finish him!
+[2026-09-21 18:57:05Z] roll=39 line 2/39 — I feel the need—the need for speed!
+[2026-09-21 18:57:05Z] roll=39 line 3/39 — Do or do not. There is no try.
