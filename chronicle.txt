@@ -1629,3 +1629,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 27/39 — It's dangerous to go alone! Take this.
 [2026-09-21 18:57:05Z] roll=39 line 28/39 — Call me Ishmael.
 [2026-09-21 18:57:05Z] roll=39 line 29/39 — The name's Bond. James Bond.
+[2026-09-21 18:57:05Z] roll=39 line 30/39 — Nobody puts Baby in a corner.
+[2026-09-21 18:57:05Z] roll=39 line 31/39 — Frankly, my dear, I don't give a damn.
