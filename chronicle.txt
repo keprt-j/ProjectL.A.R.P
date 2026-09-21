@@ -1635,3 +1635,5 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 33/39 — I'm the king of the world!
 [2026-09-21 18:57:05Z] roll=39 line 34/39 — So it goes.
 [2026-09-21 18:57:05Z] roll=39 line 35/39 — Stay awhile and listen.
+[2026-09-21 18:57:05Z] roll=39 line 36/39 — This is the way.
+[2026-09-21 18:57:05Z] roll=39 line 37/39 — Valar morghulis.
