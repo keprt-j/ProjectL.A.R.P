@@ -1644,3 +1644,5 @@ and our sacred Honor.
 [2026-09-22 17:47:34Z] roll=21 line 3/21 — Fear is the mind-killer.
 [2026-09-22 17:47:34Z] roll=21 line 4/21 — Make it so.
 [2026-09-22 17:47:34Z] roll=21 line 5/21 — I can do this all day.
+[2026-09-22 17:47:34Z] roll=21 line 6/21 — The name's Bond. James Bond.
+[2026-09-22 17:47:34Z] roll=21 line 7/21 — You shall not pass!
