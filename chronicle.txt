@@ -1639,3 +1639,6 @@ and our sacred Honor.
 [2026-09-21 18:57:05Z] roll=39 line 37/39 — Valar morghulis.
 [2026-09-21 18:57:05Z] roll=39 line 38/39 — That'll do, pig. That'll do.
 [2026-09-21 18:57:05Z] roll=39 line 39/39 — Say hello to my little friend!
+[2026-09-22 17:47:34Z] roll=21 line 1/21 — You had me at hello.
+[2026-09-22 17:47:34Z] roll=21 line 2/21 — The spice must flow.
+[2026-09-22 17:47:34Z] roll=21 line 3/21 — Fear is the mind-killer.
