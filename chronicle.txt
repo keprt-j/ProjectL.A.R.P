@@ -1658,3 +1658,5 @@ and our sacred Honor.
 [2026-09-22 17:47:34Z] roll=21 line 17/21 — That'll do, pig. That'll do.
 [2026-09-22 17:47:34Z] roll=21 line 18/21 — After all, tomorrow is another day!
 [2026-09-22 17:47:34Z] roll=21 line 19/21 — Hakuna Matata.
+[2026-09-22 17:47:34Z] roll=21 line 20/21 — The truth is out there.
+[2026-09-22 17:47:34Z] roll=21 line 21/21 — I am the one who knocks.
