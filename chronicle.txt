@@ -1652,3 +1652,5 @@ and our sacred Honor.
 [2026-09-22 17:47:34Z] roll=21 line 11/21 — Do or do not. There is no try.
 [2026-09-22 17:47:34Z] roll=21 line 12/21 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-09-22 17:47:34Z] roll=21 line 13/21 — Live long and prosper.
+[2026-09-22 17:47:34Z] roll=21 line 14/21 — Engage.
+[2026-09-22 17:47:34Z] roll=21 line 15/21 — I am the one who knocks.
