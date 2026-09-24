@@ -1667,3 +1667,5 @@ and our sacred Honor.
 [2026-09-24 18:01:31Z] roll=8 line 4/8 — Hadouken!
 [2026-09-24 18:01:31Z] roll=8 line 5/8 — Fear is the mind-killer.
 [2026-09-24 18:01:31Z] roll=8 line 6/8 — Why so serious?
+[2026-09-24 18:01:31Z] roll=8 line 7/8 — I'll have what she's having.
+[2026-09-24 18:01:31Z] roll=8 line 8/8 — That'll do, pig. That'll do.
