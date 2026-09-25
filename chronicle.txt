@@ -1681,3 +1681,5 @@ and our sacred Honor.
 [2026-09-25 18:07:24Z] roll=16 line 10/16 — How you doin'?
 [2026-09-25 18:07:24Z] roll=16 line 11/16 — Life is like a box of chocolates.
 [2026-09-25 18:07:24Z] roll=16 line 12/16 — The cake is a lie.
+[2026-09-25 18:07:24Z] roll=16 line 13/16 — You shall not pass!
+[2026-09-25 18:07:24Z] roll=16 line 14/16 — You died.
