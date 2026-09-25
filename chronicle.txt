@@ -1671,3 +1671,5 @@ and our sacred Honor.
 [2026-09-24 18:01:31Z] roll=8 line 8/8 — That'll do, pig. That'll do.
 [2026-09-25 18:07:24Z] roll=16 line 1/16 — Let us go on and take the adventure that shall fall to us.
 [2026-09-25 18:07:24Z] roll=16 line 2/16 — Do a barrel roll!
+[2026-09-25 18:07:24Z] roll=16 line 3/16 — Nobody puts Baby in a corner.
+[2026-09-25 18:07:24Z] roll=16 line 4/16 — Toto, I've a feeling we're not in Kansas anymore.
