@@ -1673,3 +1673,5 @@ and our sacred Honor.
 [2026-09-25 18:07:24Z] roll=16 line 2/16 — Do a barrel roll!
 [2026-09-25 18:07:24Z] roll=16 line 3/16 — Nobody puts Baby in a corner.
 [2026-09-25 18:07:24Z] roll=16 line 4/16 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-09-25 18:07:24Z] roll=16 line 5/16 — My precious.
+[2026-09-25 18:07:24Z] roll=16 line 6/16 — I'm going to make him an offer he can't refuse.
