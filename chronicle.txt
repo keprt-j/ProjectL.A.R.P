@@ -1675,3 +1675,5 @@ and our sacred Honor.
 [2026-09-25 18:07:24Z] roll=16 line 4/16 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-25 18:07:24Z] roll=16 line 5/16 — My precious.
 [2026-09-25 18:07:24Z] roll=16 line 6/16 — I'm going to make him an offer he can't refuse.
+[2026-09-25 18:07:24Z] roll=16 line 7/16 — Praise the Sun!
+[2026-09-25 18:07:24Z] roll=16 line 8/16 — All your base are belong to us.
