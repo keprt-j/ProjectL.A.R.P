@@ -1683,3 +1683,5 @@ and our sacred Honor.
 [2026-09-25 18:07:24Z] roll=16 line 12/16 — The cake is a lie.
 [2026-09-25 18:07:24Z] roll=16 line 13/16 — You shall not pass!
 [2026-09-25 18:07:24Z] roll=16 line 14/16 — You died.
+[2026-09-25 18:07:24Z] roll=16 line 15/16 — Houston, we have a problem.
+[2026-09-25 18:07:24Z] roll=16 line 16/16 — It's alive! It's alive!
