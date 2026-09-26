@@ -1685,3 +1685,6 @@ and our sacred Honor.
 [2026-09-25 18:07:24Z] roll=16 line 14/16 — You died.
 [2026-09-25 18:07:24Z] roll=16 line 15/16 — Houston, we have a problem.
 [2026-09-25 18:07:24Z] roll=16 line 16/16 — It's alive! It's alive!
+[2026-09-26 17:27:02Z] roll=5 line 1/5 — Houston, we have a problem.
+[2026-09-26 17:27:02Z] roll=5 line 2/5 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-09-26 17:27:02Z] roll=5 line 3/5 — I drink your milkshake!
