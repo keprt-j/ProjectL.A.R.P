@@ -1706,3 +1706,5 @@ and our sacred Honor.
 [2026-09-27 17:57:46Z] roll=28 line 14/28 — There's a snake in my boots!
 [2026-09-27 17:57:46Z] roll=28 line 15/28 — I'll get you, my pretty, and your little dog too!
 [2026-09-27 17:57:46Z] roll=28 line 16/28 — Engage.
+[2026-09-27 17:57:46Z] roll=28 line 17/28 — This is the way.
+[2026-09-27 17:57:46Z] roll=28 line 18/28 — Say hello to my little friend!
