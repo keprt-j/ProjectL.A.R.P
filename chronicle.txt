@@ -1692,3 +1692,5 @@ and our sacred Honor.
 [2026-09-26 17:27:02Z] roll=5 line 5/5 — So it goes.
 [2026-09-27 17:57:46Z] roll=28 line 1/28 — Stay awhile and listen.
 [2026-09-27 17:57:46Z] roll=28 line 2/28 — It's dangerous to go alone! Take this.
+[2026-09-27 17:57:46Z] roll=28 line 3/28 — You talking to me?
+[2026-09-27 17:57:46Z] roll=28 line 4/28 — I see dead people.
