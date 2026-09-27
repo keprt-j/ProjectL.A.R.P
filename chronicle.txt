@@ -1712,3 +1712,5 @@ and our sacred Honor.
 [2026-09-27 17:57:46Z] roll=28 line 20/28 — Nobody puts Baby in a corner.
 [2026-09-27 17:57:46Z] roll=28 line 21/28 — War. War never changes.
 [2026-09-27 17:57:46Z] roll=28 line 22/28 — Hakuna Matata.
+[2026-09-27 17:57:46Z] roll=28 line 23/28 — Call me Ishmael.
+[2026-09-27 17:57:46Z] roll=28 line 24/28 — I want to believe.
