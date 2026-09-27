@@ -1694,3 +1694,5 @@ and our sacred Honor.
 [2026-09-27 17:57:46Z] roll=28 line 2/28 — It's dangerous to go alone! Take this.
 [2026-09-27 17:57:46Z] roll=28 line 3/28 — You talking to me?
 [2026-09-27 17:57:46Z] roll=28 line 4/28 — I see dead people.
+[2026-09-27 17:57:46Z] roll=28 line 5/28 — Great Scott!
+[2026-09-27 17:57:46Z] roll=28 line 6/28 — Pay no attention to that man behind the curtain.
