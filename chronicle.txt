@@ -1698,3 +1698,5 @@ and our sacred Honor.
 [2026-09-27 17:57:46Z] roll=28 line 6/28 — Pay no attention to that man behind the curtain.
 [2026-09-27 17:57:46Z] roll=28 line 7/28 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-09-27 17:57:46Z] roll=28 line 8/28 — I drink and I know things.
+[2026-09-27 17:57:46Z] roll=28 line 9/28 — You can't handle the truth!
+[2026-09-27 17:57:46Z] roll=28 line 10/28 — I see dead people.
