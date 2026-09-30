@@ -1720,3 +1720,5 @@ and our sacred Honor.
 [2026-09-27 17:57:46Z] roll=28 line 28/28 — You're gonna need a bigger boat.
 [2026-09-28 20:17:55Z] roll=84 line 1/1 — We were on a break!
 [2026-09-29 18:57:26Z] roll=83 line 1/1 — My precious.
+[2026-09-30 18:38:53Z] roll=44 line 1/44 — I am the one who knocks.
+[2026-09-30 18:38:53Z] roll=44 line 2/44 — The cake is a lie.
