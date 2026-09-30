@@ -1732,3 +1732,5 @@ and our sacred Honor.
 [2026-09-30 18:38:53Z] roll=44 line 10/44 — There's a snake in my boots!
 [2026-09-30 18:38:53Z] roll=44 line 11/44 — I drink your milkshake!
 [2026-09-30 18:38:53Z] roll=44 line 12/44 — I'll get you, my pretty, and your little dog too!
+[2026-09-30 18:38:53Z] roll=44 line 13/44 — It's dangerous to go alone! Take this.
+[2026-09-30 18:38:53Z] roll=44 line 14/44 — All your base are belong to us.
