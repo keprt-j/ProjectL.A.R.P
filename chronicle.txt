@@ -1722,3 +1722,5 @@ and our sacred Honor.
 [2026-09-29 18:57:26Z] roll=83 line 1/1 — My precious.
 [2026-09-30 18:38:53Z] roll=44 line 1/44 — I am the one who knocks.
 [2026-09-30 18:38:53Z] roll=44 line 2/44 — The cake is a lie.
+[2026-09-30 18:38:53Z] roll=44 line 3/44 — Call me Ishmael.
+[2026-09-30 18:38:53Z] roll=44 line 4/44 — Do a barrel roll!
