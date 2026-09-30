@@ -1744,3 +1744,5 @@ and our sacred Honor.
 [2026-09-30 18:38:53Z] roll=44 line 22/44 — I'll have what she's having.
 [2026-09-30 18:38:53Z] roll=44 line 23/44 — Do a barrel roll!
 [2026-09-30 18:38:53Z] roll=44 line 24/44 — Frankly, my dear, I don't give a damn.
+[2026-09-30 18:38:53Z] roll=44 line 25/44 — I'll be back.
+[2026-09-30 18:38:53Z] roll=44 line 26/44 — I'm the king of the world!
