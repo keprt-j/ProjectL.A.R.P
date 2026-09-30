@@ -1724,3 +1724,5 @@ and our sacred Honor.
 [2026-09-30 18:38:53Z] roll=44 line 2/44 — The cake is a lie.
 [2026-09-30 18:38:53Z] roll=44 line 3/44 — Call me Ishmael.
 [2026-09-30 18:38:53Z] roll=44 line 4/44 — Do a barrel roll!
+[2026-09-30 18:38:53Z] roll=44 line 5/44 — There's no place like home.
+[2026-09-30 18:38:53Z] roll=44 line 6/44 — To infinity and beyond!
