@@ -1740,3 +1740,5 @@ and our sacred Honor.
 [2026-09-30 18:38:53Z] roll=44 line 18/44 — Hakuna Matata.
 [2026-09-30 18:38:53Z] roll=44 line 19/44 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-09-30 18:38:53Z] roll=44 line 20/44 — We rob banks.
+[2026-09-30 18:38:53Z] roll=44 line 21/44 — Engage.
+[2026-09-30 18:38:53Z] roll=44 line 22/44 — I'll have what she's having.
