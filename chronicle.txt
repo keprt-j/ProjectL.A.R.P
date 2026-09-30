@@ -1748,3 +1748,5 @@ and our sacred Honor.
 [2026-09-30 18:38:53Z] roll=44 line 26/44 — I'm the king of the world!
 [2026-09-30 18:38:53Z] roll=44 line 27/44 — A man chooses. A slave obeys.
 [2026-09-30 18:38:53Z] roll=44 line 28/44 — Nothing is true, everything is permitted.
+[2026-09-30 18:38:53Z] roll=44 line 29/44 — I'll get you, my pretty, and your little dog too!
+[2026-09-30 18:38:53Z] roll=44 line 30/44 — I am the one who knocks.
