@@ -1760,3 +1760,5 @@ and our sacred Honor.
 [2026-09-30 18:38:53Z] roll=44 line 38/44 — Nothing is true, everything is permitted.
 [2026-09-30 18:38:53Z] roll=44 line 39/44 — The truth is out there.
 [2026-09-30 18:38:53Z] roll=44 line 40/44 — Great Scott!
+[2026-09-30 18:38:53Z] roll=44 line 41/44 — So it goes.
+[2026-09-30 18:38:53Z] roll=44 line 42/44 — Show me the money!
