@@ -1775,3 +1775,5 @@ and our sacred Honor.
 [2026-10-01 19:06:08Z] roll=25 line 9/25 — In a hole in the ground there lived a hobbit.
 [2026-10-01 19:06:08Z] roll=25 line 10/25 — Hasta la vista, baby.
 [2026-10-01 19:06:08Z] roll=25 line 11/25 — Call me Ishmael.
+[2026-10-01 19:06:08Z] roll=25 line 12/25 — You can't handle the truth!
+[2026-10-01 19:06:08Z] roll=25 line 13/25 — There's no place like home.
