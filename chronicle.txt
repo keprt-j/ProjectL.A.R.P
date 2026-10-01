@@ -1785,3 +1785,5 @@ and our sacred Honor.
 [2026-10-01 19:06:08Z] roll=25 line 19/25 — I'll be back.
 [2026-10-01 19:06:08Z] roll=25 line 20/25 — I am Iron Man.
 [2026-10-01 19:06:08Z] roll=25 line 21/25 — Make it so.
+[2026-10-01 19:06:08Z] roll=25 line 22/25 — Nobody puts Baby in a corner.
+[2026-10-01 19:06:08Z] roll=25 line 23/25 — Bazinga!
