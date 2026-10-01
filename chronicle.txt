@@ -1773,3 +1773,5 @@ and our sacred Honor.
 [2026-10-01 19:06:08Z] roll=25 line 7/25 — That's what she said.
 [2026-10-01 19:06:08Z] roll=25 line 8/25 — May the Force be with you.
 [2026-10-01 19:06:08Z] roll=25 line 9/25 — In a hole in the ground there lived a hobbit.
+[2026-10-01 19:06:08Z] roll=25 line 10/25 — Hasta la vista, baby.
+[2026-10-01 19:06:08Z] roll=25 line 11/25 — Call me Ishmael.
