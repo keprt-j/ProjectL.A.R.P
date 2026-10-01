@@ -1777,3 +1777,5 @@ and our sacred Honor.
 [2026-10-01 19:06:08Z] roll=25 line 11/25 — Call me Ishmael.
 [2026-10-01 19:06:08Z] roll=25 line 12/25 — You can't handle the truth!
 [2026-10-01 19:06:08Z] roll=25 line 13/25 — There's no place like home.
+[2026-10-01 19:06:08Z] roll=25 line 14/25 — The cake is a lie.
+[2026-10-01 19:06:08Z] roll=25 line 15/25 — It's a-me, Mario!
