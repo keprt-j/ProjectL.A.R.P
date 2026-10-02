@@ -1833,3 +1833,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 42/64 — Carpe diem. Seize the day.
 [2026-10-02 18:45:46Z] roll=64 line 43/64 — Engage.
 [2026-10-02 18:45:46Z] roll=64 line 44/64 — Not all those who wander are lost.
+[2026-10-02 18:45:46Z] roll=64 line 45/64 — The first rule of Fight Club is: you do not talk about Fight Club.
+[2026-10-02 18:45:46Z] roll=64 line 46/64 — War. War never changes.
