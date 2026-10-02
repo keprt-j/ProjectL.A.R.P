@@ -1815,3 +1815,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 24/64 — Pay no attention to that man behind the curtain.
 [2026-10-02 18:45:46Z] roll=64 line 25/64 — Space: the final frontier.
 [2026-10-02 18:45:46Z] roll=64 line 26/64 — Excelsior!
+[2026-10-02 18:45:46Z] roll=64 line 27/64 — You're gonna need a bigger boat.
+[2026-10-02 18:45:46Z] roll=64 line 28/64 — Excelsior!
