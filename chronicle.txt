@@ -1823,3 +1823,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 32/64 — All that is gold does not glitter.
 [2026-10-02 18:45:46Z] roll=64 line 33/64 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-10-02 18:45:46Z] roll=64 line 34/64 — Resistance is futile.
+[2026-10-02 18:45:46Z] roll=64 line 35/64 — Let us go on and take the adventure that shall fall to us.
+[2026-10-02 18:45:46Z] roll=64 line 36/64 — Snakes. Why did it have to be snakes?
