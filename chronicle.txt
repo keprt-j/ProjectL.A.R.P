@@ -1791,3 +1791,5 @@ and our sacred Honor.
 [2026-10-01 19:06:08Z] roll=25 line 25/25 — The truth is out there.
 [2026-10-02 18:45:46Z] roll=64 line 1/64 — Resistance is futile.
 [2026-10-02 18:45:46Z] roll=64 line 2/64 — Avengers, assemble!
+[2026-10-02 18:45:46Z] roll=64 line 3/64 — Praise the Sun!
+[2026-10-02 18:45:46Z] roll=64 line 4/64 — You're gonna need a bigger boat.
