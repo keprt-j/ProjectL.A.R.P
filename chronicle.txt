@@ -1841,3 +1841,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 50/64 — With great power comes great responsibility.
 [2026-10-02 18:45:46Z] roll=64 line 51/64 — Houston, we have a problem.
 [2026-10-02 18:45:46Z] roll=64 line 52/64 — Elementary, my dear Watson.
+[2026-10-02 18:45:46Z] roll=64 line 53/64 — Nobody puts Baby in a corner.
+[2026-10-02 18:45:46Z] roll=64 line 54/64 — All that is gold does not glitter.
