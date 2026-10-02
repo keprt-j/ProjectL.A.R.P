@@ -1851,3 +1851,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 60/64 — In a hole in the ground there lived a hobbit.
 [2026-10-02 18:45:46Z] roll=64 line 61/64 — Say hello to my little friend!
 [2026-10-02 18:45:46Z] roll=64 line 62/64 — Elementary, my dear Watson.
+[2026-10-02 18:45:46Z] roll=64 line 63/64 — You're gonna need a bigger boat.
+[2026-10-02 18:45:46Z] roll=64 line 64/64 — Would you kindly?
