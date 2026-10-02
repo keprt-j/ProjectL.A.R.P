@@ -1827,3 +1827,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 36/64 — Snakes. Why did it have to be snakes?
 [2026-10-02 18:45:46Z] roll=64 line 37/64 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-10-02 18:45:46Z] roll=64 line 38/64 — We didn't know we were making memories, we just knew we were having fun.
+[2026-10-02 18:45:46Z] roll=64 line 39/64 — Here's looking at you, kid.
+[2026-10-02 18:45:46Z] roll=64 line 40/64 — Winter is coming.
