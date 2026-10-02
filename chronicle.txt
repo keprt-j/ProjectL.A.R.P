@@ -1793,3 +1793,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 2/64 — Avengers, assemble!
 [2026-10-02 18:45:46Z] roll=64 line 3/64 — Praise the Sun!
 [2026-10-02 18:45:46Z] roll=64 line 4/64 — You're gonna need a bigger boat.
+[2026-10-02 18:45:46Z] roll=64 line 5/64 — Do or do not. There is no try.
+[2026-10-02 18:45:46Z] roll=64 line 6/64 — It was the best of times, it was the worst of times.
