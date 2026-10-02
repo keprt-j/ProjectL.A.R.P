@@ -1799,3 +1799,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 8/64 — I'm the king of the world!
 [2026-10-02 18:45:46Z] roll=64 line 9/64 — To boldly go where no one has gone before.
 [2026-10-02 18:45:46Z] roll=64 line 10/64 — Space: the final frontier.
+[2026-10-02 18:45:46Z] roll=64 line 11/64 — Fear is the mind-killer.
+[2026-10-02 18:45:46Z] roll=64 line 12/64 — Pay no attention to that man behind the curtain.
