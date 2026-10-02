@@ -1831,3 +1831,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 40/64 — Winter is coming.
 [2026-10-02 18:45:46Z] roll=64 line 41/64 — Finish him!
 [2026-10-02 18:45:46Z] roll=64 line 42/64 — Carpe diem. Seize the day.
+[2026-10-02 18:45:46Z] roll=64 line 43/64 — Engage.
+[2026-10-02 18:45:46Z] roll=64 line 44/64 — Not all those who wander are lost.
