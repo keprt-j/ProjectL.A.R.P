@@ -1805,3 +1805,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 14/64 — It's dangerous to go alone! Take this.
 [2026-10-02 18:45:46Z] roll=64 line 15/64 — There's no place like home.
 [2026-10-02 18:45:46Z] roll=64 line 16/64 — The spice must flow.
+[2026-10-02 18:45:46Z] roll=64 line 17/64 — Snakes. Why did it have to be snakes?
+[2026-10-02 18:45:46Z] roll=64 line 18/64 — Why so serious?
