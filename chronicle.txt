@@ -1801,3 +1801,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 10/64 — Space: the final frontier.
 [2026-10-02 18:45:46Z] roll=64 line 11/64 — Fear is the mind-killer.
 [2026-10-02 18:45:46Z] roll=64 line 12/64 — Pay no attention to that man behind the curtain.
+[2026-10-02 18:45:46Z] roll=64 line 13/64 — I feel the need—the need for speed!
+[2026-10-02 18:45:46Z] roll=64 line 14/64 — It's dangerous to go alone! Take this.
