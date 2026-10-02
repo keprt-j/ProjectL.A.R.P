@@ -1821,3 +1821,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 30/64 — Praise the Sun!
 [2026-10-02 18:45:46Z] roll=64 line 31/64 — Fear is the mind-killer.
 [2026-10-02 18:45:46Z] roll=64 line 32/64 — All that is gold does not glitter.
+[2026-10-02 18:45:46Z] roll=64 line 33/64 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-10-02 18:45:46Z] roll=64 line 34/64 — Resistance is futile.
