@@ -1811,3 +1811,5 @@ and our sacred Honor.
 [2026-10-02 18:45:46Z] roll=64 line 20/64 — Space: the final frontier.
 [2026-10-02 18:45:46Z] roll=64 line 21/64 — You had me at hello.
 [2026-10-02 18:45:46Z] roll=64 line 22/64 — It's a-me, Mario!
+[2026-10-02 18:45:46Z] roll=64 line 23/64 — Keep your friends close, but your enemies closer.
+[2026-10-02 18:45:46Z] roll=64 line 24/64 — Pay no attention to that man behind the curtain.
