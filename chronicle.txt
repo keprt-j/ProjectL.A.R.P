@@ -1886,3 +1886,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 24/46 — I am Iron Man.
 [2026-10-05 21:20:59Z] roll=46 line 25/46 — I am Iron Man.
 [2026-10-05 21:20:59Z] roll=46 line 26/46 — Do or do not. There is no try.
+[2026-10-05 21:20:59Z] roll=46 line 27/46 — You had me at hello.
+[2026-10-05 21:20:59Z] roll=46 line 28/46 — Valar morghulis.
