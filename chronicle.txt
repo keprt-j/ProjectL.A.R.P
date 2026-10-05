@@ -1892,3 +1892,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 30/46 — There's no place like home.
 [2026-10-05 21:20:59Z] roll=46 line 31/46 — Hasta la vista, baby.
 [2026-10-05 21:20:59Z] roll=46 line 32/46 — My precious.
+[2026-10-05 21:20:59Z] roll=46 line 33/46 — Excelsior!
+[2026-10-05 21:20:59Z] roll=46 line 34/46 — Just keep swimming.
