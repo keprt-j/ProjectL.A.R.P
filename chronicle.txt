@@ -1862,3 +1862,5 @@ and our sacred Honor.
 [2026-10-04 17:53:37Z] roll=89 line 1/1 — I want to believe.
 [2026-10-05 21:20:59Z] roll=46 line 1/46 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-10-05 21:20:59Z] roll=46 line 2/46 — Valar morghulis.
+[2026-10-05 21:20:59Z] roll=46 line 3/46 — Do or do not. There is no try.
+[2026-10-05 21:20:59Z] roll=46 line 4/46 — I'll be back.
