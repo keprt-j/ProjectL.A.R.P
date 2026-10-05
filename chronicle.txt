@@ -1890,3 +1890,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 28/46 — Valar morghulis.
 [2026-10-05 21:20:59Z] roll=46 line 29/46 — Stay awhile and listen.
 [2026-10-05 21:20:59Z] roll=46 line 30/46 — There's no place like home.
+[2026-10-05 21:20:59Z] roll=46 line 31/46 — Hasta la vista, baby.
+[2026-10-05 21:20:59Z] roll=46 line 32/46 — My precious.
