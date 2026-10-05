@@ -1904,3 +1904,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 42/46 — Shaken, not stirred.
 [2026-10-05 21:20:59Z] roll=46 line 43/46 — Great Scott!
 [2026-10-05 21:20:59Z] roll=46 line 44/46 — You died.
+[2026-10-05 21:20:59Z] roll=46 line 45/46 — You shall not pass!
+[2026-10-05 21:20:59Z] roll=46 line 46/46 — I solemnly swear that I am up to no good.
