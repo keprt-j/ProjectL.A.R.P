@@ -1870,3 +1870,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 8/46 — You had me at hello.
 [2026-10-05 21:20:59Z] roll=46 line 9/46 — I can do this all day.
 [2026-10-05 21:20:59Z] roll=46 line 10/46 — Space: the final frontier.
+[2026-10-05 21:20:59Z] roll=46 line 11/46 — The first rule of Fight Club is: you do not talk about Fight Club.
+[2026-10-05 21:20:59Z] roll=46 line 12/46 — Roads? Where we're going, we don't need roads.
