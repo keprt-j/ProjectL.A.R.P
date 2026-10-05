@@ -1882,3 +1882,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 20/46 — Finish him!
 [2026-10-05 21:20:59Z] roll=46 line 21/46 — The spice must flow.
 [2026-10-05 21:20:59Z] roll=46 line 22/46 — Hadouken!
+[2026-10-05 21:20:59Z] roll=46 line 23/46 — You talking to me?
+[2026-10-05 21:20:59Z] roll=46 line 24/46 — I am Iron Man.
