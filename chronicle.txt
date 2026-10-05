@@ -1874,3 +1874,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 12/46 — Roads? Where we're going, we don't need roads.
 [2026-10-05 21:20:59Z] roll=46 line 13/46 — Nobody puts Baby in a corner.
 [2026-10-05 21:20:59Z] roll=46 line 14/46 — That is so fetch.
+[2026-10-05 21:20:59Z] roll=46 line 15/46 — To boldly go where no one has gone before.
+[2026-10-05 21:20:59Z] roll=46 line 16/46 — Say my name.
