@@ -1864,3 +1864,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 2/46 — Valar morghulis.
 [2026-10-05 21:20:59Z] roll=46 line 3/46 — Do or do not. There is no try.
 [2026-10-05 21:20:59Z] roll=46 line 4/46 — I'll be back.
+[2026-10-05 21:20:59Z] roll=46 line 5/46 — Go ahead, make my day.
+[2026-10-05 21:20:59Z] roll=46 line 6/46 — You had me at hello.
