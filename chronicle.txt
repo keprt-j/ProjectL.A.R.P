@@ -1946,3 +1946,5 @@ and our sacred Honor.
 [2026-10-06 19:10:40Z] roll=46 line 38/46 — That'll do, pig. That'll do.
 [2026-10-06 19:10:40Z] roll=46 line 39/46 — You talking to me?
 [2026-10-06 19:10:40Z] roll=46 line 40/46 — Let us go on and take the adventure that shall fall to us.
+[2026-10-06 19:10:40Z] roll=46 line 41/46 — Live long and prosper.
+[2026-10-06 19:10:40Z] roll=46 line 42/46 — Bazinga!
