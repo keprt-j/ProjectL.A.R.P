@@ -1944,3 +1944,5 @@ and our sacred Honor.
 [2026-10-06 19:10:40Z] roll=46 line 36/46 — To boldly go where no one has gone before.
 [2026-10-06 19:10:40Z] roll=46 line 37/46 — Clear eyes, full hearts, can't lose.
 [2026-10-06 19:10:40Z] roll=46 line 38/46 — That'll do, pig. That'll do.
+[2026-10-06 19:10:40Z] roll=46 line 39/46 — You talking to me?
+[2026-10-06 19:10:40Z] roll=46 line 40/46 — Let us go on and take the adventure that shall fall to us.
