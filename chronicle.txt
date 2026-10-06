@@ -1914,3 +1914,5 @@ and our sacred Honor.
 [2026-10-06 19:10:40Z] roll=46 line 6/46 — We rob banks.
 [2026-10-06 19:10:40Z] roll=46 line 7/46 — I'll have what she's having.
 [2026-10-06 19:10:40Z] roll=46 line 8/46 — I am Iron Man.
+[2026-10-06 19:10:40Z] roll=46 line 9/46 — War. War never changes.
+[2026-10-06 19:10:40Z] roll=46 line 10/46 — I drink and I know things.
