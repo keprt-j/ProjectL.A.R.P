@@ -1918,3 +1918,5 @@ and our sacred Honor.
 [2026-10-06 19:10:40Z] roll=46 line 10/46 — I drink and I know things.
 [2026-10-06 19:10:40Z] roll=46 line 11/46 — Make it so.
 [2026-10-06 19:10:40Z] roll=46 line 12/46 — Would you kindly?
+[2026-10-06 19:10:40Z] roll=46 line 13/46 — I'm going to make him an offer he can't refuse.
+[2026-10-06 19:10:40Z] roll=46 line 14/46 — I am Iron Man.
