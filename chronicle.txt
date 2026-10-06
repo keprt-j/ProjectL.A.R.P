@@ -1908,3 +1908,5 @@ and our sacred Honor.
 [2026-10-05 21:20:59Z] roll=46 line 46/46 — I solemnly swear that I am up to no good.
 [2026-10-06 19:10:40Z] roll=46 line 1/46 — With great power comes great responsibility.
 [2026-10-06 19:10:40Z] roll=46 line 2/46 — How you doin'?
+[2026-10-06 19:10:40Z] roll=46 line 3/46 — All your base are belong to us.
+[2026-10-06 19:10:40Z] roll=46 line 4/46 — It's dangerous to go alone! Take this.
