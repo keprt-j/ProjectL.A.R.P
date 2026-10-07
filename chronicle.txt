@@ -1975,3 +1975,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 21/71 — Houston, we have a problem.
 [2026-10-07 19:37:10Z] roll=71 line 22/71 — I am your father.
 [2026-10-07 19:37:10Z] roll=71 line 23/71 — Valar morghulis.
+[2026-10-07 19:37:10Z] roll=71 line 24/71 — Resistance is futile.
+[2026-10-07 19:37:10Z] roll=71 line 25/71 — Hadouken!
