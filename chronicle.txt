@@ -1997,3 +1997,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 43/71 — We rob banks.
 [2026-10-07 19:37:10Z] roll=71 line 44/71 — One does not simply walk into Mordor.
 [2026-10-07 19:37:10Z] roll=71 line 45/71 — Say my name.
+[2026-10-07 19:37:10Z] roll=71 line 46/71 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-10-07 19:37:10Z] roll=71 line 47/71 — I used to be an adventurer like you. Then I took an arrow in the knee.
