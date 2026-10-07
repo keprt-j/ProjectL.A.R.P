@@ -1989,3 +1989,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 35/71 — Roads? Where we're going, we don't need roads.
 [2026-10-07 19:37:10Z] roll=71 line 36/71 — This is the way.
 [2026-10-07 19:37:10Z] roll=71 line 37/71 — I solemnly swear that I am up to no good.
+[2026-10-07 19:37:10Z] roll=71 line 38/71 — Excelsior!
+[2026-10-07 19:37:10Z] roll=71 line 39/71 — Make it so.
