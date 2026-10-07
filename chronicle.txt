@@ -2017,3 +2017,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 63/71 — You're gonna need a bigger boat.
 [2026-10-07 19:37:10Z] roll=71 line 64/71 — I am the one who knocks.
 [2026-10-07 19:37:10Z] roll=71 line 65/71 — Nothing is true, everything is permitted.
+[2026-10-07 19:37:10Z] roll=71 line 66/71 — That'll do, pig. That'll do.
+[2026-10-07 19:37:10Z] roll=71 line 67/71 — Shaken, not stirred.
