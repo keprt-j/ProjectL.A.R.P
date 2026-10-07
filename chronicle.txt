@@ -2003,3 +2003,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 49/71 — Go ahead, make my day.
 [2026-10-07 19:37:10Z] roll=71 line 50/71 — Life is like a box of chocolates.
 [2026-10-07 19:37:10Z] roll=71 line 51/71 — Bazinga!
+[2026-10-07 19:37:10Z] roll=71 line 52/71 — Avengers, assemble!
+[2026-10-07 19:37:10Z] roll=71 line 53/71 — You died.
