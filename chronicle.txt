@@ -1973,3 +1973,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 19/71 — I can do this all day.
 [2026-10-07 19:37:10Z] roll=71 line 20/71 — Houston, we have a problem.
 [2026-10-07 19:37:10Z] roll=71 line 21/71 — Houston, we have a problem.
+[2026-10-07 19:37:10Z] roll=71 line 22/71 — I am your father.
+[2026-10-07 19:37:10Z] roll=71 line 23/71 — Valar morghulis.
