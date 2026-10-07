@@ -1979,3 +1979,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 25/71 — Hadouken!
 [2026-10-07 19:37:10Z] roll=71 line 26/71 — Live long and prosper.
 [2026-10-07 19:37:10Z] roll=71 line 27/71 — On Wednesdays we wear pink.
+[2026-10-07 19:37:10Z] roll=71 line 28/71 — Pay no attention to that man behind the curtain.
+[2026-10-07 19:37:10Z] roll=71 line 29/71 — On Wednesdays we wear pink.
