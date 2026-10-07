@@ -1995,3 +1995,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 41/71 — A man chooses. A slave obeys.
 [2026-10-07 19:37:10Z] roll=71 line 42/71 — Would you kindly?
 [2026-10-07 19:37:10Z] roll=71 line 43/71 — We rob banks.
+[2026-10-07 19:37:10Z] roll=71 line 44/71 — One does not simply walk into Mordor.
+[2026-10-07 19:37:10Z] roll=71 line 45/71 — Say my name.
