@@ -2001,3 +2001,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 47/71 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-10-07 19:37:10Z] roll=71 line 48/71 — Fear is the mind-killer.
 [2026-10-07 19:37:10Z] roll=71 line 49/71 — Go ahead, make my day.
+[2026-10-07 19:37:10Z] roll=71 line 50/71 — Life is like a box of chocolates.
+[2026-10-07 19:37:10Z] roll=71 line 51/71 — Bazinga!
