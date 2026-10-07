@@ -2009,3 +2009,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 55/71 — The truth is out there.
 [2026-10-07 19:37:10Z] roll=71 line 56/71 — Hadouken!
 [2026-10-07 19:37:10Z] roll=71 line 57/71 — I am Iron Man.
+[2026-10-07 19:37:10Z] roll=71 line 58/71 — Say my name.
+[2026-10-07 19:37:10Z] roll=71 line 59/71 — There's no place like home.
