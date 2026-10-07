@@ -1971,3 +1971,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 17/71 — Resistance is futile.
 [2026-10-07 19:37:10Z] roll=71 line 18/71 — To infinity and beyond!
 [2026-10-07 19:37:10Z] roll=71 line 19/71 — I can do this all day.
+[2026-10-07 19:37:10Z] roll=71 line 20/71 — Houston, we have a problem.
+[2026-10-07 19:37:10Z] roll=71 line 21/71 — Houston, we have a problem.
