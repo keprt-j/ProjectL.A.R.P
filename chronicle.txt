@@ -1977,3 +1977,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 23/71 — Valar morghulis.
 [2026-10-07 19:37:10Z] roll=71 line 24/71 — Resistance is futile.
 [2026-10-07 19:37:10Z] roll=71 line 25/71 — Hadouken!
+[2026-10-07 19:37:10Z] roll=71 line 26/71 — Live long and prosper.
+[2026-10-07 19:37:10Z] roll=71 line 27/71 — On Wednesdays we wear pink.
