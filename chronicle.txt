@@ -1963,3 +1963,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 9/71 — Houston, we have a problem.
 [2026-10-07 19:37:10Z] roll=71 line 10/71 — Bazinga!
 [2026-10-07 19:37:10Z] roll=71 line 11/71 — It's dangerous to go alone! Take this.
+[2026-10-07 19:37:10Z] roll=71 line 12/71 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-10-07 19:37:10Z] roll=71 line 13/71 — So it goes.
