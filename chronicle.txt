@@ -1987,3 +1987,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 33/71 — It was the best of times, it was the worst of times.
 [2026-10-07 19:37:10Z] roll=71 line 34/71 — All that is gold does not glitter.
 [2026-10-07 19:37:10Z] roll=71 line 35/71 — Roads? Where we're going, we don't need roads.
+[2026-10-07 19:37:10Z] roll=71 line 36/71 — This is the way.
+[2026-10-07 19:37:10Z] roll=71 line 37/71 — I solemnly swear that I am up to no good.
