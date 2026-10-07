@@ -1965,3 +1965,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 11/71 — It's dangerous to go alone! Take this.
 [2026-10-07 19:37:10Z] roll=71 line 12/71 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-10-07 19:37:10Z] roll=71 line 13/71 — So it goes.
+[2026-10-07 19:37:10Z] roll=71 line 14/71 — Just keep swimming.
+[2026-10-07 19:37:10Z] roll=71 line 15/71 — There's no place like home.
