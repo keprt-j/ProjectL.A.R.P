@@ -1967,3 +1967,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 13/71 — So it goes.
 [2026-10-07 19:37:10Z] roll=71 line 14/71 — Just keep swimming.
 [2026-10-07 19:37:10Z] roll=71 line 15/71 — There's no place like home.
+[2026-10-07 19:37:10Z] roll=71 line 16/71 — We rob banks.
+[2026-10-07 19:37:10Z] roll=71 line 17/71 — Resistance is futile.
