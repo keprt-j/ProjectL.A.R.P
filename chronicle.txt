@@ -1983,3 +1983,5 @@ and our sacred Honor.
 [2026-10-07 19:37:10Z] roll=71 line 29/71 — On Wednesdays we wear pink.
 [2026-10-07 19:37:10Z] roll=71 line 30/71 — It's alive! It's alive!
 [2026-10-07 19:37:10Z] roll=71 line 31/71 — It's alive! It's alive!
+[2026-10-07 19:37:10Z] roll=71 line 32/71 — Finish him!
+[2026-10-07 19:37:10Z] roll=71 line 33/71 — It was the best of times, it was the worst of times.
