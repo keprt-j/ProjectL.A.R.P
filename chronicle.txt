@@ -2046,3 +2046,5 @@ and our sacred Honor.
 [2026-10-09 19:07:27Z] roll=26 line 20/26 — I drink and I know things.
 [2026-10-09 19:07:27Z] roll=26 line 21/26 — Show me the money!
 [2026-10-09 19:07:27Z] roll=26 line 22/26 — I drink and I know things.
+[2026-10-09 19:07:27Z] roll=26 line 23/26 — Carpe diem. Seize the day.
+[2026-10-09 19:07:27Z] roll=26 line 24/26 — The name's Bond. James Bond.
