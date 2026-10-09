@@ -2044,3 +2044,5 @@ and our sacred Honor.
 [2026-10-09 19:07:27Z] roll=26 line 18/26 — There's no place like home.
 [2026-10-09 19:07:27Z] roll=26 line 19/26 — Do or do not. There is no try.
 [2026-10-09 19:07:27Z] roll=26 line 20/26 — I drink and I know things.
+[2026-10-09 19:07:27Z] roll=26 line 21/26 — Show me the money!
+[2026-10-09 19:07:27Z] roll=26 line 22/26 — I drink and I know things.
