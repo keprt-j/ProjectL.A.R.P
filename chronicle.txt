@@ -2038,3 +2038,5 @@ and our sacred Honor.
 [2026-10-09 19:07:27Z] roll=26 line 12/26 — A man chooses. A slave obeys.
 [2026-10-09 19:07:27Z] roll=26 line 13/26 — Here's looking at you, kid.
 [2026-10-09 19:07:27Z] roll=26 line 14/26 — To boldly go where no one has gone before.
+[2026-10-09 19:07:27Z] roll=26 line 15/26 — It's alive! It's alive!
+[2026-10-09 19:07:27Z] roll=26 line 16/26 — Would you kindly?
