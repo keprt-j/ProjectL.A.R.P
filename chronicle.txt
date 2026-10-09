@@ -2040,3 +2040,5 @@ and our sacred Honor.
 [2026-10-09 19:07:27Z] roll=26 line 14/26 — To boldly go where no one has gone before.
 [2026-10-09 19:07:27Z] roll=26 line 15/26 — It's alive! It's alive!
 [2026-10-09 19:07:27Z] roll=26 line 16/26 — Would you kindly?
+[2026-10-09 19:07:27Z] roll=26 line 17/26 — Make it so.
+[2026-10-09 19:07:27Z] roll=26 line 18/26 — There's no place like home.
