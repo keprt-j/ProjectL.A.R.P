@@ -2034,3 +2034,5 @@ and our sacred Honor.
 [2026-10-09 19:07:27Z] roll=26 line 8/26 — I am your father.
 [2026-10-09 19:07:27Z] roll=26 line 9/26 — You shall not pass!
 [2026-10-09 19:07:27Z] roll=26 line 10/26 — I'm the king of the world!
+[2026-10-09 19:07:27Z] roll=26 line 11/26 — I solemnly swear that I am up to no good.
+[2026-10-09 19:07:27Z] roll=26 line 12/26 — A man chooses. A slave obeys.
