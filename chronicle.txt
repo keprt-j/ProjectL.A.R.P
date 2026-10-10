@@ -2116,3 +2116,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 64/70 — The spice must flow.
 [2026-10-10 18:05:52Z] roll=70 line 65/70 — I am the one who knocks.
 [2026-10-10 18:05:52Z] roll=70 line 66/70 — With great power comes great responsibility.
+[2026-10-10 18:05:52Z] roll=70 line 67/70 — Hasta la vista, baby.
+[2026-10-10 18:05:52Z] roll=70 line 68/70 — I'm going to make him an offer he can't refuse.
