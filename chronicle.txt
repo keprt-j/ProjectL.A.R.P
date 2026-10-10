@@ -2066,3 +2066,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 14/70 — It's a-me, Mario!
 [2026-10-10 18:05:52Z] roll=70 line 15/70 — On Wednesdays we wear pink.
 [2026-10-10 18:05:52Z] roll=70 line 16/70 — Would you kindly?
+[2026-10-10 18:05:52Z] roll=70 line 17/70 — Resistance is futile.
+[2026-10-10 18:05:52Z] roll=70 line 18/70 — Resistance is futile.
