@@ -2108,3 +2108,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 56/70 — So it goes.
 [2026-10-10 18:05:52Z] roll=70 line 57/70 — You're gonna need a bigger boat.
 [2026-10-10 18:05:52Z] roll=70 line 58/70 — May the Force be with you.
+[2026-10-10 18:05:52Z] roll=70 line 59/70 — Snakes. Why did it have to be snakes?
+[2026-10-10 18:05:52Z] roll=70 line 60/70 — It's dangerous to go alone! Take this.
