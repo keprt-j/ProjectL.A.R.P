@@ -2054,3 +2054,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 2/70 — Pay no attention to that man behind the curtain.
 [2026-10-10 18:05:52Z] roll=70 line 3/70 — Space: the final frontier.
 [2026-10-10 18:05:52Z] roll=70 line 4/70 — We rob banks.
+[2026-10-10 18:05:52Z] roll=70 line 5/70 — Clear eyes, full hearts, can't lose.
+[2026-10-10 18:05:52Z] roll=70 line 6/70 — You're gonna need a bigger boat.
