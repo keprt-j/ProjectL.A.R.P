@@ -2078,3 +2078,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 26/70 — It's alive! It's alive!
 [2026-10-10 18:05:52Z] roll=70 line 27/70 — Here's Johnny!
 [2026-10-10 18:05:52Z] roll=70 line 28/70 — Pay no attention to that man behind the curtain.
+[2026-10-10 18:05:52Z] roll=70 line 29/70 — After all, tomorrow is another day!
+[2026-10-10 18:05:52Z] roll=70 line 30/70 — Engage.
