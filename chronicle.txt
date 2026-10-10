@@ -2100,3 +2100,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 48/70 — That'll do, pig. That'll do.
 [2026-10-10 18:05:52Z] roll=70 line 49/70 — Let us go on and take the adventure that shall fall to us.
 [2026-10-10 18:05:52Z] roll=70 line 50/70 — Why so serious?
+[2026-10-10 18:05:52Z] roll=70 line 51/70 — I see dead people.
+[2026-10-10 18:05:52Z] roll=70 line 52/70 — Here's Johnny!
