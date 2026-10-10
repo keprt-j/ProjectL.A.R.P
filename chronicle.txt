@@ -2070,3 +2070,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 18/70 — Resistance is futile.
 [2026-10-10 18:05:52Z] roll=70 line 19/70 — Hadouken!
 [2026-10-10 18:05:52Z] roll=70 line 20/70 — The cake is a lie.
+[2026-10-10 18:05:52Z] roll=70 line 21/70 — I feel the need—the need for speed!
+[2026-10-10 18:05:52Z] roll=70 line 22/70 — The truth is out there.
