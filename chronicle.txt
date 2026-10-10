@@ -2090,3 +2090,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 38/70 — We were on a break!
 [2026-10-10 18:05:52Z] roll=70 line 39/70 — I'll be back.
 [2026-10-10 18:05:52Z] roll=70 line 40/70 — Why so serious?
+[2026-10-10 18:05:52Z] roll=70 line 41/70 — Frankly, my dear, I don't give a damn.
+[2026-10-10 18:05:52Z] roll=70 line 42/70 — Nothing is true, everything is permitted.
