@@ -2076,3 +2076,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 24/70 — Roads? Where we're going, we don't need roads.
 [2026-10-10 18:05:52Z] roll=70 line 25/70 — The truth is out there.
 [2026-10-10 18:05:52Z] roll=70 line 26/70 — It's alive! It's alive!
+[2026-10-10 18:05:52Z] roll=70 line 27/70 — Here's Johnny!
+[2026-10-10 18:05:52Z] roll=70 line 28/70 — Pay no attention to that man behind the curtain.
