@@ -2114,3 +2114,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 62/70 — Engage.
 [2026-10-10 18:05:52Z] roll=70 line 63/70 — Praise the Sun!
 [2026-10-10 18:05:52Z] roll=70 line 64/70 — The spice must flow.
+[2026-10-10 18:05:52Z] roll=70 line 65/70 — I am the one who knocks.
+[2026-10-10 18:05:52Z] roll=70 line 66/70 — With great power comes great responsibility.
