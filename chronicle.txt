@@ -2058,3 +2058,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 6/70 — You're gonna need a bigger boat.
 [2026-10-10 18:05:52Z] roll=70 line 7/70 — In a hole in the ground there lived a hobbit.
 [2026-10-10 18:05:52Z] roll=70 line 8/70 — I'll get you, my pretty, and your little dog too!
+[2026-10-10 18:05:52Z] roll=70 line 9/70 — I am the one who knocks.
+[2026-10-10 18:05:52Z] roll=70 line 10/70 — Nobody puts Baby in a corner.
