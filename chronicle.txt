@@ -2096,3 +2096,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 44/70 — We rob banks.
 [2026-10-10 18:05:52Z] roll=70 line 45/70 — I can do this all day.
 [2026-10-10 18:05:52Z] roll=70 line 46/70 — We were on a break!
+[2026-10-10 18:05:52Z] roll=70 line 47/70 — Hadouken!
+[2026-10-10 18:05:52Z] roll=70 line 48/70 — That'll do, pig. That'll do.
