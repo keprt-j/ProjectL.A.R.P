@@ -2050,3 +2050,5 @@ and our sacred Honor.
 [2026-10-09 19:07:27Z] roll=26 line 24/26 — The name's Bond. James Bond.
 [2026-10-09 19:07:27Z] roll=26 line 25/26 — All your base are belong to us.
 [2026-10-09 19:07:27Z] roll=26 line 26/26 — I'm going to make him an offer he can't refuse.
+[2026-10-10 18:05:52Z] roll=70 line 1/70 — Here's looking at you, kid.
+[2026-10-10 18:05:52Z] roll=70 line 2/70 — Pay no attention to that man behind the curtain.
