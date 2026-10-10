@@ -2112,3 +2112,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 60/70 — It's dangerous to go alone! Take this.
 [2026-10-10 18:05:52Z] roll=70 line 61/70 — Finish him!
 [2026-10-10 18:05:52Z] roll=70 line 62/70 — Engage.
+[2026-10-10 18:05:52Z] roll=70 line 63/70 — Praise the Sun!
+[2026-10-10 18:05:52Z] roll=70 line 64/70 — The spice must flow.
