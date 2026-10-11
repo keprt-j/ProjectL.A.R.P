@@ -2128,3 +2128,5 @@ and our sacred Honor.
 [2026-10-11 18:30:11Z] roll=18 line 6/18 — I am Iron Man.
 [2026-10-11 18:30:11Z] roll=18 line 7/18 — Clear eyes, full hearts, can't lose.
 [2026-10-11 18:30:11Z] roll=18 line 8/18 — That is so fetch.
+[2026-10-11 18:30:11Z] roll=18 line 9/18 — In a hole in the ground there lived a hobbit.
+[2026-10-11 18:30:11Z] roll=18 line 10/18 — Show me the money!
