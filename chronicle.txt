@@ -2136,3 +2136,5 @@ and our sacred Honor.
 [2026-10-11 18:30:11Z] roll=18 line 14/18 — Finish him!
 [2026-10-11 18:30:11Z] roll=18 line 15/18 — To boldly go where no one has gone before.
 [2026-10-11 18:30:11Z] roll=18 line 16/18 — Live long and prosper.
+[2026-10-11 18:30:11Z] roll=18 line 17/18 — You talking to me?
+[2026-10-11 18:30:11Z] roll=18 line 18/18 — We didn't know we were making memories, we just knew we were having fun.
