@@ -2122,3 +2122,5 @@ and our sacred Honor.
 [2026-10-10 18:05:52Z] roll=70 line 70/70 — Live long and prosper.
 [2026-10-11 18:30:11Z] roll=18 line 1/18 — That is so fetch.
 [2026-10-11 18:30:11Z] roll=18 line 2/18 — We were on a break!
+[2026-10-11 18:30:11Z] roll=18 line 3/18 — The cake is a lie.
+[2026-10-11 18:30:11Z] roll=18 line 4/18 — Pay no attention to that man behind the curtain.
