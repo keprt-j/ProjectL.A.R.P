@@ -2134,3 +2134,5 @@ and our sacred Honor.
 [2026-10-11 18:30:11Z] roll=18 line 12/18 — Valar morghulis.
 [2026-10-11 18:30:11Z] roll=18 line 13/18 — Here's Johnny!
 [2026-10-11 18:30:11Z] roll=18 line 14/18 — Finish him!
+[2026-10-11 18:30:11Z] roll=18 line 15/18 — To boldly go where no one has gone before.
+[2026-10-11 18:30:11Z] roll=18 line 16/18 — Live long and prosper.
