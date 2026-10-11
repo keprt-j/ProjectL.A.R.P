@@ -2132,3 +2132,5 @@ and our sacred Honor.
 [2026-10-11 18:30:11Z] roll=18 line 10/18 — Show me the money!
 [2026-10-11 18:30:11Z] roll=18 line 11/18 — Why so serious?
 [2026-10-11 18:30:11Z] roll=18 line 12/18 — Valar morghulis.
+[2026-10-11 18:30:11Z] roll=18 line 13/18 — Here's Johnny!
+[2026-10-11 18:30:11Z] roll=18 line 14/18 — Finish him!
