@@ -2310,3 +2310,5 @@ and our sacred Honor.
 [2026-10-13 19:58:38Z] roll=24 line 14/24 — I am Iron Man.
 [2026-10-13 19:58:38Z] roll=24 line 15/24 — I am the one who knocks.
 [2026-10-13 19:58:38Z] roll=24 line 16/24 — Snakes. Why did it have to be snakes?
+[2026-10-13 19:58:38Z] roll=24 line 17/24 — The truth is out there.
+[2026-10-13 19:58:38Z] roll=24 line 18/24 — We didn't know we were making memories, we just knew we were having fun.
