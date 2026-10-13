@@ -2308,3 +2308,5 @@ and our sacred Honor.
 [2026-10-13 19:58:38Z] roll=24 line 12/24 — You're gonna need a bigger boat.
 [2026-10-13 19:58:38Z] roll=24 line 13/24 — Winter is coming.
 [2026-10-13 19:58:38Z] roll=24 line 14/24 — I am Iron Man.
+[2026-10-13 19:58:38Z] roll=24 line 15/24 — I am the one who knocks.
+[2026-10-13 19:58:38Z] roll=24 line 16/24 — Snakes. Why did it have to be snakes?
