@@ -2304,3 +2304,5 @@ and our sacred Honor.
 [2026-10-13 19:58:38Z] roll=24 line 8/24 — After all, tomorrow is another day!
 [2026-10-13 19:58:38Z] roll=24 line 9/24 — Houston, we have a problem.
 [2026-10-13 19:58:38Z] roll=24 line 10/24 — Elementary, my dear Watson.
+[2026-10-13 19:58:38Z] roll=24 line 11/24 — Nothing is true, everything is permitted.
+[2026-10-13 19:58:38Z] roll=24 line 12/24 — You're gonna need a bigger boat.
