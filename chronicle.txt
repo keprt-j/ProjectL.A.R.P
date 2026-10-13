@@ -2316,3 +2316,5 @@ and our sacred Honor.
 [2026-10-13 19:58:38Z] roll=24 line 20/24 — Roads? Where we're going, we don't need roads.
 [2026-10-13 19:58:38Z] roll=24 line 21/24 — I'm the king of the world!
 [2026-10-13 19:58:38Z] roll=24 line 22/24 — To infinity and beyond!
+[2026-10-13 19:58:38Z] roll=24 line 23/24 — Elementary, my dear Watson.
+[2026-10-13 19:58:38Z] roll=24 line 24/24 — Valar morghulis.
