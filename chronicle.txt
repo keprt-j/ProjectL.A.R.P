@@ -2344,3 +2344,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 24/48 — So it goes.
 [2026-10-14 18:12:26Z] roll=48 line 25/48 — I want to believe.
 [2026-10-14 18:12:26Z] roll=48 line 26/48 — I drink your milkshake!
+[2026-10-14 18:12:26Z] roll=48 line 27/48 — Pay no attention to that man behind the curtain.
+[2026-10-14 18:12:26Z] roll=48 line 28/48 — We were on a break!
