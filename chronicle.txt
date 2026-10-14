@@ -2354,3 +2354,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 34/48 — Hadouken!
 [2026-10-14 18:12:26Z] roll=48 line 35/48 — I'm the king of the world!
 [2026-10-14 18:12:26Z] roll=48 line 36/48 — Fear is the mind-killer.
+[2026-10-14 18:12:26Z] roll=48 line 37/48 — I am your father.
+[2026-10-14 18:12:26Z] roll=48 line 38/48 — I'm going to make him an offer he can't refuse.
