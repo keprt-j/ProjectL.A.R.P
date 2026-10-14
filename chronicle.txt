@@ -2322,3 +2322,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 2/48 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-10-14 18:12:26Z] roll=48 line 3/48 — I'll have what she's having.
 [2026-10-14 18:12:26Z] roll=48 line 4/48 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-10-14 18:12:26Z] roll=48 line 5/48 — All that is gold does not glitter.
+[2026-10-14 18:12:26Z] roll=48 line 6/48 — May the Force be with you.
