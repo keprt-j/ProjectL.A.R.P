@@ -2358,3 +2358,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 38/48 — I'm going to make him an offer he can't refuse.
 [2026-10-14 18:12:26Z] roll=48 line 39/48 — Space: the final frontier.
 [2026-10-14 18:12:26Z] roll=48 line 40/48 — I see dead people.
+[2026-10-14 18:12:26Z] roll=48 line 41/48 — Hasta la vista, baby.
+[2026-10-14 18:12:26Z] roll=48 line 42/48 — How you doin'?
