@@ -2328,3 +2328,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 8/48 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-10-14 18:12:26Z] roll=48 line 9/48 — After all, tomorrow is another day!
 [2026-10-14 18:12:26Z] roll=48 line 10/48 — All that is gold does not glitter.
+[2026-10-14 18:12:26Z] roll=48 line 11/48 — I am Iron Man.
+[2026-10-14 18:12:26Z] roll=48 line 12/48 — Finish him!
