@@ -2332,3 +2332,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 12/48 — Finish him!
 [2026-10-14 18:12:26Z] roll=48 line 13/48 — I see dead people.
 [2026-10-14 18:12:26Z] roll=48 line 14/48 — The name's Bond. James Bond.
+[2026-10-14 18:12:26Z] roll=48 line 15/48 — Not all those who wander are lost.
+[2026-10-14 18:12:26Z] roll=48 line 16/48 — It was the best of times, it was the worst of times.
