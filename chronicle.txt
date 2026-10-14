@@ -2352,3 +2352,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 32/48 — Call me Ishmael.
 [2026-10-14 18:12:26Z] roll=48 line 33/48 — Say my name.
 [2026-10-14 18:12:26Z] roll=48 line 34/48 — Hadouken!
+[2026-10-14 18:12:26Z] roll=48 line 35/48 — I'm the king of the world!
+[2026-10-14 18:12:26Z] roll=48 line 36/48 — Fear is the mind-killer.
