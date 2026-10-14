@@ -2318,3 +2318,5 @@ and our sacred Honor.
 [2026-10-13 19:58:38Z] roll=24 line 22/24 — To infinity and beyond!
 [2026-10-13 19:58:38Z] roll=24 line 23/24 — Elementary, my dear Watson.
 [2026-10-13 19:58:38Z] roll=24 line 24/24 — Valar morghulis.
+[2026-10-14 18:12:26Z] roll=48 line 1/48 — Stay awhile and listen.
+[2026-10-14 18:12:26Z] roll=48 line 2/48 — Toto, I've a feeling we're not in Kansas anymore.
