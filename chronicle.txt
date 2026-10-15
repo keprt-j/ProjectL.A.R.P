@@ -2374,3 +2374,5 @@ and our sacred Honor.
 [2026-10-15 17:55:03Z] roll=20 line 6/20 — Say my name.
 [2026-10-15 17:55:03Z] roll=20 line 7/20 — Stay awhile and listen.
 [2026-10-15 17:55:03Z] roll=20 line 8/20 — Nothing is true, everything is permitted.
+[2026-10-15 17:55:03Z] roll=20 line 9/20 — One does not simply walk into Mordor.
+[2026-10-15 17:55:03Z] roll=20 line 10/20 — Let us go on and take the adventure that shall fall to us.
