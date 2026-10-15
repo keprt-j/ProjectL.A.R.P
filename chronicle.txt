@@ -2380,3 +2380,5 @@ and our sacred Honor.
 [2026-10-15 17:55:03Z] roll=20 line 12/20 — Call me Ishmael.
 [2026-10-15 17:55:03Z] roll=20 line 13/20 — The spice must flow.
 [2026-10-15 17:55:03Z] roll=20 line 14/20 — You can't handle the truth!
+[2026-10-15 17:55:03Z] roll=20 line 15/20 — We rob banks.
+[2026-10-15 17:55:03Z] roll=20 line 16/20 — I'm the king of the world!
