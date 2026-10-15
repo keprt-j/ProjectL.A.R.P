@@ -2376,3 +2376,5 @@ and our sacred Honor.
 [2026-10-15 17:55:03Z] roll=20 line 8/20 — Nothing is true, everything is permitted.
 [2026-10-15 17:55:03Z] roll=20 line 9/20 — One does not simply walk into Mordor.
 [2026-10-15 17:55:03Z] roll=20 line 10/20 — Let us go on and take the adventure that shall fall to us.
+[2026-10-15 17:55:03Z] roll=20 line 11/20 — Pay no attention to that man behind the curtain.
+[2026-10-15 17:55:03Z] roll=20 line 12/20 — Call me Ishmael.
