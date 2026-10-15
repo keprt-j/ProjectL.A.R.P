@@ -2382,3 +2382,5 @@ and our sacred Honor.
 [2026-10-15 17:55:03Z] roll=20 line 14/20 — You can't handle the truth!
 [2026-10-15 17:55:03Z] roll=20 line 15/20 — We rob banks.
 [2026-10-15 17:55:03Z] roll=20 line 16/20 — I'm the king of the world!
+[2026-10-15 17:55:03Z] roll=20 line 17/20 — I am your father.
+[2026-10-15 17:55:03Z] roll=20 line 18/20 — It's a-me, Mario!
