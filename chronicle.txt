@@ -2370,3 +2370,5 @@ and our sacred Honor.
 [2026-10-15 17:55:03Z] roll=20 line 2/20 — Get to the chopper!
 [2026-10-15 17:55:03Z] roll=20 line 3/20 — Would you kindly?
 [2026-10-15 17:55:03Z] roll=20 line 4/20 — Do or do not. There is no try.
+[2026-10-15 17:55:03Z] roll=20 line 5/20 — Fear is the mind-killer.
+[2026-10-15 17:55:03Z] roll=20 line 6/20 — Say my name.
