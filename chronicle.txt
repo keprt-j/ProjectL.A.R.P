@@ -2368,3 +2368,5 @@ and our sacred Honor.
 [2026-10-14 18:12:26Z] roll=48 line 48/48 — I drink and I know things.
 [2026-10-15 17:55:03Z] roll=20 line 1/20 — There's a snake in my boots!
 [2026-10-15 17:55:03Z] roll=20 line 2/20 — Get to the chopper!
+[2026-10-15 17:55:03Z] roll=20 line 3/20 — Would you kindly?
+[2026-10-15 17:55:03Z] roll=20 line 4/20 — Do or do not. There is no try.
