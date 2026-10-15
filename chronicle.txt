@@ -2378,3 +2378,5 @@ and our sacred Honor.
 [2026-10-15 17:55:03Z] roll=20 line 10/20 — Let us go on and take the adventure that shall fall to us.
 [2026-10-15 17:55:03Z] roll=20 line 11/20 — Pay no attention to that man behind the curtain.
 [2026-10-15 17:55:03Z] roll=20 line 12/20 — Call me Ishmael.
+[2026-10-15 17:55:03Z] roll=20 line 13/20 — The spice must flow.
+[2026-10-15 17:55:03Z] roll=20 line 14/20 — You can't handle the truth!
