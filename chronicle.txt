@@ -2404,3 +2404,5 @@ and our sacred Honor.
 [2026-10-17 16:43:17Z] roll=23 line 15/23 — After all, tomorrow is another day!
 [2026-10-17 16:43:17Z] roll=23 line 16/23 — The name's Bond. James Bond.
 [2026-10-17 16:43:17Z] roll=23 line 17/23 — A man chooses. A slave obeys.
+[2026-10-17 16:43:17Z] roll=23 line 18/23 — You had me at hello.
+[2026-10-17 16:43:17Z] roll=23 line 19/23 — You can't handle the truth!
