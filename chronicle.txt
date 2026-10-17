@@ -2387,3 +2387,6 @@ and our sacred Honor.
 [2026-10-15 17:55:03Z] roll=20 line 19/20 — We didn't know we were making memories, we just knew we were having fun.
 [2026-10-15 17:55:03Z] roll=20 line 20/20 — Shaken, not stirred.
 [2026-10-16 17:43:26Z] roll=84 line 1/1 — In a hole in the ground there lived a hobbit.
+[2026-10-17 16:43:17Z] roll=23 line 1/23 — Excelsior!
+[2026-10-17 16:43:17Z] roll=23 line 2/23 — Clear eyes, full hearts, can't lose.
+[2026-10-17 16:43:17Z] roll=23 line 3/23 — Say my name.
