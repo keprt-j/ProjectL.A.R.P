@@ -2396,3 +2396,5 @@ and our sacred Honor.
 [2026-10-17 16:43:17Z] roll=23 line 7/23 — It's dangerous to go alone! Take this.
 [2026-10-17 16:43:17Z] roll=23 line 8/23 — Roads? Where we're going, we don't need roads.
 [2026-10-17 16:43:17Z] roll=23 line 9/23 — Nothing is true, everything is permitted.
+[2026-10-17 16:43:17Z] roll=23 line 10/23 — I want to believe.
+[2026-10-17 16:43:17Z] roll=23 line 11/23 — We rob banks.
