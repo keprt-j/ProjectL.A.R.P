@@ -2402,3 +2402,5 @@ and our sacred Honor.
 [2026-10-17 16:43:17Z] roll=23 line 13/23 — Let us go on and take the adventure that shall fall to us.
 [2026-10-17 16:43:17Z] roll=23 line 14/23 — Carpe diem. Seize the day.
 [2026-10-17 16:43:17Z] roll=23 line 15/23 — After all, tomorrow is another day!
+[2026-10-17 16:43:17Z] roll=23 line 16/23 — The name's Bond. James Bond.
+[2026-10-17 16:43:17Z] roll=23 line 17/23 — A man chooses. A slave obeys.
