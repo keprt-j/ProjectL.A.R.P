@@ -2392,3 +2392,5 @@ and our sacred Honor.
 [2026-10-17 16:43:17Z] roll=23 line 3/23 — Say my name.
 [2026-10-17 16:43:17Z] roll=23 line 4/23 — To boldly go where no one has gone before.
 [2026-10-17 16:43:17Z] roll=23 line 5/23 — Get to the chopper!
+[2026-10-17 16:43:17Z] roll=23 line 6/23 — Stay awhile and listen.
+[2026-10-17 16:43:17Z] roll=23 line 7/23 — It's dangerous to go alone! Take this.
