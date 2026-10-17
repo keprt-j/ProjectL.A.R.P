@@ -2408,3 +2408,5 @@ and our sacred Honor.
 [2026-10-17 16:43:17Z] roll=23 line 19/23 — You can't handle the truth!
 [2026-10-17 16:43:17Z] roll=23 line 20/23 — I drink and I know things.
 [2026-10-17 16:43:17Z] roll=23 line 21/23 — My precious.
+[2026-10-17 16:43:17Z] roll=23 line 22/23 — Would you kindly?
+[2026-10-17 16:43:17Z] roll=23 line 23/23 — We rob banks.
