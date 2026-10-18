@@ -2421,3 +2421,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 9/59 — Space: the final frontier.
 [2026-10-18 16:59:00Z] roll=59 line 10/59 — It's dangerous to go alone! Take this.
 [2026-10-18 16:59:00Z] roll=59 line 11/59 — Resistance is futile.
+[2026-10-18 16:59:00Z] roll=59 line 12/59 — Houston, we have a problem.
+[2026-10-18 16:59:00Z] roll=59 line 13/59 — I am the one who knocks.
