@@ -2413,3 +2413,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 1/59 — Do or do not. There is no try.
 [2026-10-18 16:59:00Z] roll=59 line 2/59 — Resistance is futile.
 [2026-10-18 16:59:00Z] roll=59 line 3/59 — Call me Ishmael.
+[2026-10-18 16:59:00Z] roll=59 line 4/59 — We rob banks.
+[2026-10-18 16:59:00Z] roll=59 line 5/59 — Roads? Where we're going, we don't need roads.
