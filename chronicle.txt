@@ -2425,3 +2425,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 13/59 — I am the one who knocks.
 [2026-10-18 16:59:00Z] roll=59 line 14/59 — All that is gold does not glitter.
 [2026-10-18 16:59:00Z] roll=59 line 15/59 — The truth is out there.
+[2026-10-18 16:59:00Z] roll=59 line 16/59 — Great Scott!
+[2026-10-18 16:59:00Z] roll=59 line 17/59 — It's dangerous to go alone! Take this.
