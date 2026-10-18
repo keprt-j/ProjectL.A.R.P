@@ -2435,3 +2435,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 23/59 — That is so fetch.
 [2026-10-18 16:59:00Z] roll=59 line 24/59 — I drink your milkshake!
 [2026-10-18 16:59:00Z] roll=59 line 25/59 — You talking to me?
+[2026-10-18 16:59:00Z] roll=59 line 26/59 — Frankly, my dear, I don't give a damn.
+[2026-10-18 16:59:00Z] roll=59 line 27/59 — I am the one who knocks.
