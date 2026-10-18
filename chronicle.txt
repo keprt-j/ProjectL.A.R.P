@@ -2419,3 +2419,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 7/59 — Get to the chopper!
 [2026-10-18 16:59:00Z] roll=59 line 8/59 — Go ahead, make my day.
 [2026-10-18 16:59:00Z] roll=59 line 9/59 — Space: the final frontier.
+[2026-10-18 16:59:00Z] roll=59 line 10/59 — It's dangerous to go alone! Take this.
+[2026-10-18 16:59:00Z] roll=59 line 11/59 — Resistance is futile.
