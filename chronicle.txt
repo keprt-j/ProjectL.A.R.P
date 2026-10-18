@@ -2459,3 +2459,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 47/59 — To boldly go where no one has gone before.
 [2026-10-18 16:59:00Z] roll=59 line 48/59 — The name's Bond. James Bond.
 [2026-10-18 16:59:00Z] roll=59 line 49/59 — Keep your friends close, but your enemies closer.
+[2026-10-18 16:59:00Z] roll=59 line 50/59 — All that is gold does not glitter.
+[2026-10-18 16:59:00Z] roll=59 line 51/59 — I am the one who knocks.
