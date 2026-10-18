@@ -2449,3 +2449,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 37/59 — You shall not pass!
 [2026-10-18 16:59:00Z] roll=59 line 38/59 — Toto, I've a feeling we're not in Kansas anymore.
 [2026-10-18 16:59:00Z] roll=59 line 39/59 — I see dead people.
+[2026-10-18 16:59:00Z] roll=59 line 40/59 — Pay no attention to that man behind the curtain.
+[2026-10-18 16:59:00Z] roll=59 line 41/59 — It's dangerous to go alone! Take this.
