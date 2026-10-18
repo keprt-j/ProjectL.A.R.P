@@ -2429,3 +2429,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 17/59 — It's dangerous to go alone! Take this.
 [2026-10-18 16:59:00Z] roll=59 line 18/59 — Bazinga!
 [2026-10-18 16:59:00Z] roll=59 line 19/59 — Fear is the mind-killer.
+[2026-10-18 16:59:00Z] roll=59 line 20/59 — You died.
+[2026-10-18 16:59:00Z] roll=59 line 21/59 — To boldly go where no one has gone before.
