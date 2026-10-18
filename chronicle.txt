@@ -2467,3 +2467,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 55/59 — Pay no attention to that man behind the curtain.
 [2026-10-18 16:59:00Z] roll=59 line 56/59 — I'm the king of the world!
 [2026-10-18 16:59:00Z] roll=59 line 57/59 — Live long and prosper.
+[2026-10-18 16:59:00Z] roll=59 line 58/59 — Excelsior!
+[2026-10-18 16:59:00Z] roll=59 line 59/59 — Hakuna Matata.
