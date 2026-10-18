@@ -2445,3 +2445,5 @@ and our sacred Honor.
 [2026-10-18 16:59:00Z] roll=59 line 33/59 — How you doin'?
 [2026-10-18 16:59:00Z] roll=59 line 34/59 — Praise the Sun!
 [2026-10-18 16:59:00Z] roll=59 line 35/59 — Hakuna Matata.
+[2026-10-18 16:59:00Z] roll=59 line 36/59 — Let us go on and take the adventure that shall fall to us.
+[2026-10-18 16:59:00Z] roll=59 line 37/59 — You shall not pass!
