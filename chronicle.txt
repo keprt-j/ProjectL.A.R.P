@@ -2508,3 +2508,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 32/70 — Let us go on and take the adventure that shall fall to us.
 [2026-10-21 18:17:34Z] roll=70 line 33/70 — Hakuna Matata.
 [2026-10-21 18:17:34Z] roll=70 line 34/70 — I am Iron Man.
+[2026-10-21 18:17:34Z] roll=70 line 35/70 — So it goes.
+[2026-10-21 18:17:34Z] roll=70 line 36/70 — Nobody puts Baby in a corner.
