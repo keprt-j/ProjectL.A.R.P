@@ -2496,3 +2496,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 20/70 — Houston, we have a problem.
 [2026-10-21 18:17:34Z] roll=70 line 21/70 — Winter is coming.
 [2026-10-21 18:17:34Z] roll=70 line 22/70 — You can't handle the truth!
+[2026-10-21 18:17:34Z] roll=70 line 23/70 — That is so fetch.
+[2026-10-21 18:17:34Z] roll=70 line 24/70 — Bazinga!
