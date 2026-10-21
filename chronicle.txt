@@ -2488,3 +2488,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 12/70 — It was the best of times, it was the worst of times.
 [2026-10-21 18:17:34Z] roll=70 line 13/70 — Engage.
 [2026-10-21 18:17:34Z] roll=70 line 14/70 — After all, tomorrow is another day!
+[2026-10-21 18:17:34Z] roll=70 line 15/70 — You shall not pass!
+[2026-10-21 18:17:34Z] roll=70 line 16/70 — Finish him!
