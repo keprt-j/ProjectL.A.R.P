@@ -2530,3 +2530,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 54/70 — To boldly go where no one has gone before.
 [2026-10-21 18:17:34Z] roll=70 line 55/70 — Pay no attention to that man behind the curtain.
 [2026-10-21 18:17:34Z] roll=70 line 56/70 — Why so serious?
+[2026-10-21 18:17:34Z] roll=70 line 57/70 — War. War never changes.
+[2026-10-21 18:17:34Z] roll=70 line 58/70 — I am Iron Man.
