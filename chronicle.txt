@@ -2476,3 +2476,5 @@ and our sacred Honor.
 [2026-10-20 18:10:00Z] roll=3 line 3/3 — War. War never changes.
 [2026-10-21 18:17:34Z] roll=70 line 1/70 — It was the best of times, it was the worst of times.
 [2026-10-21 18:17:34Z] roll=70 line 2/70 — There's a snake in my boots!
+[2026-10-21 18:17:34Z] roll=70 line 3/70 — We were on a break!
+[2026-10-21 18:17:34Z] roll=70 line 4/70 — Winter is coming.
