@@ -2522,3 +2522,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 46/70 — Live long and prosper.
 [2026-10-21 18:17:34Z] roll=70 line 47/70 — I drink your milkshake!
 [2026-10-21 18:17:34Z] roll=70 line 48/70 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-10-21 18:17:34Z] roll=70 line 49/70 — That is so fetch.
+[2026-10-21 18:17:34Z] roll=70 line 50/70 — Toto, I've a feeling we're not in Kansas anymore.
