@@ -2474,3 +2474,5 @@ and our sacred Honor.
 [2026-10-20 18:10:00Z] roll=3 line 1/3 — Keep your friends close, but your enemies closer.
 [2026-10-20 18:10:00Z] roll=3 line 2/3 — It's dangerous to go alone! Take this.
 [2026-10-20 18:10:00Z] roll=3 line 3/3 — War. War never changes.
+[2026-10-21 18:17:34Z] roll=70 line 1/70 — It was the best of times, it was the worst of times.
+[2026-10-21 18:17:34Z] roll=70 line 2/70 — There's a snake in my boots!
