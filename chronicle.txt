@@ -2520,3 +2520,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 44/70 — Fear is the mind-killer.
 [2026-10-21 18:17:34Z] roll=70 line 45/70 — I drink your milkshake!
 [2026-10-21 18:17:34Z] roll=70 line 46/70 — Live long and prosper.
+[2026-10-21 18:17:34Z] roll=70 line 47/70 — I drink your milkshake!
+[2026-10-21 18:17:34Z] roll=70 line 48/70 — I used to be an adventurer like you. Then I took an arrow in the knee.
