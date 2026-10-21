@@ -2478,3 +2478,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 2/70 — There's a snake in my boots!
 [2026-10-21 18:17:34Z] roll=70 line 3/70 — We were on a break!
 [2026-10-21 18:17:34Z] roll=70 line 4/70 — Winter is coming.
+[2026-10-21 18:17:34Z] roll=70 line 5/70 — Hakuna Matata.
+[2026-10-21 18:17:34Z] roll=70 line 6/70 — May the Force be with you.
