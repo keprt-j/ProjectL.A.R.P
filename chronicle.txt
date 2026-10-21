@@ -2524,3 +2524,5 @@ and our sacred Honor.
 [2026-10-21 18:17:34Z] roll=70 line 48/70 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-10-21 18:17:34Z] roll=70 line 49/70 — That is so fetch.
 [2026-10-21 18:17:34Z] roll=70 line 50/70 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-10-21 18:17:34Z] roll=70 line 51/70 — That's what she said.
+[2026-10-21 18:17:34Z] roll=70 line 52/70 — I'll be back.
