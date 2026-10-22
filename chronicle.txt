@@ -2547,3 +2547,5 @@ and our sacred Honor.
 [2026-10-22 18:11:40Z] roll=5 line 1/5 — Why so serious?
 [2026-10-22 18:11:40Z] roll=5 line 2/5 — It's alive! It's alive!
 [2026-10-22 18:11:40Z] roll=5 line 3/5 — This is the way.
+[2026-10-22 18:11:40Z] roll=5 line 4/5 — You're gonna need a bigger boat.
+[2026-10-22 18:11:40Z] roll=5 line 5/5 — That'll do, pig. That'll do.
