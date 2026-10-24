@@ -2580,3 +2580,5 @@ and our sacred Honor.
 [2026-10-24 17:04:01Z] roll=30 line 22/30 — Snakes. Why did it have to be snakes?
 [2026-10-24 17:04:01Z] roll=30 line 23/30 — I see dead people.
 [2026-10-24 17:04:01Z] roll=30 line 24/30 — I'll be back.
+[2026-10-24 17:04:01Z] roll=30 line 25/30 — Here's Johnny!
+[2026-10-24 17:04:01Z] roll=30 line 26/30 — I feel the need—the need for speed!
