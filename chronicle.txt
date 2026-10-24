@@ -2568,3 +2568,5 @@ and our sacred Honor.
 [2026-10-24 17:04:01Z] roll=30 line 10/30 — It's dangerous to go alone! Take this.
 [2026-10-24 17:04:01Z] roll=30 line 11/30 — Stay awhile and listen.
 [2026-10-24 17:04:01Z] roll=30 line 12/30 — With great power comes great responsibility.
+[2026-10-24 17:04:01Z] roll=30 line 13/30 — You talking to me?
+[2026-10-24 17:04:01Z] roll=30 line 14/30 — Say hello to my little friend!
