@@ -2570,3 +2570,5 @@ and our sacred Honor.
 [2026-10-24 17:04:01Z] roll=30 line 12/30 — With great power comes great responsibility.
 [2026-10-24 17:04:01Z] roll=30 line 13/30 — You talking to me?
 [2026-10-24 17:04:01Z] roll=30 line 14/30 — Say hello to my little friend!
+[2026-10-24 17:04:01Z] roll=30 line 15/30 — It was the best of times, it was the worst of times.
+[2026-10-24 17:04:01Z] roll=30 line 16/30 — Here's looking at you, kid.
