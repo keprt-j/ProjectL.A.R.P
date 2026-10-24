@@ -2558,3 +2558,5 @@ and our sacred Honor.
 [2026-10-23 18:00:10Z] roll=7 line 7/7 — Houston, we have a problem.
 [2026-10-24 17:04:01Z] roll=30 line 1/30 — The spice must flow.
 [2026-10-24 17:04:01Z] roll=30 line 2/30 — On Wednesdays we wear pink.
+[2026-10-24 17:04:01Z] roll=30 line 3/30 — Here's Johnny!
+[2026-10-24 17:04:01Z] roll=30 line 4/30 — Clear eyes, full hearts, can't lose.
