@@ -2578,3 +2578,5 @@ and our sacred Honor.
 [2026-10-24 17:04:01Z] roll=30 line 20/30 — Say hello to my little friend!
 [2026-10-24 17:04:01Z] roll=30 line 21/30 — Valar morghulis.
 [2026-10-24 17:04:01Z] roll=30 line 22/30 — Snakes. Why did it have to be snakes?
+[2026-10-24 17:04:01Z] roll=30 line 23/30 — I see dead people.
+[2026-10-24 17:04:01Z] roll=30 line 24/30 — I'll be back.
