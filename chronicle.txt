@@ -2566,3 +2566,5 @@ and our sacred Honor.
 [2026-10-24 17:04:01Z] roll=30 line 8/30 — Would you kindly?
 [2026-10-24 17:04:01Z] roll=30 line 9/30 — I am your father.
 [2026-10-24 17:04:01Z] roll=30 line 10/30 — It's dangerous to go alone! Take this.
+[2026-10-24 17:04:01Z] roll=30 line 11/30 — Stay awhile and listen.
+[2026-10-24 17:04:01Z] roll=30 line 12/30 — With great power comes great responsibility.
