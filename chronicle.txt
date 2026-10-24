@@ -2584,3 +2584,5 @@ and our sacred Honor.
 [2026-10-24 17:04:01Z] roll=30 line 26/30 — I feel the need—the need for speed!
 [2026-10-24 17:04:01Z] roll=30 line 27/30 — We rob banks.
 [2026-10-24 17:04:01Z] roll=30 line 28/30 — I'll have what she's having.
+[2026-10-24 17:04:01Z] roll=30 line 29/30 — So it goes.
+[2026-10-24 17:04:01Z] roll=30 line 30/30 — Engage.
