@@ -2600,3 +2600,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 11/33 — Why so serious?
 [2026-10-26 19:37:10Z] roll=33 line 12/33 — Resistance is futile.
 [2026-10-26 19:37:10Z] roll=33 line 13/33 — Live long and prosper.
+[2026-10-26 19:37:10Z] roll=33 line 14/33 — You shall not pass!
+[2026-10-26 19:37:10Z] roll=33 line 15/33 — Bazinga!
