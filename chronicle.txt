@@ -2616,3 +2616,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 27/33 — It's dangerous to go alone! Take this.
 [2026-10-26 19:37:10Z] roll=33 line 28/33 — How you doin'?
 [2026-10-26 19:37:10Z] roll=33 line 29/33 — The spice must flow.
+[2026-10-26 19:37:10Z] roll=33 line 30/33 — I drink and I know things.
+[2026-10-26 19:37:10Z] roll=33 line 31/33 — Call me Ishmael.
