@@ -2618,3 +2618,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 29/33 — The spice must flow.
 [2026-10-26 19:37:10Z] roll=33 line 30/33 — I drink and I know things.
 [2026-10-26 19:37:10Z] roll=33 line 31/33 — Call me Ishmael.
+[2026-10-26 19:37:10Z] roll=33 line 32/33 — One does not simply walk into Mordor.
+[2026-10-26 19:37:10Z] roll=33 line 33/33 — It's dangerous to go alone! Take this.
