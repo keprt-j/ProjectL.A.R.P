@@ -2596,3 +2596,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 7/33 — So it goes.
 [2026-10-26 19:37:10Z] roll=33 line 8/33 — Clear eyes, full hearts, can't lose.
 [2026-10-26 19:37:10Z] roll=33 line 9/33 — Here's Johnny!
+[2026-10-26 19:37:10Z] roll=33 line 10/33 — In a hole in the ground there lived a hobbit.
+[2026-10-26 19:37:10Z] roll=33 line 11/33 — Why so serious?
