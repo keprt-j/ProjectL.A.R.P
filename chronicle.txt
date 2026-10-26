@@ -2612,3 +2612,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 23/33 — To infinity and beyond!
 [2026-10-26 19:37:10Z] roll=33 line 24/33 — We rob banks.
 [2026-10-26 19:37:10Z] roll=33 line 25/33 — Life is like a box of chocolates.
+[2026-10-26 19:37:10Z] roll=33 line 26/33 — Not all those who wander are lost.
+[2026-10-26 19:37:10Z] roll=33 line 27/33 — It's dangerous to go alone! Take this.
