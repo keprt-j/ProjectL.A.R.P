@@ -2606,3 +2606,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 17/33 — Keep your friends close, but your enemies closer.
 [2026-10-26 19:37:10Z] roll=33 line 18/33 — Do a barrel roll!
 [2026-10-26 19:37:10Z] roll=33 line 19/33 — So it goes.
+[2026-10-26 19:37:10Z] roll=33 line 20/33 — You're gonna need a bigger boat.
+[2026-10-26 19:37:10Z] roll=33 line 21/33 — Call me Ishmael.
