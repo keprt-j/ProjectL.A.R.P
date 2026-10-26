@@ -2594,3 +2594,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 5/33 — I drink and I know things.
 [2026-10-26 19:37:10Z] roll=33 line 6/33 — You shall not pass!
 [2026-10-26 19:37:10Z] roll=33 line 7/33 — So it goes.
+[2026-10-26 19:37:10Z] roll=33 line 8/33 — Clear eyes, full hearts, can't lose.
+[2026-10-26 19:37:10Z] roll=33 line 9/33 — Here's Johnny!
