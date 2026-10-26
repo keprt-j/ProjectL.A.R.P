@@ -2587,3 +2587,6 @@ and our sacred Honor.
 [2026-10-24 17:04:01Z] roll=30 line 29/30 — So it goes.
 [2026-10-24 17:04:01Z] roll=30 line 30/30 — Engage.
 [2026-10-25 17:18:00Z] roll=89 line 1/1 — Great Scott!
+[2026-10-26 19:37:10Z] roll=33 line 1/33 — Engage.
+[2026-10-26 19:37:10Z] roll=33 line 2/33 — Clear eyes, full hearts, can't lose.
+[2026-10-26 19:37:10Z] roll=33 line 3/33 — Do or do not. There is no try.
