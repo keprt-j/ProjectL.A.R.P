@@ -2602,3 +2602,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 13/33 — Live long and prosper.
 [2026-10-26 19:37:10Z] roll=33 line 14/33 — You shall not pass!
 [2026-10-26 19:37:10Z] roll=33 line 15/33 — Bazinga!
+[2026-10-26 19:37:10Z] roll=33 line 16/33 — The first rule of Fight Club is: you do not talk about Fight Club.
+[2026-10-26 19:37:10Z] roll=33 line 17/33 — Keep your friends close, but your enemies closer.
