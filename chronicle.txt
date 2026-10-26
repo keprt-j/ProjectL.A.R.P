@@ -2590,3 +2590,5 @@ and our sacred Honor.
 [2026-10-26 19:37:10Z] roll=33 line 1/33 — Engage.
 [2026-10-26 19:37:10Z] roll=33 line 2/33 — Clear eyes, full hearts, can't lose.
 [2026-10-26 19:37:10Z] roll=33 line 3/33 — Do or do not. There is no try.
+[2026-10-26 19:37:10Z] roll=33 line 4/33 — I am the one who knocks.
+[2026-10-26 19:37:10Z] roll=33 line 5/33 — I drink and I know things.
