@@ -2629,3 +2629,5 @@ and our sacred Honor.
 [2026-10-27 19:01:54Z] roll=29 line 7/29 — To boldly go where no one has gone before.
 [2026-10-27 19:01:54Z] roll=29 line 8/29 — You shall not pass!
 [2026-10-27 19:01:54Z] roll=29 line 9/29 — How you doin'?
+[2026-10-27 19:01:54Z] roll=29 line 10/29 — It's dangerous to go alone! Take this.
+[2026-10-27 19:01:54Z] roll=29 line 11/29 — I am Iron Man.
