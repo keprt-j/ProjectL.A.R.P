@@ -2643,3 +2643,5 @@ and our sacred Honor.
 [2026-10-27 19:01:54Z] roll=29 line 21/29 — It was the best of times, it was the worst of times.
 [2026-10-27 19:01:54Z] roll=29 line 22/29 — Go ahead, make my day.
 [2026-10-27 19:01:54Z] roll=29 line 23/29 — I drink your milkshake!
+[2026-10-27 19:01:54Z] roll=29 line 24/29 — Here's looking at you, kid.
+[2026-10-27 19:01:54Z] roll=29 line 25/29 — Carpe diem. Seize the day.
