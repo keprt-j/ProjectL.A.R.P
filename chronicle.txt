@@ -2659,3 +2659,5 @@ and our sacred Honor.
 [2026-10-28 19:10:27Z] roll=14 line 8/14 — Why so serious?
 [2026-10-28 19:10:27Z] roll=14 line 9/14 — Avengers, assemble!
 [2026-10-28 19:10:27Z] roll=14 line 10/14 — It's dangerous to go alone! Take this.
+[2026-10-28 19:10:27Z] roll=14 line 11/14 — A man chooses. A slave obeys.
+[2026-10-28 19:10:27Z] roll=14 line 12/14 — Roads? Where we're going, we don't need roads.
