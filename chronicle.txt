@@ -2682,3 +2682,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 17/61 — Clear eyes, full hearts, can't lose.
 [2026-10-29 19:19:00Z] roll=61 line 18/61 — Clear eyes, full hearts, can't lose.
 [2026-10-29 19:19:00Z] roll=61 line 19/61 — It's alive! It's alive!
+[2026-10-29 19:19:00Z] roll=61 line 20/61 — Stay awhile and listen.
+[2026-10-29 19:19:00Z] roll=61 line 21/61 — Carpe diem. Seize the day.
