@@ -2692,3 +2692,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 27/61 — The truth is out there.
 [2026-10-29 19:19:00Z] roll=61 line 28/61 — My precious.
 [2026-10-29 19:19:00Z] roll=61 line 29/61 — Do a barrel roll!
+[2026-10-29 19:19:00Z] roll=61 line 30/61 — Show me the money!
+[2026-10-29 19:19:00Z] roll=61 line 31/61 — One does not simply walk into Mordor.
