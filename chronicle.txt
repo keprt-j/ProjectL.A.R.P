@@ -2666,3 +2666,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 1/61 — Here's Johnny!
 [2026-10-29 19:19:00Z] roll=61 line 2/61 — I am your father.
 [2026-10-29 19:19:00Z] roll=61 line 3/61 — I solemnly swear that I am up to no good.
+[2026-10-29 19:19:00Z] roll=61 line 4/61 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-10-29 19:19:00Z] roll=61 line 5/61 — Finish him!
