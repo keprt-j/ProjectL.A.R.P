@@ -2716,3 +2716,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 51/61 — I'm going to make him an offer he can't refuse.
 [2026-10-29 19:19:00Z] roll=61 line 52/61 — Why so serious?
 [2026-10-29 19:19:00Z] roll=61 line 53/61 — The first rule of Fight Club is: you do not talk about Fight Club.
+[2026-10-29 19:19:00Z] roll=61 line 54/61 — A man chooses. A slave obeys.
+[2026-10-29 19:19:00Z] roll=61 line 55/61 — I'll have what she's having.
