@@ -2702,3 +2702,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 37/61 — It's dangerous to go alone! Take this.
 [2026-10-29 19:19:00Z] roll=61 line 38/61 — You can't handle the truth!
 [2026-10-29 19:19:00Z] roll=61 line 39/61 — You talking to me?
+[2026-10-29 19:19:00Z] roll=61 line 40/61 — I drink and I know things.
+[2026-10-29 19:19:00Z] roll=61 line 41/61 — You shall not pass!
