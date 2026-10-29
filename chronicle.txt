@@ -2718,3 +2718,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 53/61 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-10-29 19:19:00Z] roll=61 line 54/61 — A man chooses. A slave obeys.
 [2026-10-29 19:19:00Z] roll=61 line 55/61 — I'll have what she's having.
+[2026-10-29 19:19:00Z] roll=61 line 56/61 — That is so fetch.
+[2026-10-29 19:19:00Z] roll=61 line 57/61 — Not all those who wander are lost.
