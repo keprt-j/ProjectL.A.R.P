@@ -2700,3 +2700,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 35/61 — Frankly, my dear, I don't give a damn.
 [2026-10-29 19:19:00Z] roll=61 line 36/61 — Roads? Where we're going, we don't need roads.
 [2026-10-29 19:19:00Z] roll=61 line 37/61 — It's dangerous to go alone! Take this.
+[2026-10-29 19:19:00Z] roll=61 line 38/61 — You can't handle the truth!
+[2026-10-29 19:19:00Z] roll=61 line 39/61 — You talking to me?
