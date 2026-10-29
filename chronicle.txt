@@ -2712,3 +2712,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 47/61 — May the Force be with you.
 [2026-10-29 19:19:00Z] roll=61 line 48/61 — It's dangerous to go alone! Take this.
 [2026-10-29 19:19:00Z] roll=61 line 49/61 — Snakes. Why did it have to be snakes?
+[2026-10-29 19:19:00Z] roll=61 line 50/61 — That's what she said.
+[2026-10-29 19:19:00Z] roll=61 line 51/61 — I'm going to make him an offer he can't refuse.
