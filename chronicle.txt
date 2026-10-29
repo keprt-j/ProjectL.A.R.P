@@ -2678,3 +2678,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 13/61 — Live long and prosper.
 [2026-10-29 19:19:00Z] roll=61 line 14/61 — Fear is the mind-killer.
 [2026-10-29 19:19:00Z] roll=61 line 15/61 — Life is like a box of chocolates.
+[2026-10-29 19:19:00Z] roll=61 line 16/61 — Hasta la vista, baby.
+[2026-10-29 19:19:00Z] roll=61 line 17/61 — Clear eyes, full hearts, can't lose.
