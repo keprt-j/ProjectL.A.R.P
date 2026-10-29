@@ -2688,3 +2688,5 @@ and our sacred Honor.
 [2026-10-29 19:19:00Z] roll=61 line 23/61 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-10-29 19:19:00Z] roll=61 line 24/61 — Roads? Where we're going, we don't need roads.
 [2026-10-29 19:19:00Z] roll=61 line 25/61 — To infinity and beyond!
+[2026-10-29 19:19:00Z] roll=61 line 26/61 — Let us go on and take the adventure that shall fall to us.
+[2026-10-29 19:19:00Z] roll=61 line 27/61 — The truth is out there.
