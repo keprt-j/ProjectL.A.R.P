@@ -2750,3 +2750,5 @@ and our sacred Honor.
 [2026-10-30 18:55:09Z] roll=36 line 24/36 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-10-30 18:55:09Z] roll=36 line 25/36 — Live long and prosper.
 [2026-10-30 18:55:09Z] roll=36 line 26/36 — I see dead people.
+[2026-10-30 18:55:09Z] roll=36 line 27/36 — Let us go on and take the adventure that shall fall to us.
+[2026-10-30 18:55:09Z] roll=36 line 28/36 — I'm the king of the world!
