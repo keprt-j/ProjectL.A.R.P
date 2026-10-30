@@ -2754,3 +2754,5 @@ and our sacred Honor.
 [2026-10-30 18:55:09Z] roll=36 line 28/36 — I'm the king of the world!
 [2026-10-30 18:55:09Z] roll=36 line 29/36 — We were on a break!
 [2026-10-30 18:55:09Z] roll=36 line 30/36 — Frankly, my dear, I don't give a damn.
+[2026-10-30 18:55:09Z] roll=36 line 31/36 — Why so serious?
+[2026-10-30 18:55:09Z] roll=36 line 32/36 — Would you kindly?
