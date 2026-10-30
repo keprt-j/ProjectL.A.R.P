@@ -2732,3 +2732,5 @@ and our sacred Honor.
 [2026-10-30 18:55:09Z] roll=36 line 6/36 — All your base are belong to us.
 [2026-10-30 18:55:09Z] roll=36 line 7/36 — Stay awhile and listen.
 [2026-10-30 18:55:09Z] roll=36 line 8/36 — I am the one who knocks.
+[2026-10-30 18:55:09Z] roll=36 line 9/36 — There's no place like home.
+[2026-10-30 18:55:09Z] roll=36 line 10/36 — I'll get you, my pretty, and your little dog too!
