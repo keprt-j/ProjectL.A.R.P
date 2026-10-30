@@ -2742,3 +2742,5 @@ and our sacred Honor.
 [2026-10-30 18:55:09Z] roll=36 line 16/36 — Keep your friends close, but your enemies closer.
 [2026-10-30 18:55:09Z] roll=36 line 17/36 — Get to the chopper!
 [2026-10-30 18:55:09Z] roll=36 line 18/36 — Just keep swimming.
+[2026-10-30 18:55:09Z] roll=36 line 19/36 — Carpe diem. Seize the day.
+[2026-10-30 18:55:09Z] roll=36 line 20/36 — Roads? Where we're going, we don't need roads.
