@@ -2746,3 +2746,5 @@ and our sacred Honor.
 [2026-10-30 18:55:09Z] roll=36 line 20/36 — Roads? Where we're going, we don't need roads.
 [2026-10-30 18:55:09Z] roll=36 line 21/36 — Houston, we have a problem.
 [2026-10-30 18:55:09Z] roll=36 line 22/36 — Resistance is futile.
+[2026-10-30 18:55:09Z] roll=36 line 23/36 — I see dead people.
+[2026-10-30 18:55:09Z] roll=36 line 24/36 — The first rule of Fight Club is: you do not talk about Fight Club.
