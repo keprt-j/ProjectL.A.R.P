@@ -2740,3 +2740,5 @@ and our sacred Honor.
 [2026-10-30 18:55:09Z] roll=36 line 14/36 — Fear is the mind-killer.
 [2026-10-30 18:55:09Z] roll=36 line 15/36 — I solemnly swear that I am up to no good.
 [2026-10-30 18:55:09Z] roll=36 line 16/36 — Keep your friends close, but your enemies closer.
+[2026-10-30 18:55:09Z] roll=36 line 17/36 — Get to the chopper!
+[2026-10-30 18:55:09Z] roll=36 line 18/36 — Just keep swimming.
