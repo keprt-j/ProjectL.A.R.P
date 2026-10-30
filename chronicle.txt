@@ -2736,3 +2736,5 @@ and our sacred Honor.
 [2026-10-30 18:55:09Z] roll=36 line 10/36 — I'll get you, my pretty, and your little dog too!
 [2026-10-30 18:55:09Z] roll=36 line 11/36 — Keep your friends close, but your enemies closer.
 [2026-10-30 18:55:09Z] roll=36 line 12/36 — I am your father.
+[2026-10-30 18:55:09Z] roll=36 line 13/36 — I am Iron Man.
+[2026-10-30 18:55:09Z] roll=36 line 14/36 — Fear is the mind-killer.
