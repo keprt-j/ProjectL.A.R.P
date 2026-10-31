@@ -2825,3 +2825,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 63/77 — I'll be back.
 [2026-10-31 17:59:48Z] roll=77 line 64/77 — It's dangerous to go alone! Take this.
 [2026-10-31 17:59:48Z] roll=77 line 65/77 — You can't handle the truth!
+[2026-10-31 17:59:48Z] roll=77 line 66/77 — One does not simply walk into Mordor.
+[2026-10-31 17:59:48Z] roll=77 line 67/77 — You died.
