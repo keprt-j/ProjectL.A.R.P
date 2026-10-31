@@ -2807,3 +2807,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 45/77 — Call me Ishmael.
 [2026-10-31 17:59:48Z] roll=77 line 46/77 — Carpe diem. Seize the day.
 [2026-10-31 17:59:48Z] roll=77 line 47/77 — Resistance is futile.
+[2026-10-31 17:59:48Z] roll=77 line 48/77 — It was the best of times, it was the worst of times.
+[2026-10-31 17:59:48Z] roll=77 line 49/77 — You can't handle the truth!
