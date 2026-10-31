@@ -2767,3 +2767,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 5/77 — To infinity and beyond!
 [2026-10-31 17:59:48Z] roll=77 line 6/77 — I drink and I know things.
 [2026-10-31 17:59:48Z] roll=77 line 7/77 — I am the one who knocks.
+[2026-10-31 17:59:48Z] roll=77 line 8/77 — With great power comes great responsibility.
+[2026-10-31 17:59:48Z] roll=77 line 9/77 — There's a snake in my boots!
