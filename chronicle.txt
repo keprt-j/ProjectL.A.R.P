@@ -2811,3 +2811,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 49/77 — You can't handle the truth!
 [2026-10-31 17:59:48Z] roll=77 line 50/77 — In a hole in the ground there lived a hobbit.
 [2026-10-31 17:59:48Z] roll=77 line 51/77 — There's a snake in my boots!
+[2026-10-31 17:59:48Z] roll=77 line 52/77 — Call me Ishmael.
+[2026-10-31 17:59:48Z] roll=77 line 53/77 — All your base are belong to us.
