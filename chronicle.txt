@@ -2785,3 +2785,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 23/77 — Here's Johnny!
 [2026-10-31 17:59:48Z] roll=77 line 24/77 — Carpe diem. Seize the day.
 [2026-10-31 17:59:48Z] roll=77 line 25/77 — Carpe diem. Seize the day.
+[2026-10-31 17:59:48Z] roll=77 line 26/77 — War. War never changes.
+[2026-10-31 17:59:48Z] roll=77 line 27/77 — My precious.
