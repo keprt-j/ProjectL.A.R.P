@@ -2793,3 +2793,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 31/77 — The spice must flow.
 [2026-10-31 17:59:48Z] roll=77 line 32/77 — Carpe diem. Seize the day.
 [2026-10-31 17:59:48Z] roll=77 line 33/77 — You died.
+[2026-10-31 17:59:48Z] roll=77 line 34/77 — War. War never changes.
+[2026-10-31 17:59:48Z] roll=77 line 35/77 — It was the best of times, it was the worst of times.
