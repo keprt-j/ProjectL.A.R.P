@@ -2827,3 +2827,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 65/77 — You can't handle the truth!
 [2026-10-31 17:59:48Z] roll=77 line 66/77 — One does not simply walk into Mordor.
 [2026-10-31 17:59:48Z] roll=77 line 67/77 — You died.
+[2026-10-31 17:59:48Z] roll=77 line 68/77 — Bazinga!
+[2026-10-31 17:59:48Z] roll=77 line 69/77 — War. War never changes.
