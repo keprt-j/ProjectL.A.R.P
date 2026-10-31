@@ -2791,3 +2791,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 29/77 — Winter is coming.
 [2026-10-31 17:59:48Z] roll=77 line 30/77 — Carpe diem. Seize the day.
 [2026-10-31 17:59:48Z] roll=77 line 31/77 — The spice must flow.
+[2026-10-31 17:59:48Z] roll=77 line 32/77 — Carpe diem. Seize the day.
+[2026-10-31 17:59:48Z] roll=77 line 33/77 — You died.
