@@ -2777,3 +2777,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 15/77 — You can't handle the truth!
 [2026-10-31 17:59:48Z] roll=77 line 16/77 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-10-31 17:59:48Z] roll=77 line 17/77 — Go ahead, make my day.
+[2026-10-31 17:59:48Z] roll=77 line 18/77 — That is so fetch.
+[2026-10-31 17:59:48Z] roll=77 line 19/77 — I can do this all day.
