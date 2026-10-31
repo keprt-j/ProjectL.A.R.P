@@ -2815,3 +2815,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 53/77 — All your base are belong to us.
 [2026-10-31 17:59:48Z] roll=77 line 54/77 — Hadouken!
 [2026-10-31 17:59:48Z] roll=77 line 55/77 — We rob banks.
+[2026-10-31 17:59:48Z] roll=77 line 56/77 — Roads? Where we're going, we don't need roads.
+[2026-10-31 17:59:48Z] roll=77 line 57/77 — Let us go on and take the adventure that shall fall to us.
