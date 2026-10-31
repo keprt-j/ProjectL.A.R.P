@@ -2781,3 +2781,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 19/77 — I can do this all day.
 [2026-10-31 17:59:48Z] roll=77 line 20/77 — You can't handle the truth!
 [2026-10-31 17:59:48Z] roll=77 line 21/77 — Stay awhile and listen.
+[2026-10-31 17:59:48Z] roll=77 line 22/77 — Finish him!
+[2026-10-31 17:59:48Z] roll=77 line 23/77 — Here's Johnny!
