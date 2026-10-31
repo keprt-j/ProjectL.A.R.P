@@ -2805,3 +2805,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 43/77 — Hadouken!
 [2026-10-31 17:59:48Z] roll=77 line 44/77 — Say my name.
 [2026-10-31 17:59:48Z] roll=77 line 45/77 — Call me Ishmael.
+[2026-10-31 17:59:48Z] roll=77 line 46/77 — Carpe diem. Seize the day.
+[2026-10-31 17:59:48Z] roll=77 line 47/77 — Resistance is futile.
