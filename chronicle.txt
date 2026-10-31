@@ -2773,3 +2773,5 @@ and our sacred Honor.
 [2026-10-31 17:59:48Z] roll=77 line 11/77 — Live long and prosper.
 [2026-10-31 17:59:48Z] roll=77 line 12/77 — I'm the king of the world!
 [2026-10-31 17:59:48Z] roll=77 line 13/77 — Go ahead, make my day.
+[2026-10-31 17:59:48Z] roll=77 line 14/77 — I can do this all day.
+[2026-10-31 17:59:48Z] roll=77 line 15/77 — You can't handle the truth!
