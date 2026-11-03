@@ -2867,3 +2867,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 26/50 — Winter is coming.
 [2026-11-03 20:19:27Z] roll=50 line 27/50 — The spice must flow.
 [2026-11-03 20:19:27Z] roll=50 line 28/50 — Elementary, my dear Watson.
+[2026-11-03 20:19:27Z] roll=50 line 29/50 — Not all those who wander are lost.
+[2026-11-03 20:19:27Z] roll=50 line 30/50 — You can't handle the truth!
