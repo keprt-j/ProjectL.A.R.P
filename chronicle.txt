@@ -2875,3 +2875,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 34/50 — Live long and prosper.
 [2026-11-03 20:19:27Z] roll=50 line 35/50 — Praise the Sun!
 [2026-11-03 20:19:27Z] roll=50 line 36/50 — All that is gold does not glitter.
+[2026-11-03 20:19:27Z] roll=50 line 37/50 — We were on a break!
+[2026-11-03 20:19:27Z] roll=50 line 38/50 — Say hello to my little friend!
