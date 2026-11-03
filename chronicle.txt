@@ -2859,3 +2859,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 18/50 — Nothing is true, everything is permitted.
 [2026-11-03 20:19:27Z] roll=50 line 19/50 — I'm the king of the world!
 [2026-11-03 20:19:27Z] roll=50 line 20/50 — One does not simply walk into Mordor.
+[2026-11-03 20:19:27Z] roll=50 line 21/50 — I can do this all day.
+[2026-11-03 20:19:27Z] roll=50 line 22/50 — Frankly, my dear, I don't give a damn.
