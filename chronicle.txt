@@ -2885,3 +2885,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 44/50 — That'll do, pig. That'll do.
 [2026-11-03 20:19:27Z] roll=50 line 45/50 — You talking to me?
 [2026-11-03 20:19:27Z] roll=50 line 46/50 — Space: the final frontier.
+[2026-11-03 20:19:27Z] roll=50 line 47/50 — We were on a break!
+[2026-11-03 20:19:27Z] roll=50 line 48/50 — With great power comes great responsibility.
