@@ -2881,3 +2881,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 40/50 — We didn't know we were making memories, we just knew we were having fun.
 [2026-11-03 20:19:27Z] roll=50 line 41/50 — Clear eyes, full hearts, can't lose.
 [2026-11-03 20:19:27Z] roll=50 line 42/50 — After all, tomorrow is another day!
+[2026-11-03 20:19:27Z] roll=50 line 43/50 — Not all those who wander are lost.
+[2026-11-03 20:19:27Z] roll=50 line 44/50 — That'll do, pig. That'll do.
