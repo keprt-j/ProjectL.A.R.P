@@ -2849,3 +2849,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 8/50 — There's no place like home.
 [2026-11-03 20:19:27Z] roll=50 line 9/50 — Hasta la vista, baby.
 [2026-11-03 20:19:27Z] roll=50 line 10/50 — Great Scott!
+[2026-11-03 20:19:27Z] roll=50 line 11/50 — Hakuna Matata.
+[2026-11-03 20:19:27Z] roll=50 line 12/50 — Shaken, not stirred.
