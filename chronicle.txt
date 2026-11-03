@@ -2883,3 +2883,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 42/50 — After all, tomorrow is another day!
 [2026-11-03 20:19:27Z] roll=50 line 43/50 — Not all those who wander are lost.
 [2026-11-03 20:19:27Z] roll=50 line 44/50 — That'll do, pig. That'll do.
+[2026-11-03 20:19:27Z] roll=50 line 45/50 — You talking to me?
+[2026-11-03 20:19:27Z] roll=50 line 46/50 — Space: the final frontier.
