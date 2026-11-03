@@ -2853,3 +2853,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 12/50 — Shaken, not stirred.
 [2026-11-03 20:19:27Z] roll=50 line 13/50 — There's no place like home.
 [2026-11-03 20:19:27Z] roll=50 line 14/50 — Avengers, assemble!
+[2026-11-03 20:19:27Z] roll=50 line 15/50 — There's no place like home.
+[2026-11-03 20:19:27Z] roll=50 line 16/50 — Elementary, my dear Watson.
