@@ -2847,3 +2847,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 6/50 — I'm going to make him an offer he can't refuse.
 [2026-11-03 20:19:27Z] roll=50 line 7/50 — I'll have what she's having.
 [2026-11-03 20:19:27Z] roll=50 line 8/50 — There's no place like home.
+[2026-11-03 20:19:27Z] roll=50 line 9/50 — Hasta la vista, baby.
+[2026-11-03 20:19:27Z] roll=50 line 10/50 — Great Scott!
