@@ -2843,3 +2843,5 @@ and our sacred Honor.
 [2026-11-03 20:19:27Z] roll=50 line 2/50 — Frankly, my dear, I don't give a damn.
 [2026-11-03 20:19:27Z] roll=50 line 3/50 — Hakuna Matata.
 [2026-11-03 20:19:27Z] roll=50 line 4/50 — Here's Johnny!
+[2026-11-03 20:19:27Z] roll=50 line 5/50 — The cake is a lie.
+[2026-11-03 20:19:27Z] roll=50 line 6/50 — I'm going to make him an offer he can't refuse.
