@@ -2901,3 +2901,5 @@ and our sacred Honor.
 [2026-11-04 20:35:11Z] roll=76 line 10/76 — There's a snake in my boots!
 [2026-11-04 20:35:11Z] roll=76 line 11/76 — One does not simply walk into Mordor.
 [2026-11-04 20:35:11Z] roll=76 line 12/76 — You had me at hello.
+[2026-11-04 20:35:11Z] roll=76 line 13/76 — In a hole in the ground there lived a hobbit.
+[2026-11-04 20:35:11Z] roll=76 line 14/76 — Carpe diem. Seize the day.
