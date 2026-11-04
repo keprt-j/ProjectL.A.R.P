@@ -2955,3 +2955,5 @@ and our sacred Honor.
 [2026-11-04 20:35:11Z] roll=76 line 64/76 — Snakes. Why did it have to be snakes?
 [2026-11-04 20:35:11Z] roll=76 line 65/76 — I'll get you, my pretty, and your little dog too!
 [2026-11-04 20:35:11Z] roll=76 line 66/76 — That'll do, pig. That'll do.
+[2026-11-04 20:35:11Z] roll=76 line 67/76 — Space: the final frontier.
+[2026-11-04 20:35:11Z] roll=76 line 68/76 — Clear eyes, full hearts, can't lose.
