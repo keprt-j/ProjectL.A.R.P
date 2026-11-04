@@ -2939,3 +2939,5 @@ and our sacred Honor.
 [2026-11-04 20:35:11Z] roll=76 line 48/76 — Make it so.
 [2026-11-04 20:35:11Z] roll=76 line 49/76 — Houston, we have a problem.
 [2026-11-04 20:35:11Z] roll=76 line 50/76 — One does not simply walk into Mordor.
+[2026-11-04 20:35:11Z] roll=76 line 51/76 — Great Scott!
+[2026-11-04 20:35:11Z] roll=76 line 52/76 — The first rule of Fight Club is: you do not talk about Fight Club.
