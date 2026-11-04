@@ -2929,3 +2929,5 @@ and our sacred Honor.
 [2026-11-04 20:35:11Z] roll=76 line 38/76 — Nothing is true, everything is permitted.
 [2026-11-04 20:35:11Z] roll=76 line 39/76 — Keep your friends close, but your enemies closer.
 [2026-11-04 20:35:11Z] roll=76 line 40/76 — Pay no attention to that man behind the curtain.
+[2026-11-04 20:35:11Z] roll=76 line 41/76 — I see dead people.
+[2026-11-04 20:35:11Z] roll=76 line 42/76 — Call me Ishmael.
