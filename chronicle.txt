@@ -2937,3 +2937,5 @@ and our sacred Honor.
 [2026-11-04 20:35:11Z] roll=76 line 46/76 — Praise the Sun!
 [2026-11-04 20:35:11Z] roll=76 line 47/76 — Hadouken!
 [2026-11-04 20:35:11Z] roll=76 line 48/76 — Make it so.
+[2026-11-04 20:35:11Z] roll=76 line 49/76 — Houston, we have a problem.
+[2026-11-04 20:35:11Z] roll=76 line 50/76 — One does not simply walk into Mordor.
