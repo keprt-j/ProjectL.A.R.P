@@ -2959,3 +2959,5 @@ and our sacred Honor.
 [2026-11-04 20:35:11Z] roll=76 line 68/76 — Clear eyes, full hearts, can't lose.
 [2026-11-04 20:35:11Z] roll=76 line 69/76 — Go ahead, make my day.
 [2026-11-04 20:35:11Z] roll=76 line 70/76 — There's no place like home.
+[2026-11-04 20:35:11Z] roll=76 line 71/76 — To boldly go where no one has gone before.
+[2026-11-04 20:35:11Z] roll=76 line 72/76 — Shaken, not stirred.
