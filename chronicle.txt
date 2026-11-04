@@ -2947,3 +2947,5 @@ and our sacred Honor.
 [2026-11-04 20:35:11Z] roll=76 line 56/76 — You shall not pass!
 [2026-11-04 20:35:11Z] roll=76 line 57/76 — You can't handle the truth!
 [2026-11-04 20:35:11Z] roll=76 line 58/76 — I'm the king of the world!
+[2026-11-04 20:35:11Z] roll=76 line 59/76 — It was the best of times, it was the worst of times.
+[2026-11-04 20:35:11Z] roll=76 line 60/76 — To infinity and beyond!
