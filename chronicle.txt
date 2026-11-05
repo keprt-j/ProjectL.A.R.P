@@ -2969,3 +2969,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 2/80 — I'll get you, my pretty, and your little dog too!
 [2026-11-05 20:52:03Z] roll=80 line 3/80 — I am the one who knocks.
 [2026-11-05 20:52:03Z] roll=80 line 4/80 — With great power comes great responsibility.
+[2026-11-05 20:52:03Z] roll=80 line 5/80 — Valar morghulis.
+[2026-11-05 20:52:03Z] roll=80 line 6/80 — Clear eyes, full hearts, can't lose.
