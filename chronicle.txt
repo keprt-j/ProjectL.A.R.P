@@ -2975,3 +2975,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 8/80 — Go ahead, make my day.
 [2026-11-05 20:52:03Z] roll=80 line 9/80 — Clear eyes, full hearts, can't lose.
 [2026-11-05 20:52:03Z] roll=80 line 10/80 — I see dead people.
+[2026-11-05 20:52:03Z] roll=80 line 11/80 — You died.
+[2026-11-05 20:52:03Z] roll=80 line 12/80 — That'll do, pig. That'll do.
