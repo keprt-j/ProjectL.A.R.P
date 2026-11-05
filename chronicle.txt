@@ -2983,3 +2983,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 16/80 — You can't handle the truth!
 [2026-11-05 20:52:03Z] roll=80 line 17/80 — I want to believe.
 [2026-11-05 20:52:03Z] roll=80 line 18/80 — There's a snake in my boots!
+[2026-11-05 20:52:03Z] roll=80 line 19/80 — Houston, we have a problem.
+[2026-11-05 20:52:03Z] roll=80 line 20/80 — It's alive! It's alive!
