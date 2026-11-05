@@ -3031,3 +3031,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 64/80 — Elementary, my dear Watson.
 [2026-11-05 20:52:03Z] roll=80 line 65/80 — That's what she said.
 [2026-11-05 20:52:03Z] roll=80 line 66/80 — Let us go on and take the adventure that shall fall to us.
+[2026-11-05 20:52:03Z] roll=80 line 67/80 — Show me the money!
+[2026-11-05 20:52:03Z] roll=80 line 68/80 — You can't handle the truth!
