@@ -2999,3 +2999,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 32/80 — Praise the Sun!
 [2026-11-05 20:52:03Z] roll=80 line 33/80 — Resistance is futile.
 [2026-11-05 20:52:03Z] roll=80 line 34/80 — Hasta la vista, baby.
+[2026-11-05 20:52:03Z] roll=80 line 35/80 — Say hello to my little friend!
+[2026-11-05 20:52:03Z] roll=80 line 36/80 — I can do this all day.
