@@ -3025,3 +3025,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 58/80 — You can't handle the truth!
 [2026-11-05 20:52:03Z] roll=80 line 59/80 — Life is like a box of chocolates.
 [2026-11-05 20:52:03Z] roll=80 line 60/80 — You talking to me?
+[2026-11-05 20:52:03Z] roll=80 line 61/80 — The spice must flow.
+[2026-11-05 20:52:03Z] roll=80 line 62/80 — To infinity and beyond!
