@@ -2993,3 +2993,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 26/80 — I am Iron Man.
 [2026-11-05 20:52:03Z] roll=80 line 27/80 — It was the best of times, it was the worst of times.
 [2026-11-05 20:52:03Z] roll=80 line 28/80 — Go ahead, make my day.
+[2026-11-05 20:52:03Z] roll=80 line 29/80 — Excelsior!
+[2026-11-05 20:52:03Z] roll=80 line 30/80 — The truth is out there.
