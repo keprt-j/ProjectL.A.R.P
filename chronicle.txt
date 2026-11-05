@@ -3019,3 +3019,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 52/80 — Say hello to my little friend!
 [2026-11-05 20:52:03Z] roll=80 line 53/80 — You died.
 [2026-11-05 20:52:03Z] roll=80 line 54/80 — Show me the money!
+[2026-11-05 20:52:03Z] roll=80 line 55/80 — One does not simply walk into Mordor.
+[2026-11-05 20:52:03Z] roll=80 line 56/80 — Say my name.
