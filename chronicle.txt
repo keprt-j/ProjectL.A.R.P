@@ -3039,3 +3039,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 72/80 — It was the best of times, it was the worst of times.
 [2026-11-05 20:52:03Z] roll=80 line 73/80 — Resistance is futile.
 [2026-11-05 20:52:03Z] roll=80 line 74/80 — Do or do not. There is no try.
+[2026-11-05 20:52:03Z] roll=80 line 75/80 — Live long and prosper.
+[2026-11-05 20:52:03Z] roll=80 line 76/80 — Here's looking at you, kid.
