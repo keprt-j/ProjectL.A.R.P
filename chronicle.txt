@@ -2989,3 +2989,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 22/80 — Do a barrel roll!
 [2026-11-05 20:52:03Z] roll=80 line 23/80 — All that is gold does not glitter.
 [2026-11-05 20:52:03Z] roll=80 line 24/80 — Excelsior!
+[2026-11-05 20:52:03Z] roll=80 line 25/80 — Would you kindly?
+[2026-11-05 20:52:03Z] roll=80 line 26/80 — I am Iron Man.
