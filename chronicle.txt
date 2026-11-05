@@ -3003,3 +3003,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 36/80 — I can do this all day.
 [2026-11-05 20:52:03Z] roll=80 line 37/80 — You talking to me?
 [2026-11-05 20:52:03Z] roll=80 line 38/80 — The truth is out there.
+[2026-11-05 20:52:03Z] roll=80 line 39/80 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-11-05 20:52:03Z] roll=80 line 40/80 — Hasta la vista, baby.
