@@ -3021,3 +3021,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 54/80 — Show me the money!
 [2026-11-05 20:52:03Z] roll=80 line 55/80 — One does not simply walk into Mordor.
 [2026-11-05 20:52:03Z] roll=80 line 56/80 — Say my name.
+[2026-11-05 20:52:03Z] roll=80 line 57/80 — Not all those who wander are lost.
+[2026-11-05 20:52:03Z] roll=80 line 58/80 — You can't handle the truth!
