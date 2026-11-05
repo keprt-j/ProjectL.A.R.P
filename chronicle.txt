@@ -2977,3 +2977,5 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 10/80 — I see dead people.
 [2026-11-05 20:52:03Z] roll=80 line 11/80 — You died.
 [2026-11-05 20:52:03Z] roll=80 line 12/80 — That'll do, pig. That'll do.
+[2026-11-05 20:52:03Z] roll=80 line 13/80 — Excelsior!
+[2026-11-05 20:52:03Z] roll=80 line 14/80 — The spice must flow.
