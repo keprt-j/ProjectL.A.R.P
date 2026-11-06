@@ -3045,3 +3045,4 @@ and our sacred Honor.
 [2026-11-05 20:52:03Z] roll=80 line 78/80 — I'll have what she's having.
 [2026-11-05 20:52:03Z] roll=80 line 79/80 — Stay awhile and listen.
 [2026-11-05 20:52:03Z] roll=80 line 80/80 — One does not simply walk into Mordor.
+[2026-11-06 20:07:54Z] roll=94 line 1/1 — The spice must flow.
