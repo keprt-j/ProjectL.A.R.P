@@ -3070,3 +3070,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 22/60 — To boldly go where no one has gone before.
 [2026-11-07 18:22:34Z] roll=60 line 23/60 — You're gonna need a bigger boat.
 [2026-11-07 18:22:34Z] roll=60 line 24/60 — I am Iron Man.
+[2026-11-07 18:22:34Z] roll=60 line 25/60 — I am Iron Man.
+[2026-11-07 18:22:34Z] roll=60 line 26/60 — It was the best of times, it was the worst of times.
