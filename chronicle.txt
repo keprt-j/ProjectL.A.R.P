@@ -3062,3 +3062,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 14/60 — After all, tomorrow is another day!
 [2026-11-07 18:22:34Z] roll=60 line 15/60 — Live long and prosper.
 [2026-11-07 18:22:34Z] roll=60 line 16/60 — Praise the Sun!
+[2026-11-07 18:22:34Z] roll=60 line 17/60 — The truth is out there.
+[2026-11-07 18:22:34Z] roll=60 line 18/60 — Pay no attention to that man behind the curtain.
