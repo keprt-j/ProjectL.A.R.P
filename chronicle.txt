@@ -3080,3 +3080,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 32/60 — So it goes.
 [2026-11-07 18:22:34Z] roll=60 line 33/60 — I feel the need—the need for speed!
 [2026-11-07 18:22:34Z] roll=60 line 34/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
+[2026-11-07 18:22:34Z] roll=60 line 35/60 — To boldly go where no one has gone before.
+[2026-11-07 18:22:34Z] roll=60 line 36/60 — I drink and I know things.
