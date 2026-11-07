@@ -3104,3 +3104,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 56/60 — How you doin'?
 [2026-11-07 18:22:34Z] roll=60 line 57/60 — Nothing is true, everything is permitted.
 [2026-11-07 18:22:34Z] roll=60 line 58/60 — I can do this all day.
+[2026-11-07 18:22:34Z] roll=60 line 59/60 — I want to believe.
+[2026-11-07 18:22:34Z] roll=60 line 60/60 — You shall not pass!
