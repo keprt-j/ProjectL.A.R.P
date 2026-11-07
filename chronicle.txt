@@ -3064,3 +3064,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 16/60 — Praise the Sun!
 [2026-11-07 18:22:34Z] roll=60 line 17/60 — The truth is out there.
 [2026-11-07 18:22:34Z] roll=60 line 18/60 — Pay no attention to that man behind the curtain.
+[2026-11-07 18:22:34Z] roll=60 line 19/60 — Keep your friends close, but your enemies closer.
+[2026-11-07 18:22:34Z] roll=60 line 20/60 — Do a barrel roll!
