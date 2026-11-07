@@ -3060,3 +3060,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 12/60 — The truth is out there.
 [2026-11-07 18:22:34Z] roll=60 line 13/60 — I'm the king of the world!
 [2026-11-07 18:22:34Z] roll=60 line 14/60 — After all, tomorrow is another day!
+[2026-11-07 18:22:34Z] roll=60 line 15/60 — Live long and prosper.
+[2026-11-07 18:22:34Z] roll=60 line 16/60 — Praise the Sun!
