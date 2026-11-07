@@ -3094,3 +3094,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 46/60 — You had me at hello.
 [2026-11-07 18:22:34Z] roll=60 line 47/60 — The spice must flow.
 [2026-11-07 18:22:34Z] roll=60 line 48/60 — Why so serious?
+[2026-11-07 18:22:34Z] roll=60 line 49/60 — I'll get you, my pretty, and your little dog too!
+[2026-11-07 18:22:34Z] roll=60 line 50/60 — With great power comes great responsibility.
