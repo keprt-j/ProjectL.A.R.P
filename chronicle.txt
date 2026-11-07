@@ -3092,3 +3092,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 44/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-11-07 18:22:34Z] roll=60 line 45/60 — Life is like a box of chocolates.
 [2026-11-07 18:22:34Z] roll=60 line 46/60 — You had me at hello.
+[2026-11-07 18:22:34Z] roll=60 line 47/60 — The spice must flow.
+[2026-11-07 18:22:34Z] roll=60 line 48/60 — Why so serious?
