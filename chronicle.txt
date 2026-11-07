@@ -3084,3 +3084,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 36/60 — I drink and I know things.
 [2026-11-07 18:22:34Z] roll=60 line 37/60 — You had me at hello.
 [2026-11-07 18:22:34Z] roll=60 line 38/60 — My precious.
+[2026-11-07 18:22:34Z] roll=60 line 39/60 — Valar morghulis.
+[2026-11-07 18:22:34Z] roll=60 line 40/60 — Would you kindly?
