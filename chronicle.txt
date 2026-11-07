@@ -3098,3 +3098,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 50/60 — With great power comes great responsibility.
 [2026-11-07 18:22:34Z] roll=60 line 51/60 — All your base are belong to us.
 [2026-11-07 18:22:34Z] roll=60 line 52/60 — I see dead people.
+[2026-11-07 18:22:34Z] roll=60 line 53/60 — To boldly go where no one has gone before.
+[2026-11-07 18:22:34Z] roll=60 line 54/60 — Say my name.
