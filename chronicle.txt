@@ -3082,3 +3082,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 34/60 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-11-07 18:22:34Z] roll=60 line 35/60 — To boldly go where no one has gone before.
 [2026-11-07 18:22:34Z] roll=60 line 36/60 — I drink and I know things.
+[2026-11-07 18:22:34Z] roll=60 line 37/60 — You had me at hello.
+[2026-11-07 18:22:34Z] roll=60 line 38/60 — My precious.
