@@ -3074,3 +3074,5 @@ and our sacred Honor.
 [2026-11-07 18:22:34Z] roll=60 line 26/60 — It was the best of times, it was the worst of times.
 [2026-11-07 18:22:34Z] roll=60 line 27/60 — The spice must flow.
 [2026-11-07 18:22:34Z] roll=60 line 28/60 — Nobody puts Baby in a corner.
+[2026-11-07 18:22:34Z] roll=60 line 29/60 — Great Scott!
+[2026-11-07 18:22:34Z] roll=60 line 30/60 — We rob banks.
