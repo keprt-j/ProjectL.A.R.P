@@ -3048,3 +3048,5 @@ and our sacred Honor.
 [2026-11-06 20:07:54Z] roll=94 line 1/1 — The spice must flow.
 [2026-11-07 18:22:34Z] roll=60 line 1/60 — I see dead people.
 [2026-11-07 18:22:34Z] roll=60 line 2/60 — Would you kindly?
+[2026-11-07 18:22:34Z] roll=60 line 3/60 — Live long and prosper.
+[2026-11-07 18:22:34Z] roll=60 line 4/60 — The truth is out there.
