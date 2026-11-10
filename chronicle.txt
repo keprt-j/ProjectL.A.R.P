@@ -3172,3 +3172,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 50/54 — Great Scott!
 [2026-11-10 20:38:20Z] roll=54 line 51/54 — All that is gold does not glitter.
 [2026-11-10 20:38:20Z] roll=54 line 52/54 — Say my name.
+[2026-11-10 20:38:20Z] roll=54 line 53/54 — A man chooses. A slave obeys.
+[2026-11-10 20:38:20Z] roll=54 line 54/54 — I drink and I know things.
