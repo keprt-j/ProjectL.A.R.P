@@ -3154,3 +3154,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 32/54 — Praise the Sun!
 [2026-11-10 20:38:20Z] roll=54 line 33/54 — You're gonna need a bigger boat.
 [2026-11-10 20:38:20Z] roll=54 line 34/54 — I'll be back.
+[2026-11-10 20:38:20Z] roll=54 line 35/54 — Not all those who wander are lost.
+[2026-11-10 20:38:20Z] roll=54 line 36/54 — I'm the king of the world!
