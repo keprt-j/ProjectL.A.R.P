@@ -3130,3 +3130,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 8/54 — The name's Bond. James Bond.
 [2026-11-10 20:38:20Z] roll=54 line 9/54 — Go ahead, make my day.
 [2026-11-10 20:38:20Z] roll=54 line 10/54 — Hadouken!
+[2026-11-10 20:38:20Z] roll=54 line 11/54 — Do or do not. There is no try.
+[2026-11-10 20:38:20Z] roll=54 line 12/54 — I'm going to make him an offer he can't refuse.
