@@ -3166,3 +3166,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 44/54 — Hadouken!
 [2026-11-10 20:38:20Z] roll=54 line 45/54 — I am Iron Man.
 [2026-11-10 20:38:20Z] roll=54 line 46/54 — Here's looking at you, kid.
+[2026-11-10 20:38:20Z] roll=54 line 47/54 — Call me Ishmael.
+[2026-11-10 20:38:20Z] roll=54 line 48/54 — To boldly go where no one has gone before.
