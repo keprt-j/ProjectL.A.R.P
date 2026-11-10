@@ -3126,3 +3126,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 4/54 — Carpe diem. Seize the day.
 [2026-11-10 20:38:20Z] roll=54 line 5/54 — Hadouken!
 [2026-11-10 20:38:20Z] roll=54 line 6/54 — To infinity and beyond!
+[2026-11-10 20:38:20Z] roll=54 line 7/54 — You talking to me?
+[2026-11-10 20:38:20Z] roll=54 line 8/54 — The name's Bond. James Bond.
