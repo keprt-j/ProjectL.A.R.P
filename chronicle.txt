@@ -3128,3 +3128,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 6/54 — To infinity and beyond!
 [2026-11-10 20:38:20Z] roll=54 line 7/54 — You talking to me?
 [2026-11-10 20:38:20Z] roll=54 line 8/54 — The name's Bond. James Bond.
+[2026-11-10 20:38:20Z] roll=54 line 9/54 — Go ahead, make my day.
+[2026-11-10 20:38:20Z] roll=54 line 10/54 — Hadouken!
