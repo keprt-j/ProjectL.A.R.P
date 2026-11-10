@@ -3156,3 +3156,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 34/54 — I'll be back.
 [2026-11-10 20:38:20Z] roll=54 line 35/54 — Not all those who wander are lost.
 [2026-11-10 20:38:20Z] roll=54 line 36/54 — I'm the king of the world!
+[2026-11-10 20:38:20Z] roll=54 line 37/54 — Here's Johnny!
+[2026-11-10 20:38:20Z] roll=54 line 38/54 — In a hole in the ground there lived a hobbit.
