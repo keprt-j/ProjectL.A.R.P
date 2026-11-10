@@ -3138,3 +3138,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 16/54 — You can't handle the truth!
 [2026-11-10 20:38:20Z] roll=54 line 17/54 — Show me the money!
 [2026-11-10 20:38:20Z] roll=54 line 18/54 — You're gonna need a bigger boat.
+[2026-11-10 20:38:20Z] roll=54 line 19/54 — Winter is coming.
+[2026-11-10 20:38:20Z] roll=54 line 20/54 — This is the way.
