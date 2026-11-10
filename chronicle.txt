@@ -3170,3 +3170,5 @@ and our sacred Honor.
 [2026-11-10 20:38:20Z] roll=54 line 48/54 — To boldly go where no one has gone before.
 [2026-11-10 20:38:20Z] roll=54 line 49/54 — Carpe diem. Seize the day.
 [2026-11-10 20:38:20Z] roll=54 line 50/54 — Great Scott!
+[2026-11-10 20:38:20Z] roll=54 line 51/54 — All that is gold does not glitter.
+[2026-11-10 20:38:20Z] roll=54 line 52/54 — Say my name.
