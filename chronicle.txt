@@ -3187,3 +3187,5 @@ and our sacred Honor.
 [2026-11-11 20:58:10Z] roll=15 line 11/15 — Let us go on and take the adventure that shall fall to us.
 [2026-11-11 20:58:10Z] roll=15 line 12/15 — Live long and prosper.
 [2026-11-11 20:58:10Z] roll=15 line 13/15 — I feel the need—the need for speed!
+[2026-11-11 20:58:10Z] roll=15 line 14/15 — To infinity and beyond!
+[2026-11-11 20:58:10Z] roll=15 line 15/15 — That is so fetch.
