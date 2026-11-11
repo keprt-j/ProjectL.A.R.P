@@ -3183,3 +3183,5 @@ and our sacred Honor.
 [2026-11-11 20:58:10Z] roll=15 line 7/15 — My precious.
 [2026-11-11 20:58:10Z] roll=15 line 8/15 — Space: the final frontier.
 [2026-11-11 20:58:10Z] roll=15 line 9/15 — One does not simply walk into Mordor.
+[2026-11-11 20:58:10Z] roll=15 line 10/15 — I solemnly swear that I am up to no good.
+[2026-11-11 20:58:10Z] roll=15 line 11/15 — Let us go on and take the adventure that shall fall to us.
