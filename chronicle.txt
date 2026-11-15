@@ -3196,3 +3196,5 @@ and our sacred Honor.
 [2026-11-15 19:29:20Z] roll=6 line 2/6 — Pay no attention to that man behind the curtain.
 [2026-11-15 19:29:20Z] roll=6 line 3/6 — Elementary, my dear Watson.
 [2026-11-15 19:29:20Z] roll=6 line 4/6 — It's a-me, Mario!
+[2026-11-15 19:29:20Z] roll=6 line 5/6 — How you doin'?
+[2026-11-15 19:29:20Z] roll=6 line 6/6 — Hasta la vista, baby.
