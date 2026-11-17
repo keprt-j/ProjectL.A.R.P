@@ -3205,3 +3205,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 1/67 — There's no place like home.
 [2026-11-17 21:56:27Z] roll=67 line 2/67 — I feel the need—the need for speed!
 [2026-11-17 21:56:27Z] roll=67 line 3/67 — It's a-me, Mario!
+[2026-11-17 21:56:27Z] roll=67 line 4/67 — I'll have what she's having.
+[2026-11-17 21:56:27Z] roll=67 line 5/67 — Hasta la vista, baby.
