@@ -3211,3 +3211,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 7/67 — We were on a break!
 [2026-11-17 21:56:27Z] roll=67 line 8/67 — Show me the money!
 [2026-11-17 21:56:27Z] roll=67 line 9/67 — Say hello to my little friend!
+[2026-11-17 21:56:27Z] roll=67 line 10/67 — Avengers, assemble!
+[2026-11-17 21:56:27Z] roll=67 line 11/67 — Here's Johnny!
