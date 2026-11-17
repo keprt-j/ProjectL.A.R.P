@@ -3249,3 +3249,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 45/67 — I solemnly swear that I am up to no good.
 [2026-11-17 21:56:27Z] roll=67 line 46/67 — This is the way.
 [2026-11-17 21:56:27Z] roll=67 line 47/67 — I am the one who knocks.
+[2026-11-17 21:56:27Z] roll=67 line 48/67 — Keep your friends close, but your enemies closer.
+[2026-11-17 21:56:27Z] roll=67 line 49/67 — Do or do not. There is no try.
