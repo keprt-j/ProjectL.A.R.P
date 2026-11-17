@@ -3223,3 +3223,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 19/67 — Not all those who wander are lost.
 [2026-11-17 21:56:27Z] roll=67 line 20/67 — With great power comes great responsibility.
 [2026-11-17 21:56:27Z] roll=67 line 21/67 — I'll have what she's having.
+[2026-11-17 21:56:27Z] roll=67 line 22/67 — We rob banks.
+[2026-11-17 21:56:27Z] roll=67 line 23/67 — A man chooses. A slave obeys.
