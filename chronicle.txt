@@ -3229,3 +3229,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 25/67 — It's dangerous to go alone! Take this.
 [2026-11-17 21:56:27Z] roll=67 line 26/67 — There's a snake in my boots!
 [2026-11-17 21:56:27Z] roll=67 line 27/67 — The spice must flow.
+[2026-11-17 21:56:27Z] roll=67 line 28/67 — Avengers, assemble!
+[2026-11-17 21:56:27Z] roll=67 line 29/67 — Shaken, not stirred.
