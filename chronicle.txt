@@ -3215,3 +3215,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 11/67 — Here's Johnny!
 [2026-11-17 21:56:27Z] roll=67 line 12/67 — I am your father.
 [2026-11-17 21:56:27Z] roll=67 line 13/67 — All your base are belong to us.
+[2026-11-17 21:56:27Z] roll=67 line 14/67 — Make it so.
+[2026-11-17 21:56:27Z] roll=67 line 15/67 — Would you kindly?
