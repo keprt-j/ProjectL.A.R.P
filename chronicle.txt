@@ -3219,3 +3219,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 15/67 — Would you kindly?
 [2026-11-17 21:56:27Z] roll=67 line 16/67 — I used to be an adventurer like you. Then I took an arrow in the knee.
 [2026-11-17 21:56:27Z] roll=67 line 17/67 — I drink and I know things.
+[2026-11-17 21:56:27Z] roll=67 line 18/67 — Make it so.
+[2026-11-17 21:56:27Z] roll=67 line 19/67 — Not all those who wander are lost.
