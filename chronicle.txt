@@ -3237,3 +3237,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 33/67 — I solemnly swear that I am up to no good.
 [2026-11-17 21:56:27Z] roll=67 line 34/67 — It's alive! It's alive!
 [2026-11-17 21:56:27Z] roll=67 line 35/67 — You had me at hello.
+[2026-11-17 21:56:27Z] roll=67 line 36/67 — I drink and I know things.
+[2026-11-17 21:56:27Z] roll=67 line 37/67 — In a hole in the ground there lived a hobbit.
