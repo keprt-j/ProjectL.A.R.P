@@ -3221,3 +3221,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 17/67 — I drink and I know things.
 [2026-11-17 21:56:27Z] roll=67 line 18/67 — Make it so.
 [2026-11-17 21:56:27Z] roll=67 line 19/67 — Not all those who wander are lost.
+[2026-11-17 21:56:27Z] roll=67 line 20/67 — With great power comes great responsibility.
+[2026-11-17 21:56:27Z] roll=67 line 21/67 — I'll have what she's having.
