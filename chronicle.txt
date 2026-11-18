@@ -3283,3 +3283,5 @@ and our sacred Honor.
 [2026-11-18 21:38:50Z] roll=20 line 12/20 — May the Force be with you.
 [2026-11-18 21:38:50Z] roll=20 line 13/20 — Houston, we have a problem.
 [2026-11-18 21:38:50Z] roll=20 line 14/20 — After all, tomorrow is another day!
+[2026-11-18 21:38:50Z] roll=20 line 15/20 — The cake is a lie.
+[2026-11-18 21:38:50Z] roll=20 line 16/20 — Here's looking at you, kid.
