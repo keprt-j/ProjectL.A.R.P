@@ -3287,3 +3287,5 @@ and our sacred Honor.
 [2026-11-18 21:38:50Z] roll=20 line 16/20 — Here's looking at you, kid.
 [2026-11-18 21:38:50Z] roll=20 line 17/20 — All your base are belong to us.
 [2026-11-18 21:38:50Z] roll=20 line 18/20 — Do or do not. There is no try.
+[2026-11-18 21:38:50Z] roll=20 line 19/20 — Not all those who wander are lost.
+[2026-11-18 21:38:50Z] roll=20 line 20/20 — Keep your friends close, but your enemies closer.
