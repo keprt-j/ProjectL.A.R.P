@@ -3271,3 +3271,5 @@ and our sacred Honor.
 [2026-11-17 21:56:27Z] roll=67 line 67/67 — Say my name.
 [2026-11-18 21:38:50Z] roll=20 line 1/20 — Bazinga!
 [2026-11-18 21:38:50Z] roll=20 line 2/20 — How you doin'?
+[2026-11-18 21:38:50Z] roll=20 line 3/20 — Do or do not. There is no try.
+[2026-11-18 21:38:50Z] roll=20 line 4/20 — How you doin'?
