@@ -3275,3 +3275,5 @@ and our sacred Honor.
 [2026-11-18 21:38:50Z] roll=20 line 4/20 — How you doin'?
 [2026-11-18 21:38:50Z] roll=20 line 5/20 — To infinity and beyond!
 [2026-11-18 21:38:50Z] roll=20 line 6/20 — Excelsior!
+[2026-11-18 21:38:50Z] roll=20 line 7/20 — You can't handle the truth!
+[2026-11-18 21:38:50Z] roll=20 line 8/20 — Make it so.
