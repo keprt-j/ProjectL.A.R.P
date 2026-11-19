@@ -3333,3 +3333,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 42/46 — Finish him!
 [2026-11-19 21:53:44Z] roll=46 line 43/46 — Valar morghulis.
 [2026-11-19 21:53:44Z] roll=46 line 44/46 — You died.
+[2026-11-19 21:53:44Z] roll=46 line 45/46 — We didn't know we were making memories, we just knew we were having fun.
+[2026-11-19 21:53:44Z] roll=46 line 46/46 — After all, tomorrow is another day!
