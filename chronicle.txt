@@ -3297,3 +3297,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 6/46 — Call me Ishmael.
 [2026-11-19 21:53:44Z] roll=46 line 7/46 — Elementary, my dear Watson.
 [2026-11-19 21:53:44Z] roll=46 line 8/46 — To boldly go where no one has gone before.
+[2026-11-19 21:53:44Z] roll=46 line 9/46 — One does not simply walk into Mordor.
+[2026-11-19 21:53:44Z] roll=46 line 10/46 — Keep your friends close, but your enemies closer.
