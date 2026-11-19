@@ -3315,3 +3315,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 24/46 — There's no place like home.
 [2026-11-19 21:53:44Z] roll=46 line 25/46 — Not all those who wander are lost.
 [2026-11-19 21:53:44Z] roll=46 line 26/46 — Call me Ishmael.
+[2026-11-19 21:53:44Z] roll=46 line 27/46 — I feel the need—the need for speed!
+[2026-11-19 21:53:44Z] roll=46 line 28/46 — The spice must flow.
