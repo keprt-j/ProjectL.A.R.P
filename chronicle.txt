@@ -3293,3 +3293,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 2/46 — Shaken, not stirred.
 [2026-11-19 21:53:44Z] roll=46 line 3/46 — May the Force be with you.
 [2026-11-19 21:53:44Z] roll=46 line 4/46 — How you doin'?
+[2026-11-19 21:53:44Z] roll=46 line 5/46 — I am your father.
+[2026-11-19 21:53:44Z] roll=46 line 6/46 — Call me Ishmael.
