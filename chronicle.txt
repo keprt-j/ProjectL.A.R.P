@@ -3299,3 +3299,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 8/46 — To boldly go where no one has gone before.
 [2026-11-19 21:53:44Z] roll=46 line 9/46 — One does not simply walk into Mordor.
 [2026-11-19 21:53:44Z] roll=46 line 10/46 — Keep your friends close, but your enemies closer.
+[2026-11-19 21:53:44Z] roll=46 line 11/46 — A man chooses. A slave obeys.
+[2026-11-19 21:53:44Z] roll=46 line 12/46 — Life is like a box of chocolates.
