@@ -3329,3 +3329,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 38/46 — Excelsior!
 [2026-11-19 21:53:44Z] roll=46 line 39/46 — Valar morghulis.
 [2026-11-19 21:53:44Z] roll=46 line 40/46 — Keep your friends close, but your enemies closer.
+[2026-11-19 21:53:44Z] roll=46 line 41/46 — Let us go on and take the adventure that shall fall to us.
+[2026-11-19 21:53:44Z] roll=46 line 42/46 — Finish him!
