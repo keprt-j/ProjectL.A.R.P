@@ -3325,3 +3325,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 34/46 — I'm the king of the world!
 [2026-11-19 21:53:44Z] roll=46 line 35/46 — Carpe diem. Seize the day.
 [2026-11-19 21:53:44Z] roll=46 line 36/46 — Avengers, assemble!
+[2026-11-19 21:53:44Z] roll=46 line 37/46 — You're gonna need a bigger boat.
+[2026-11-19 21:53:44Z] roll=46 line 38/46 — Excelsior!
