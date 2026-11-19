@@ -3289,3 +3289,5 @@ and our sacred Honor.
 [2026-11-18 21:38:50Z] roll=20 line 18/20 — Do or do not. There is no try.
 [2026-11-18 21:38:50Z] roll=20 line 19/20 — Not all those who wander are lost.
 [2026-11-18 21:38:50Z] roll=20 line 20/20 — Keep your friends close, but your enemies closer.
+[2026-11-19 21:53:44Z] roll=46 line 1/46 — I am Iron Man.
+[2026-11-19 21:53:44Z] roll=46 line 2/46 — Shaken, not stirred.
