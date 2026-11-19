@@ -3311,3 +3311,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 20/46 — Here's looking at you, kid.
 [2026-11-19 21:53:44Z] roll=46 line 21/46 — On Wednesdays we wear pink.
 [2026-11-19 21:53:44Z] roll=46 line 22/46 — I'll have what she's having.
+[2026-11-19 21:53:44Z] roll=46 line 23/46 — Praise the Sun!
+[2026-11-19 21:53:44Z] roll=46 line 24/46 — There's no place like home.
