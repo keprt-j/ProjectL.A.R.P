@@ -3343,3 +3343,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 6/42 — Get to the chopper!
 [2026-11-20 21:35:51Z] roll=42 line 7/42 — That's what she said.
 [2026-11-20 21:35:51Z] roll=42 line 8/42 — One does not simply walk into Mordor.
+[2026-11-20 21:35:51Z] roll=42 line 9/42 — Bazinga!
+[2026-11-20 21:35:51Z] roll=42 line 10/42 — Hadouken!
