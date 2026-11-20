@@ -3355,3 +3355,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 18/42 — Make it so.
 [2026-11-20 21:35:51Z] roll=42 line 19/42 — Here's Johnny!
 [2026-11-20 21:35:51Z] roll=42 line 20/42 — My precious.
+[2026-11-20 21:35:51Z] roll=42 line 21/42 — Shaken, not stirred.
+[2026-11-20 21:35:51Z] roll=42 line 22/42 — Elementary, my dear Watson.
