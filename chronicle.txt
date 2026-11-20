@@ -3351,3 +3351,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 14/42 — Praise the Sun!
 [2026-11-20 21:35:51Z] roll=42 line 15/42 — Snakes. Why did it have to be snakes?
 [2026-11-20 21:35:51Z] roll=42 line 16/42 — Elementary, my dear Watson.
+[2026-11-20 21:35:51Z] roll=42 line 17/42 — This is the way.
+[2026-11-20 21:35:51Z] roll=42 line 18/42 — Make it so.
