@@ -3345,3 +3345,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 8/42 — One does not simply walk into Mordor.
 [2026-11-20 21:35:51Z] roll=42 line 9/42 — Bazinga!
 [2026-11-20 21:35:51Z] roll=42 line 10/42 — Hadouken!
+[2026-11-20 21:35:51Z] roll=42 line 11/42 — Engage.
+[2026-11-20 21:35:51Z] roll=42 line 12/42 — May the Force be with you.
