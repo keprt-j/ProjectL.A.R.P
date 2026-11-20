@@ -3365,3 +3365,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 28/42 — Engage.
 [2026-11-20 21:35:51Z] roll=42 line 29/42 — A man chooses. A slave obeys.
 [2026-11-20 21:35:51Z] roll=42 line 30/42 — Do a barrel roll!
+[2026-11-20 21:35:51Z] roll=42 line 31/42 — Show me the money!
+[2026-11-20 21:35:51Z] roll=42 line 32/42 — My precious.
