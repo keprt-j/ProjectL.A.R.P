@@ -3361,3 +3361,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 24/42 — I am the one who knocks.
 [2026-11-20 21:35:51Z] roll=42 line 25/42 — On Wednesdays we wear pink.
 [2026-11-20 21:35:51Z] roll=42 line 26/42 — The spice must flow.
+[2026-11-20 21:35:51Z] roll=42 line 27/42 — It was the best of times, it was the worst of times.
+[2026-11-20 21:35:51Z] roll=42 line 28/42 — Engage.
