@@ -3349,3 +3349,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 12/42 — May the Force be with you.
 [2026-11-20 21:35:51Z] roll=42 line 13/42 — Excelsior!
 [2026-11-20 21:35:51Z] roll=42 line 14/42 — Praise the Sun!
+[2026-11-20 21:35:51Z] roll=42 line 15/42 — Snakes. Why did it have to be snakes?
+[2026-11-20 21:35:51Z] roll=42 line 16/42 — Elementary, my dear Watson.
