@@ -3337,3 +3337,5 @@ and our sacred Honor.
 [2026-11-19 21:53:44Z] roll=46 line 46/46 — After all, tomorrow is another day!
 [2026-11-20 21:35:51Z] roll=42 line 1/42 — The spice must flow.
 [2026-11-20 21:35:51Z] roll=42 line 2/42 — Live long and prosper.
+[2026-11-20 21:35:51Z] roll=42 line 3/42 — My precious.
+[2026-11-20 21:35:51Z] roll=42 line 4/42 — I am the one who knocks.
