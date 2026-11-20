@@ -3363,3 +3363,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 26/42 — The spice must flow.
 [2026-11-20 21:35:51Z] roll=42 line 27/42 — It was the best of times, it was the worst of times.
 [2026-11-20 21:35:51Z] roll=42 line 28/42 — Engage.
+[2026-11-20 21:35:51Z] roll=42 line 29/42 — A man chooses. A slave obeys.
+[2026-11-20 21:35:51Z] roll=42 line 30/42 — Do a barrel roll!
