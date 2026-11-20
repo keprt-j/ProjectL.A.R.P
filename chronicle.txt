@@ -3357,3 +3357,5 @@ and our sacred Honor.
 [2026-11-20 21:35:51Z] roll=42 line 20/42 — My precious.
 [2026-11-20 21:35:51Z] roll=42 line 21/42 — Shaken, not stirred.
 [2026-11-20 21:35:51Z] roll=42 line 22/42 — Elementary, my dear Watson.
+[2026-11-20 21:35:51Z] roll=42 line 23/42 — I solemnly swear that I am up to no good.
+[2026-11-20 21:35:51Z] roll=42 line 24/42 — I am the one who knocks.
