@@ -3381,3 +3381,5 @@ and our sacred Honor.
 [2026-11-21 20:17:11Z] roll=8 line 2/8 — It's alive! It's alive!
 [2026-11-21 20:17:11Z] roll=8 line 3/8 — There's no place like home.
 [2026-11-21 20:17:11Z] roll=8 line 4/8 — Frankly, my dear, I don't give a damn.
+[2026-11-21 20:17:11Z] roll=8 line 5/8 — There's a snake in my boots!
+[2026-11-21 20:17:11Z] roll=8 line 6/8 — Here's looking at you, kid.
