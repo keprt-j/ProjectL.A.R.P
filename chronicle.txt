@@ -3383,3 +3383,5 @@ and our sacred Honor.
 [2026-11-21 20:17:11Z] roll=8 line 4/8 — Frankly, my dear, I don't give a damn.
 [2026-11-21 20:17:11Z] roll=8 line 5/8 — There's a snake in my boots!
 [2026-11-21 20:17:11Z] roll=8 line 6/8 — Here's looking at you, kid.
+[2026-11-21 20:17:11Z] roll=8 line 7/8 — Call me Ishmael.
+[2026-11-21 20:17:11Z] roll=8 line 8/8 — Do or do not. There is no try.
