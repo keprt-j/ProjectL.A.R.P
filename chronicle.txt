@@ -3426,3 +3426,5 @@ and our sacred Honor.
 [2026-11-24 01:18:39Z] roll=56 line 34/56 — How you doin'?
 [2026-11-24 01:18:39Z] roll=56 line 35/56 — I drink and I know things.
 [2026-11-24 01:18:39Z] roll=56 line 36/56 — I'm the king of the world!
+[2026-11-24 01:18:39Z] roll=56 line 37/56 — There's no place like home.
+[2026-11-24 01:18:39Z] roll=56 line 38/56 — Make it so.
