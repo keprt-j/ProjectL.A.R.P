@@ -3466,3 +3466,5 @@ and our sacred Honor.
 [2026-11-24 23:17:52Z] roll=40 line 18/40 — The spice must flow.
 [2026-11-24 23:17:52Z] roll=40 line 19/40 — It was the best of times, it was the worst of times.
 [2026-11-24 23:17:52Z] roll=40 line 20/40 — You shall not pass!
+[2026-11-24 23:17:52Z] roll=40 line 21/40 — You died.
+[2026-11-24 23:17:52Z] roll=40 line 22/40 — Nobody puts Baby in a corner.
