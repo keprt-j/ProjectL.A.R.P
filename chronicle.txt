@@ -3406,3 +3406,5 @@ and our sacred Honor.
 [2026-11-24 01:18:39Z] roll=56 line 14/56 — The cake is a lie.
 [2026-11-24 01:18:39Z] roll=56 line 15/56 — Nobody puts Baby in a corner.
 [2026-11-24 01:18:39Z] roll=56 line 16/56 — Great Scott!
+[2026-11-24 01:18:39Z] roll=56 line 17/56 — It's a-me, Mario!
+[2026-11-24 01:18:39Z] roll=56 line 18/56 — One does not simply walk into Mordor.
