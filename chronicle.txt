@@ -3400,3 +3400,5 @@ and our sacred Honor.
 [2026-11-24 01:18:39Z] roll=56 line 8/56 — You had me at hello.
 [2026-11-24 01:18:39Z] roll=56 line 9/56 — It's alive! It's alive!
 [2026-11-24 01:18:39Z] roll=56 line 10/56 — Engage.
+[2026-11-24 01:18:39Z] roll=56 line 11/56 — You're gonna need a bigger boat.
+[2026-11-24 01:18:39Z] roll=56 line 12/56 — The name's Bond. James Bond.
