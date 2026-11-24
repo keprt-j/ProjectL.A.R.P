@@ -3482,3 +3482,5 @@ and our sacred Honor.
 [2026-11-24 23:17:52Z] roll=40 line 34/40 — You shall not pass!
 [2026-11-24 23:17:52Z] roll=40 line 35/40 — The truth is out there.
 [2026-11-24 23:17:52Z] roll=40 line 36/40 — It's a-me, Mario!
+[2026-11-24 23:17:52Z] roll=40 line 37/40 — You shall not pass!
+[2026-11-24 23:17:52Z] roll=40 line 38/40 — Finish him!
