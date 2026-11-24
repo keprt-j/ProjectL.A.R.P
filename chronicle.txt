@@ -3478,3 +3478,5 @@ and our sacred Honor.
 [2026-11-24 23:17:52Z] roll=40 line 30/40 — We were on a break!
 [2026-11-24 23:17:52Z] roll=40 line 31/40 — I want to believe.
 [2026-11-24 23:17:52Z] roll=40 line 32/40 — Do a barrel roll!
+[2026-11-24 23:17:52Z] roll=40 line 33/40 — Toto, I've a feeling we're not in Kansas anymore.
+[2026-11-24 23:17:52Z] roll=40 line 34/40 — You shall not pass!
