@@ -3470,3 +3470,5 @@ and our sacred Honor.
 [2026-11-24 23:17:52Z] roll=40 line 22/40 — Nobody puts Baby in a corner.
 [2026-11-24 23:17:52Z] roll=40 line 23/40 — Call me Ishmael.
 [2026-11-24 23:17:52Z] roll=40 line 24/40 — That's what she said.
+[2026-11-24 23:17:52Z] roll=40 line 25/40 — Here's Johnny!
+[2026-11-24 23:17:52Z] roll=40 line 26/40 — Finish him!
