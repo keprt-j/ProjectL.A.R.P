@@ -3462,3 +3462,5 @@ and our sacred Honor.
 [2026-11-24 23:17:52Z] roll=40 line 14/40 — I drink your milkshake!
 [2026-11-24 23:17:52Z] roll=40 line 15/40 — Praise the Sun!
 [2026-11-24 23:17:52Z] roll=40 line 16/40 — I'm going to make him an offer he can't refuse.
+[2026-11-24 23:17:52Z] roll=40 line 17/40 — Elementary, my dear Watson.
+[2026-11-24 23:17:52Z] roll=40 line 18/40 — The spice must flow.
