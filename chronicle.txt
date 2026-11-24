@@ -3396,3 +3396,5 @@ and our sacred Honor.
 [2026-11-24 01:18:39Z] roll=56 line 4/56 — The spice must flow.
 [2026-11-24 01:18:39Z] roll=56 line 5/56 — I solemnly swear that I am up to no good.
 [2026-11-24 01:18:39Z] roll=56 line 6/56 — Just keep swimming.
+[2026-11-24 01:18:39Z] roll=56 line 7/56 — Winter is coming.
+[2026-11-24 01:18:39Z] roll=56 line 8/56 — You had me at hello.
