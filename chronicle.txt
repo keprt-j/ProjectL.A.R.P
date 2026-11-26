@@ -3513,3 +3513,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 24/38 — Roads? Where we're going, we don't need roads.
 [2026-11-26 22:39:58Z] roll=38 line 25/38 — Make it so.
 [2026-11-26 22:39:58Z] roll=38 line 26/38 — After all, tomorrow is another day!
+[2026-11-26 22:39:58Z] roll=38 line 27/38 — With great power comes great responsibility.
+[2026-11-26 22:39:58Z] roll=38 line 28/38 — Not all those who wander are lost.
