@@ -3523,3 +3523,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 34/38 — Clear eyes, full hearts, can't lose.
 [2026-11-26 22:39:58Z] roll=38 line 35/38 — It's dangerous to go alone! Take this.
 [2026-11-26 22:39:58Z] roll=38 line 36/38 — To boldly go where no one has gone before.
+[2026-11-26 22:39:58Z] roll=38 line 37/38 — Snakes. Why did it have to be snakes?
+[2026-11-26 22:39:58Z] roll=38 line 38/38 — Engage.
