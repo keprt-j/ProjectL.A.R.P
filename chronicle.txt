@@ -3509,3 +3509,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 20/38 — Here's looking at you, kid.
 [2026-11-26 22:39:58Z] roll=38 line 21/38 — The first rule of Fight Club is: you do not talk about Fight Club.
 [2026-11-26 22:39:58Z] roll=38 line 22/38 — Nothing is true, everything is permitted.
+[2026-11-26 22:39:58Z] roll=38 line 23/38 — That's what she said.
+[2026-11-26 22:39:58Z] roll=38 line 24/38 — Roads? Where we're going, we don't need roads.
