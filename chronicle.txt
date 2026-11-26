@@ -3517,3 +3517,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 28/38 — Not all those who wander are lost.
 [2026-11-26 22:39:58Z] roll=38 line 29/38 — It's a-me, Mario!
 [2026-11-26 22:39:58Z] roll=38 line 30/38 — I drink and I know things.
+[2026-11-26 22:39:58Z] roll=38 line 31/38 — You had me at hello.
+[2026-11-26 22:39:58Z] roll=38 line 32/38 — Houston, we have a problem.
