@@ -3491,3 +3491,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 2/38 — Get to the chopper!
 [2026-11-26 22:39:58Z] roll=38 line 3/38 — The spice must flow.
 [2026-11-26 22:39:58Z] roll=38 line 4/38 — Nobody puts Baby in a corner.
+[2026-11-26 22:39:58Z] roll=38 line 5/38 — Fear is the mind-killer.
+[2026-11-26 22:39:58Z] roll=38 line 6/38 — I'll have what she's having.
