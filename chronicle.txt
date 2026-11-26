@@ -3497,3 +3497,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 8/38 — You had me at hello.
 [2026-11-26 22:39:58Z] roll=38 line 9/38 — It was the best of times, it was the worst of times.
 [2026-11-26 22:39:58Z] roll=38 line 10/38 — I can do this all day.
+[2026-11-26 22:39:58Z] roll=38 line 11/38 — It's alive! It's alive!
+[2026-11-26 22:39:58Z] roll=38 line 12/38 — Excelsior!
