@@ -3511,3 +3511,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 22/38 — Nothing is true, everything is permitted.
 [2026-11-26 22:39:58Z] roll=38 line 23/38 — That's what she said.
 [2026-11-26 22:39:58Z] roll=38 line 24/38 — Roads? Where we're going, we don't need roads.
+[2026-11-26 22:39:58Z] roll=38 line 25/38 — Make it so.
+[2026-11-26 22:39:58Z] roll=38 line 26/38 — After all, tomorrow is another day!
