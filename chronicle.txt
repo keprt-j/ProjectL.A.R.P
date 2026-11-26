@@ -3495,3 +3495,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 6/38 — I'll have what she's having.
 [2026-11-26 22:39:58Z] roll=38 line 7/38 — There's a snake in my boots!
 [2026-11-26 22:39:58Z] roll=38 line 8/38 — You had me at hello.
+[2026-11-26 22:39:58Z] roll=38 line 9/38 — It was the best of times, it was the worst of times.
+[2026-11-26 22:39:58Z] roll=38 line 10/38 — I can do this all day.
