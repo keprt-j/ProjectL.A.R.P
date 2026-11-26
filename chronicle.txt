@@ -3521,3 +3521,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 32/38 — Houston, we have a problem.
 [2026-11-26 22:39:58Z] roll=38 line 33/38 — All that is gold does not glitter.
 [2026-11-26 22:39:58Z] roll=38 line 34/38 — Clear eyes, full hearts, can't lose.
+[2026-11-26 22:39:58Z] roll=38 line 35/38 — It's dangerous to go alone! Take this.
+[2026-11-26 22:39:58Z] roll=38 line 36/38 — To boldly go where no one has gone before.
