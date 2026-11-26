@@ -3505,3 +3505,5 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 16/38 — It's alive! It's alive!
 [2026-11-26 22:39:58Z] roll=38 line 17/38 — I see dead people.
 [2026-11-26 22:39:58Z] roll=38 line 18/38 — That is so fetch.
+[2026-11-26 22:39:58Z] roll=38 line 19/38 — Not all those who wander are lost.
+[2026-11-26 22:39:58Z] roll=38 line 20/38 — Here's looking at you, kid.
