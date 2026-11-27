@@ -3525,3 +3525,6 @@ and our sacred Honor.
 [2026-11-26 22:39:58Z] roll=38 line 36/38 — To boldly go where no one has gone before.
 [2026-11-26 22:39:58Z] roll=38 line 37/38 — Snakes. Why did it have to be snakes?
 [2026-11-26 22:39:58Z] roll=38 line 38/38 — Engage.
+[2026-11-27 22:23:55Z] roll=31 line 1/31 — Go ahead, make my day.
+[2026-11-27 22:23:55Z] roll=31 line 2/31 — Praise the Sun!
+[2026-11-27 22:23:55Z] roll=31 line 3/31 — Resistance is futile.
