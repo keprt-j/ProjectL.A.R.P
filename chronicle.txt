@@ -3544,3 +3544,5 @@ and our sacred Honor.
 [2026-11-27 22:23:55Z] roll=31 line 17/31 — I solemnly swear that I am up to no good.
 [2026-11-27 22:23:55Z] roll=31 line 18/31 — You're gonna need a bigger boat.
 [2026-11-27 22:23:55Z] roll=31 line 19/31 — You shall not pass!
+[2026-11-27 22:23:55Z] roll=31 line 20/31 — Just keep swimming.
+[2026-11-27 22:23:55Z] roll=31 line 21/31 — Not all those who wander are lost.
