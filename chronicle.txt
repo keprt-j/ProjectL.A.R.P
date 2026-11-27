@@ -3548,3 +3548,5 @@ and our sacred Honor.
 [2026-11-27 22:23:55Z] roll=31 line 21/31 — Not all those who wander are lost.
 [2026-11-27 22:23:55Z] roll=31 line 22/31 — Space: the final frontier.
 [2026-11-27 22:23:55Z] roll=31 line 23/31 — I solemnly swear that I am up to no good.
+[2026-11-27 22:23:55Z] roll=31 line 24/31 — Houston, we have a problem.
+[2026-11-27 22:23:55Z] roll=31 line 25/31 — We were on a break!
