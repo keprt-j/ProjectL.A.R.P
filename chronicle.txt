@@ -3538,3 +3538,5 @@ and our sacred Honor.
 [2026-11-27 22:23:55Z] roll=31 line 11/31 — It's alive! It's alive!
 [2026-11-27 22:23:55Z] roll=31 line 12/31 — War. War never changes.
 [2026-11-27 22:23:55Z] roll=31 line 13/31 — The truth is out there.
+[2026-11-27 22:23:55Z] roll=31 line 14/31 — Say my name.
+[2026-11-27 22:23:55Z] roll=31 line 15/31 — I'm the king of the world!
