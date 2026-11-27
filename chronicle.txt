@@ -3540,3 +3540,5 @@ and our sacred Honor.
 [2026-11-27 22:23:55Z] roll=31 line 13/31 — The truth is out there.
 [2026-11-27 22:23:55Z] roll=31 line 14/31 — Say my name.
 [2026-11-27 22:23:55Z] roll=31 line 15/31 — I'm the king of the world!
+[2026-11-27 22:23:55Z] roll=31 line 16/31 — I want to believe.
+[2026-11-27 22:23:55Z] roll=31 line 17/31 — I solemnly swear that I am up to no good.
